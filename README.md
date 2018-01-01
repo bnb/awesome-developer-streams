@@ -28,5 +28,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 ## Table of Contents
 - []()
 
-## Developers That Stream
-- BE THE FIRST!
+Developers That Stream
+======================
+
+### Suz Hinton
+#### What Suz Streams
+- IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/noopkat)
+#### Links:
+- [Twitter](https://twitter.com/noopkat)
+- [GitHub](https://github.com/noopkat)
+- [Website](http://noopkat.com/)
+- [Newsletter](https://tinyletter.com/noopkat)
