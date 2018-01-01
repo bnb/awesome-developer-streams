@@ -29,4 +29,13 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - []()
 
 ## Developers That Stream
-- BE THE FIRST!
+
+### Feross Aboukhadijeh 
+#### What Feross Streams
+- JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ferossity)
+#### Links:
+- [Twitter](https://twitter.com/feross)
+- [GitHub](https://github.com/feross)
+- [Website](https://feross.org/)
