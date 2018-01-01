@@ -9,9 +9,19 @@ If you'd like to add a dev streamer to `awesome-developer-streams`, be sure to r
 
 Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com/bitandbang) on Twitter to say *hi*! 👋
 
-<!-- AWESOME ITEM TEMPLATE --
+<!-- AWESOME DEVELOPER STREAM TEMPLATE --
 
-* LEFT BLANK UNTIL DEFINED
+**NOTE** You can add as many platforms to "Streaming on" and as many links to "Links" as you'd like - either for yourself or for whoever you're PRing in.
+
+### Streamer Name OR Prefered Handle
+#### What (Name || Pref Handle) Streams
+- IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
+#### Streaming on:
+- [Twitch]()
+#### Links:
+- [Twitter]()
+- [GitHub]()
+- [Website]()
 
 -- /AWESOME ITEM TEMPLATE -->
 
