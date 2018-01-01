@@ -39,3 +39,4 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/feross)
 - [GitHub](https://github.com/feross)
 - [Website](https://feross.org/)
+- [Patreon](https://www.patreon.com/feross)
