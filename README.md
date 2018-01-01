@@ -29,4 +29,14 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - []()
 
 ## Developers That Stream
-- BE THE FIRST!
+
+### Thorsten Lorenz
+#### What Thorsten Streams
+- Node.js, Module Development, Developer Tooling, Web Development, JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/thlorenz)
+#### Links:
+- [Twitter](https://twitter.com/thlorenz)
+- [GitHub](https://github.com/thlorenz)
+- [Website](http://thlorenz.com/)
+- [Patreon](https://www.patreon.com/thlorenz)
