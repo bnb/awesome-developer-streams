@@ -28,8 +28,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 ## Table of Contents
 - []()
 
-Developers That Stream
-======================
+## Developers That Stream
 
 ### Suz Hinton
 #### What Suz Streams
@@ -41,3 +40,14 @@ Developers That Stream
 - [GitHub](https://github.com/noopkat)
 - [Website](http://noopkat.com/)
 - [Newsletter](https://tinyletter.com/noopkat)
+
+### Feross Aboukhadijeh 
+#### What Feross Streams
+- JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ferossity)
+#### Links:
+- [Twitter](https://twitter.com/feross)
+- [GitHub](https://github.com/feross)
+- [Website](https://feross.org/)
+- [Patreon](https://www.patreon.com/feross)
