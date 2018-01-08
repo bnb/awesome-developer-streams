@@ -30,6 +30,29 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ## Developers That Stream
 
+
+### Suz Hinton
+#### What Suz Streams
+- IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/noopkat)
+#### Links:
+- [Twitter](https://twitter.com/noopkat)
+- [GitHub](https://github.com/noopkat)
+- [Website](http://noopkat.com/)
+- [Newsletter](https://tinyletter.com/noopkat)
+
+### Feross Aboukhadijeh 
+#### What Feross Streams
+- JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ferossity)
+#### Links:
+- [Twitter](https://twitter.com/feross)
+- [GitHub](https://github.com/feross)
+- [Website](https://feross.org/)
+- [Patreon](https://www.patreon.com/feross)
+
 ### Thorsten Lorenz
 #### What Thorsten Streams
 - Node.js, Module Development, Developer Tooling, Web Development, JavaScript
@@ -40,3 +63,4 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/thlorenz)
 - [Website](http://thlorenz.com/)
 - [Patreon](https://www.patreon.com/thlorenz)
+
