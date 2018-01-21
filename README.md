@@ -78,3 +78,11 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [#ShirleyChats](https://twitter.com/hashtag/ShirleyChats)
 - [Website](http://sxywu.com/)
 
+### Sean Larkin
+#### What Sean Streams
+- Webpack, OSS, JavaScript, Gaming
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/thelarkinn)
+#### Links:
+- [Twitter](https://twitter.com/TheLarkInn)
+- [GitHub](https://github.com/TheLarkInn)
