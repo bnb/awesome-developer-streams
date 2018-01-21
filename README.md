@@ -65,3 +65,15 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Website](http://thlorenz.com/)
 - [Patreon](https://www.patreon.com/thlorenz)
 
+### Shirley Wu
+#### What Shirley Streams
+- Data Visualisation (DataViz), JavaScript, React
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/sxywu)
+#### Links:
+- [Twitter](https://twitter.com/sxywu)
+- [Medium](https://medium.com/@sxywu)
+- [YouTube](https://www.youtube.com/user/sxywu)
+- [#ShirleyChats](https://twitter.com/hashtag/ShirleyChats)
+- [Website](http://sxywu.com/)
+
