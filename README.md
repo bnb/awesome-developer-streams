@@ -72,5 +72,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### Links:
 - [Twitter](https://twitter.com/sxywu)
 - [Medium](https://medium.com/@sxywu)
+- [YouTube](https://www.youtube.com/user/sxywu)
+- [#ShirleyChats](https://twitter.com/hashtag/ShirleyChats)
 - [Website](http://sxywu.com/)
 
