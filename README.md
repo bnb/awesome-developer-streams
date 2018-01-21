@@ -26,10 +26,11 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 -- /AWESOME ITEM TEMPLATE -->
 
 ## Table of Contents
-- []()
+- [Suz Hinton](#suz-hinton)
+- [Feross Aboukhadijeh](#feross-aboukhadijeh)
+- [Thorsten Lorenz](#thorsten-lorenz)
 
 ## Developers That Stream
-
 
 ### Suz Hinton
 #### What Suz Streams
