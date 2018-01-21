@@ -64,3 +64,13 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Website](http://thlorenz.com/)
 - [Patreon](https://www.patreon.com/thlorenz)
 
+### Amorelandra
+#### What Amorelandra Streams
+- Twitch Extension Development, IRL, JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/Amorelandra)
+#### Links:
+- [Twitter](https://twitter.com/Amorelandra)
+- [GitHub](https://github.com/Amorelandra)
+- [Blog](https://amorelandra.com/blog/)
+- [Website](https://amorelandra.com/)
