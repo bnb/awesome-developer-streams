@@ -80,7 +80,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ### Kyle Shevlin
 #### What Kyle Streams
-- React, JavaScript, Web Development
+- React, JavaScript, Functional Programming, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/kyleshevlin)
 #### Links:
