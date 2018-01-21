@@ -65,3 +65,11 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Website](http://thlorenz.com/)
 - [Patreon](https://www.patreon.com/thlorenz)
 
+### Yosh
+#### What Yosh Streams
+- OSS maintenance, Tooling Development, JavaScript, Node.js, Choo
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/yoshuawuyts)
+#### Links:
+- [Twitter](https://twitter.com/yoshuawuyts)
+- [GitHub](https://github.com/yoshuawuyts)
