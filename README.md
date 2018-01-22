@@ -134,3 +134,14 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/scanlime)
 - [Website](http://scanlime.org)
 - [Patreon](https://www.patreon.com/scanlime)
+
+### Russell Hay
+#### What Russell Streams
+- Rust, Functional Programming, Hardware, Generative Art
+#### Streaming on:
+- [Twitch](https://twitch.tv/stainlessio)
+#### Links:
+- [Twitter](https://twitter.com/pkstainless)
+- [GitHub](https://github.com/RussTheAerialist)
+- [Website](https://russellhay.com)
+- [Rust Blog](https://stainless.io)
