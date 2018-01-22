@@ -34,6 +34,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Kyle Shevlin](#kyle-shevlin)
 - [Brian Clark](#brian-clark)
 - [Yosh](#yosh)
+- [Micah Elizabeth Scott](#micah-elizabeth-scott)
 
 ## Developers That Stream
 
@@ -121,6 +122,29 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### Links:
 - [Twitter](https://twitter.com/yoshuawuyts)
 - [GitHub](https://github.com/yoshuawuyts)
+
+### Micah Elizabeth Scott (scanlime)
+#### What Micah Streams
+- Reverse Engineering, Rust, C++, Hardware
+#### Streaming on:
+- [YouTube](https://www.youtube.com/user/micahjd)
+- [Twitch](https://twitch.tv/scanlime)
+#### Links:
+- [Twitter](https://twitter.com/scanlime)
+- [GitHub](https://github.com/scanlime)
+- [Website](http://scanlime.org)
+- [Patreon](https://www.patreon.com/scanlime)
+
+### Russell Hay
+#### What Russell Streams
+- Rust, Functional Programming, Hardware, Generative Art
+#### Streaming on:
+- [Twitch](https://twitch.tv/stainlessio)
+#### Links:
+- [Twitter](https://twitter.com/pkstainless)
+- [GitHub](https://github.com/RussTheAerialist)
+- [Website](https://russellhay.com)
+- [Rust Blog](https://stainless.io)
 
 ### Collin Henderson
 #### What Collin Streams
