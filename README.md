@@ -121,3 +121,13 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### Links:
 - [Twitter](https://twitter.com/yoshuawuyts)
 - [GitHub](https://github.com/yoshuawuyts)
+
+### Collin Henderson
+#### What Collin Streams
+- JavaScript, PHP, Laravel, Vue.js
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/syropian)
+#### Links:
+- [Twitter](https://twitter.com/syropian)
+- [GitHub](https://github.com/syropian)
+- [Website](https://syropia.net/)
