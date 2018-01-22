@@ -121,3 +121,14 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### Links:
 - [Twitter](https://twitter.com/yoshuawuyts)
 - [GitHub](https://github.com/yoshuawuyts)
+
+### Russell Hay
+#### What Russell Streams
+- Rust, Functional Programming, Hardware, Generative Art
+#### Streaming on:
+- [Twitch](https://twitch.tv/stainlessio)
+#### Links:
+- [Twitter](https://twitter.com/pkstainless)
+- [GitHub](https://github.com/RussTheAerialist)
+- [Website](https://russellhay.com)
+- [Rust Blog](https://stainless.io)
