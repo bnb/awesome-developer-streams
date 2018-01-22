@@ -125,7 +125,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ### Micah Elizabeth Scott (scanlime)
 #### What Micah Streams
-- IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
+- Reverse Engineering, Rust, C++, Hardware
 #### Streaming on:
 - [YouTube](https://www.youtube.com/user/micahjd)
 - [Twitch](https://twitch.tv/scanlime)
