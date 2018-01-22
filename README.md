@@ -41,6 +41,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Collin Henderson](#collin-henderson)
 - [Tim Ermilov](#tim-ermilov)
 - [Nicholas Brochu](#nicholas-brochu)
+- [Gary Kramlich](#gary-kramlich)
 
 ## Developers That Stream
 
@@ -185,3 +186,21 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [YouTube](https://www.youtube.com/c/SerpentAI)
 - [Discord](https://discord.gg/9D5SuxH)
 - [Patreon](https://www.patreon.com/serpent_ai)
+
+### Gary Kramlich
+#### What Grim Streams
+- Pidgin Development, Convey Development, Open Source Development
+- C, Golang, Python, JavaScript, Docker, Containers
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/rw_grim)
+#### Links:
+- [Twitter](https://twitter.com/rw_grim)
+- [BitBucket](https://bitbucket.org/rw_grim)
+- [GitHub](https://github.com/grimmy)
+- [Website](https://www.reaperworld.com)
+- [Blog](https://garykramlich.blogspot.com/)
+- [YouTube](https://www.youtube.com/garykramlich)
+- [Discord](https://discord.gg/gqWBRDW)
+- [Patreon](https://www.patreon.com/rw_grim)
+- [Pidgin](https://www.pidgin.im)
+- [Convey](https://bitbucket.org/rw_grim/convey)
