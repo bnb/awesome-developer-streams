@@ -189,9 +189,11 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ### Tierney Cyren
 #### What Tierney Streams
-- NodeJS, NodeJS Community Committee, JavaScript, Maintaining OSS Projects
+- Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/bitandbang)
 #### Links:
 - [Twitter](https://twitter.com/bitandbang)
 - [GitHub](https://github.com/bnb)
+- [Instagram](https://instagram.com/bitandbang)
+- [Website](https://bnb.im/)
