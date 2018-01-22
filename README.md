@@ -111,3 +111,12 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [YouTube](https://www.youtube.com/channel/UCID02LhTNYYhWbok3zyggOw)
 - [Instagram](https://www.instagram.com/_clarkio/)
 - [Website](https://www.clarkio.com/)
+
+### Yosh
+#### What Yosh Streams
+- OSS maintenance, Tooling Development, JavaScript, Node.js, Choo
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/yoshuawuyts)
+#### Links:
+- [Twitter](https://twitter.com/yoshuawuyts)
+- [GitHub](https://github.com/yoshuawuyts)
