@@ -145,3 +145,13 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/RussTheAerialist)
 - [Website](https://russellhay.com)
 - [Rust Blog](https://stainless.io)
+
+### Collin Henderson
+#### What Collin Streams
+- JavaScript, PHP, Laravel, Vue.js
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/syropian)
+#### Links:
+- [Twitter](https://twitter.com/syropian)
+- [GitHub](https://github.com/syropian)
+- [Website](https://syropia.net/)
