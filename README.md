@@ -25,6 +25,8 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 -- /AWESOME ITEM TEMPLATE -->
 
+**PROTIP:** Search this page for subjects you'd be interested in watching live, like JavaScript, DataViz, IoT, Rust, and so on. You'll get an index of streamers relevant to your interests–be sure to follow them! ❤️
+
 ## Table of Contents
 - [Suz Hinton](#suz-hinton)
 - [Feross Aboukhadijeh](#feross-aboukhadijeh)
