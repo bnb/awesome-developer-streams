@@ -40,6 +40,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Russell Hay](#russell-hay)
 - [Collin Henderson](#collin-henderson)
 - [Tim Ermilov](#tim-ermilov)
+- [Nicholas Brochu](#nicholas-brochu)
 
 ## Developers That Stream
 
@@ -171,3 +172,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/yamalight)
 - [Github](https://github.com/yamalight)
 - [Medium](https://medium.com/@yamalight)
+
+### Nicholas Brochu
+#### What Nicholas Streams
+- Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/serpent_ai)
+#### Links:
+- [Twitter](https://twitter.com/Serpent_AI)
+- [GitHub](https://github.com/nbrochu)
+- [Website](http://serpent.ai) + [Blog](http://blog.serpent.ai)
+- [YouTube](https://www.youtube.com/c/SerpentAI)
+- [Discord](https://discord.gg/9D5SuxH)
+- [Patreon](https://www.patreon.com/serpent_ai)
