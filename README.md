@@ -30,6 +30,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Feross Aboukhadijeh](#feross-aboukhadijeh)
 - [Thorsten Lorenz](#thorsten-lorenz)
 - [Shirley Wu](#shirley-wu)
+- [Kyle Shevlin](#kyle-shevlin)
 
 ## Developers That Stream
 
