@@ -32,6 +32,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Shirley Wu](#shirley-wu)
 - [Sean Larkin](#sean-larkin)
 - [Kyle Shevlin](#kyle-shevlin)
+- [Brian Clark](#brian-clark)
 
 ## Developers That Stream
 
