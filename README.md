@@ -30,6 +30,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Feross Aboukhadijeh](#feross-aboukhadijeh)
 - [Thorsten Lorenz](#thorsten-lorenz)
 - [Shirley Wu](#shirley-wu)
+- [Kyle Shevlin](#kyle-shevlin)
 
 ## Developers That Stream
 
@@ -86,3 +87,13 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### Links:
 - [Twitter](https://twitter.com/TheLarkInn)
 - [GitHub](https://github.com/TheLarkInn)
+
+### Kyle Shevlin
+#### What Kyle Streams
+- React, JavaScript, Functional Programming, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/kyleshevlin)
+#### Links:
+- [Twitter](https://twitter.com/kyleshevlin)
+- [GitHub](https://github.com/kyleshevlin)
+- [Website](https://kyleshevlin.com/)
