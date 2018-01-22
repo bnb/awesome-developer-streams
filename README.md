@@ -98,3 +98,15 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/kyleshevlin)
 - [GitHub](https://github.com/kyleshevlin)
 - [Website](https://kyleshevlin.com/)
+
+### Brian Clark
+#### What Brian Streams
+- Node.js, JavaScript, IoT, Web Development, Swift
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/clarkio)
+#### Links:
+- [Twitter](https://twitter.com/_clarkio)
+- [GitHub](https://github.com/clarkio)
+- [YouTube](https://www.youtube.com/channel/UCID02LhTNYYhWbok3zyggOw)
+- [Instagram](https://www.instagram.com/_clarkio/)
+- [Website](https://www.clarkio.com/)
