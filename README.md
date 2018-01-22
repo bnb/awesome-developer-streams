@@ -48,7 +48,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Website](http://noopkat.com/)
 - [Newsletter](https://tinyletter.com/noopkat)
 
-### Feross Aboukhadijeh 
+### Feross Aboukhadijeh
 #### What Feross Streams
 - JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 #### Streaming on:
@@ -121,3 +121,14 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### Links:
 - [Twitter](https://twitter.com/yoshuawuyts)
 - [GitHub](https://github.com/yoshuawuyts)
+
+### Tim Ermilov
+#### What Tim Streams
+- OSS, building things with Javascript, React
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/yamalight)
+- [YouTube](https://www.youtube.com/c/TimErmilov)
+#### Links:
+- [Twitter](https://twitter.com/yamalight)
+- [Github](https://github.com/yamalight)
+- [Medium](https://medium.com/@yamalight)
