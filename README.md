@@ -41,6 +41,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Collin Henderson](#collin-henderson)
 - [Tim Ermilov](#tim-ermilov)
 - [Nicholas Brochu](#nicholas-brochu)
+- [Tierney Cyren](#tierney-cyren)
 - [Gary Kramlich](#gary-kramlich)
 
 ## Developers That Stream
@@ -186,6 +187,17 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [YouTube](https://www.youtube.com/c/SerpentAI)
 - [Discord](https://discord.gg/9D5SuxH)
 - [Patreon](https://www.patreon.com/serpent_ai)
+
+### Tierney Cyren
+#### What Tierney Streams
+- Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/bitandbang)
+#### Links:
+- [Twitter](https://twitter.com/bitandbang)
+- [GitHub](https://github.com/bnb)
+- [Instagram](https://instagram.com/bitandbang)
+- [Website](https://bnb.im/)
 
 ### Gary Kramlich
 #### What Grim Streams
