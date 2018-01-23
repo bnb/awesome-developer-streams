@@ -189,8 +189,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ### Gary Kramlich
 #### What Grim Streams
-- Pidgin Development, Convey Development, Open Source Development
-- C, Golang, Python, JavaScript, Docker, Containers
+- Pidgin Development, Convey Development, Open Source Development, C, Golang, Python, JavaScript, Docker, Containers
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/rw_grim)
 #### Links:
