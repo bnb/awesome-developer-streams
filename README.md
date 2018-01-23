@@ -45,6 +45,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Tierney Cyren](#tierney-cyren)
 - [Erik Guzman](#erik-guzman)
 - [Gary Kramlich](#gary-kramlich)
+- [Thomas Soerensen](#thomas-soerensen)
 
 ## Developers That Stream
 
@@ -240,3 +241,13 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Patreon](https://www.patreon.com/rw_grim)
 - [Pidgin](https://www.pidgin.im)
 - [Convey](https://bitbucket.org/rw_grim/convey)
+
+### Thomas Soerensen
+#### What Thomas Streams
+- Golang, PHP (Laravel), JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/thomasbs_)
+#### Links:
+- [Twitter](https://twitter.com/DOMAS_89)
+- [GitHub](https://github.com/ThomasBS)
+- [Website](https://www.thomasbs.com)
