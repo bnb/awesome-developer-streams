@@ -36,7 +36,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Kyle Shevlin](#kyle-shevlin)
 - [Brian Clark](#brian-clark)
 - [Yosh](#yosh)
-- [Micah Elizabeth Scott](#micah-elizabeth-scott)
+- [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime)
 - [Russell Hay](#russell-hay)
 - [Collin Henderson](#collin-henderson)
 - [Tim Ermilov](#tim-ermilov)
