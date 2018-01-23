@@ -46,6 +46,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Erik Guzman](#erik-guzman)
 - [Gary Kramlich](#gary-kramlich)
 - [Thomas Soerensen](#thomas-soerensen)
+- [Sallar Kaboli](#sallar-kaboli)
 
 ## Developers That Stream
 
@@ -251,3 +252,17 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/DOMAS_89)
 - [GitHub](https://github.com/ThomasBS)
 - [Website](https://www.thomasbs.com)
+
+### Sallar Kaboli
+#### What Sallar Streams
+- JavaScript, NodeJS, Electron, React, OSS Projects, APIs
+#### Streaming on:
+- [Youtube](https://www.youtube.com/user/sallarkaboli)
+#### Languages Spoken During Stream
+- English
+- Persian (Farsi)
+#### Links:
+- [Twitter](https://twitter.com/sallar)
+- [GitHub](https://github.com/sallar)
+- [Website](https://sallar.me)
+
