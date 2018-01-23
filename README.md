@@ -42,6 +42,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Tim Ermilov](#tim-ermilov)
 - [Nicholas Brochu](#nicholas-brochu)
 - [Tierney Cyren](#tierney-cyren)
+- [Erik Guzman](#erik-guzman)
 - [Gary Kramlich](#gary-kramlich)
 
 ## Developers That Stream
@@ -198,6 +199,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/bnb)
 - [Instagram](https://instagram.com/bitandbang)
 - [Website](https://bnb.im/)
+
+### Erik Guzman
+#### What Erik (Talk2MeGoseman) Streams
+- JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/talk2megooseman)
+#### Links:
+- [Twitter](https://twitter.com/talk2megooseman)
+- [GitHub](https://github.com/talk2megooseman)
+- [Discord](https://discord.gg/j86Rmva)
 
 ### Gary Kramlich
 #### What Grim Streams
