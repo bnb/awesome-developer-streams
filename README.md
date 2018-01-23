@@ -33,6 +33,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Thorsten Lorenz](#thorsten-lorenz)
 - [Shirley Wu](#shirley-wu)
 - [Sean Larkin](#sean-larkin)
+- [Kent C. Dodds](#kent-c-dodds)
 - [Kyle Shevlin](#kyle-shevlin)
 - [Brian Clark](#brian-clark)
 - [Yosh](#yosh)
@@ -100,6 +101,19 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### Links:
 - [Twitter](https://twitter.com/TheLarkInn)
 - [GitHub](https://github.com/TheLarkInn)
+
+### Kent C. Dodds
+#### What Kent Streams
+- JavaScript, React, Web Development, Open Source, Node.js
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/kentcdodds)
+#### Links:
+- [Twitter](https://twitter.com/kentcdodds)
+- [GitHub](https://github.com/kentcdodds)
+- [Website](https://kentcdodds.com)
+- [Newsletter](http://kcd.im/news)
+- [Blog](https://blog.kentcdodds.com)
+- [YouTube](https://www.youtube.com/c/kentcdodds-vids)
 
 ### Kyle Shevlin
 #### What Kyle Streams
