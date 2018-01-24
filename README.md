@@ -47,6 +47,8 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Gary Kramlich](#gary-kramlich)
 - [Thomas Soerensen](#thomas-soerensen)
 - [Sallar Kaboli](#sallar-kaboli)
+- [HardlyDifficult](#hardlydifficult)
+- [RadicalFishGames](#radicalfishgames)
 
 ## Developers That Stream
 
@@ -266,3 +268,23 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/sallar)
 - [Website](https://sallar.me)
 
+### HardlyDifficult
+#### What HardlyDifficult Streams
+- Game Development (Unity3D, C#), C# Programming, Cryptocurrency
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/hardlydifficult)
+#### Links:
+- [Twitter](http://twitter.com/HardlyDifficult)
+- [GitHub](https://github.com/hardlydifficult)
+- [Website](http://hardlydifficult.com/)
+- [Youtube](http://youtube.com/HardlyDifficult)
+
+### RadicalFishGames
+#### What RadicalFishGames Streams
+- Game Development (JavaScript, WebGL) (Game: CrossCode)
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/radicalfishgames)
+#### Links:
+- [Twitter](https://twitter.com/RadicalFishGame)
+- [Website](http://www.radicalfishgames.com/)
+- [Youtube](https://www.youtube.com/user/RadicalFishGames)
