@@ -52,6 +52,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [HardlyDifficult](#hardlydifficult)
 - [RadicalFishGames](#radicalfishgames)
 - [Daniel Shiffman](#daniel-shiffman)
+- [Jeff Fritz](#jeff-fritz)
 
 ## Developers That Stream
 
@@ -325,3 +326,17 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/shiffman)
 - [GitHub](https://github.com/shiffman)
 - [Website](http://shiffman.net/)
+
+### Jeff Fritz
+#### What Jeff Streams
+- C#, .NET, ASP.NET, OSS and Pair Programming
+#### Streaming on:
+- [Twitch](https://twitch.tv/csharpfritz)
+- [Mixer](https://mixer.com/csharpfritz)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/csharpfritz)
+- [GitHub](https://github.com/csharpfritz)
+- [Website](http://jeffreyfritz.com/)
+- [YouTube](https://www.youtube.com/channel/UCfvJirlbRTN-bU9sMWMb_ZQ)
