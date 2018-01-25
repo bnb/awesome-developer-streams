@@ -51,6 +51,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Mattias Petter Johansson](#mattias-petter-johansson)
 - [HardlyDifficult](#hardlydifficult)
 - [RadicalFishGames](#radicalfishgames)
+- [Daniel Shiffman](#daniel-shiffman)
 
 ## Developers That Stream
 
@@ -314,3 +315,13 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/RadicalFishGame)
 - [Website](http://www.radicalfishgames.com/)
 - [Youtube](https://www.youtube.com/user/RadicalFishGames)
+
+### Daniel Shiffman
+#### What Daniel Streams
+- Javascript, Processing, P5.js, WebGL, Machine Learning, Algorithms
+#### Streaming on:
+- [Youtube](https://www.youtube.com/user/shiffman)
+#### Links:
+- [Twitter](https://twitter.com/shiffman)
+- [GitHub](https://github.com/shiffman)
+- [Website](http://shiffman.net/)
