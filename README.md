@@ -47,6 +47,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Gary Kramlich](#gary-kramlich)
 - [Thomas Soerensen](#thomas-soerensen)
 - [Sallar Kaboli](#sallar-kaboli)
+- [Pavithra Kodmad](#pavithra-kodmad)
 
 ## Developers That Stream
 
@@ -265,4 +266,14 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/sallar)
 - [GitHub](https://github.com/sallar)
 - [Website](https://sallar.me)
+
+### Pavithra Kodmad
+#### What PK Streams
+- Javascript, CSS, Open Source Stuff
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/pavithrakodmad)
+#### Links:
+- [Website](http://pavithrakodmad.com)
+- [Twitter](https://twitter.com/PKodmad)
+- [GitHub](https://github.com/pksjce)
 
