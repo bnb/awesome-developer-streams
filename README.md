@@ -47,6 +47,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Gary Kramlich](#gary-kramlich)
 - [Thomas Soerensen](#thomas-soerensen)
 - [Sallar Kaboli](#sallar-kaboli)
+- [Daniel Shiffman](#daniel-shiffman)
 
 ## Developers That Stream
 
@@ -266,3 +267,12 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/sallar)
 - [Website](https://sallar.me)
 
+### Daniel Shiffman
+#### What Daniel Streams
+- Javascript, Processing, P5.js, WebGL, Machine Learning, Algorithms
+#### Streaming on:
+- [Youtube](https://www.youtube.com/user/shiffman)
+#### Links:
+- [Twitter](https://twitter.com/shiffman)
+- [GitHub](https://github.com/shiffman)
+- [Website](http://shiffman.net/)
