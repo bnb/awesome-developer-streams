@@ -47,6 +47,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Gary Kramlich](#gary-kramlich)
 - [Thomas Soerensen](#thomas-soerensen)
 - [Sallar Kaboli](#sallar-kaboli)
+- [Pavithra Kodmad](#pavithra-kodmad)
 - [Mattias Petter Johansson](#mattias-petter-johansson)
 
 ## Developers That Stream
@@ -267,6 +268,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/sallar)
 - [Website](https://sallar.me)
 
+### Pavithra Kodmad
+#### What PK Streams
+- Javascript, CSS, Open Source Stuff
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/pavithrakodmad)
+#### Links:
+- [Website](http://pavithrakodmad.com)
+- [Twitter](https://twitter.com/PKodmad)
+- [GitHub](https://github.com/pksjce)
+
 ### Mattias Petter Johansson
 Also known as MPJ from Fun Fun Function
 #### What MPJ Streams
@@ -280,4 +291,5 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/mpj)
 - [GitHubGist](https://gist.github.com/mpj)
 - [Website](https://about.me/mpj)
+
 
