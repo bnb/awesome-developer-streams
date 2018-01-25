@@ -52,6 +52,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [HardlyDifficult](#hardlydifficult)
 - [RadicalFishGames](#radicalfishgames)
 - [Daniel Shiffman](#daniel-shiffman)
+- [Ferris](#ferris)
 
 ## Developers That Stream
 
@@ -325,3 +326,16 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/shiffman)
 - [GitHub](https://github.com/shiffman)
 - [Website](http://shiffman.net/)
+
+### Ferris
+#### What Ferris Streams
+- Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ferrisstreamsstuff)
+#### Links:
+- [Twitter](https://twitter.com/ferristweetsnow)
+- [GitHub](https://github.com/yupferris)
+- [Website](http://iamferris.com/)
+- [Youtube](https://www.youtube.com/channel/UC4mpLlHn0FOekNg05yCnkzQ)
+- [Pouet](http://www.pouet.net/user.php?who=16820)
+- [Patreon](https://www.patreon.com/ferrisstreamsstuff)
