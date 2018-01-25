@@ -47,6 +47,10 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Gary Kramlich](#gary-kramlich)
 - [Thomas Soerensen](#thomas-soerensen)
 - [Sallar Kaboli](#sallar-kaboli)
+- [Pavithra Kodmad](#pavithra-kodmad)
+- [Mattias Petter Johansson](#mattias-petter-johansson)
+- [HardlyDifficult](#hardlydifficult)
+- [RadicalFishGames](#radicalfishgames)
 - [Daniel Shiffman](#daniel-shiffman)
 
 ## Developers That Stream
@@ -266,6 +270,51 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/sallar)
 - [GitHub](https://github.com/sallar)
 - [Website](https://sallar.me)
+
+### Pavithra Kodmad
+#### What PK Streams
+- Javascript, CSS, Open Source Stuff
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/pavithrakodmad)
+#### Links:
+- [Website](http://pavithrakodmad.com)
+- [Twitter](https://twitter.com/PKodmad)
+- [GitHub](https://github.com/pksjce)
+
+### Mattias Petter Johansson
+Also known as MPJ from Fun Fun Function
+#### What MPJ Streams
+- JavaScript, NodeJS, Programming in general
+#### Streaming on:
+- [Youtube](https://youtube.com/funfunfunction)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/mpjme)
+- [GitHub](https://github.com/mpj)
+- [GitHubGist](https://gist.github.com/mpj)
+- [Website](https://about.me/mpj)
+
+### HardlyDifficult
+#### What HardlyDifficult Streams
+- Game Development (Unity3D, C#), C# Programming, Cryptocurrency
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/hardlydifficult)
+#### Links:
+- [Twitter](http://twitter.com/HardlyDifficult)
+- [GitHub](https://github.com/hardlydifficult)
+- [Website](http://hardlydifficult.com/)
+- [Youtube](http://youtube.com/HardlyDifficult)
+
+### RadicalFishGames
+#### What RadicalFishGames Streams
+- Game Development (JavaScript, WebGL) (Game: CrossCode)
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/radicalfishgames)
+#### Links:
+- [Twitter](https://twitter.com/RadicalFishGame)
+- [Website](http://www.radicalfishgames.com/)
+- [Youtube](https://www.youtube.com/user/RadicalFishGames)
 
 ### Daniel Shiffman
 #### What Daniel Streams
