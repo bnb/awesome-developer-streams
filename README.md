@@ -48,6 +48,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Thomas Soerensen](#thomas-soerensen)
 - [Sallar Kaboli](#sallar-kaboli)
 - [Pavithra Kodmad](#pavithra-kodmad)
+- [Mattias Petter Johansson](#mattias-petter-johansson)
 
 ## Developers That Stream
 
@@ -276,4 +277,19 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Website](http://pavithrakodmad.com)
 - [Twitter](https://twitter.com/PKodmad)
 - [GitHub](https://github.com/pksjce)
+
+### Mattias Petter Johansson
+Also known as MPJ from Fun Fun Function
+#### What MPJ Streams
+- JavaScript, NodeJS, Programming in general
+#### Streaming on:
+- [Youtube](https://youtube.com/funfunfunction)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/mpjme)
+- [GitHub](https://github.com/mpj)
+- [GitHubGist](https://gist.github.com/mpj)
+- [Website](https://about.me/mpj)
+
 
