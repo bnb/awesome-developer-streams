@@ -140,6 +140,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - Node.js, JavaScript, IoT, Web Development, Swift
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/clarkio)
+- [Mixer](https://mixer.com/clarkio)
 #### Links:
 - [Twitter](https://twitter.com/_clarkio)
 - [GitHub](https://github.com/clarkio)
