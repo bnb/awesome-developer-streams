@@ -54,6 +54,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Daniel Shiffman](#daniel-shiffman)
 - [Casey Muratori](#casey-muratori)
 - [Ferris](#ferris)
+- [Jeff Fritz](#jeff-fritz)
 
 ## Developers That Stream
 
@@ -350,3 +351,17 @@ Also known as MPJ from Fun Fun Function
 - [Youtube](https://www.youtube.com/channel/UC4mpLlHn0FOekNg05yCnkzQ)
 - [Pouet](http://www.pouet.net/user.php?who=16820)
 - [Patreon](https://www.patreon.com/ferrisstreamsstuff)
+
+### Jeff Fritz
+#### What Jeff Streams
+- C#, .NET, ASP.NET, OSS and Pair Programming
+#### Streaming on:
+- [Twitch](https://twitch.tv/csharpfritz)
+- [Mixer](https://mixer.com/csharpfritz)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/csharpfritz)
+- [GitHub](https://github.com/csharpfritz)
+- [Website](http://jeffreyfritz.com/)
+- [YouTube](https://www.youtube.com/channel/UCfvJirlbRTN-bU9sMWMb_ZQ)
