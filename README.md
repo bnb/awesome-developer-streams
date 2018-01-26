@@ -52,6 +52,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [HardlyDifficult](#hardlydifficult)
 - [RadicalFishGames](#radicalfishgames)
 - [Daniel Shiffman](#daniel-shiffman)
+- [Casey Muratori](#casey-muratori)
 - [Ferris](#ferris)
 
 ## Developers That Stream
@@ -326,6 +327,16 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/shiffman)
 - [GitHub](https://github.com/shiffman)
 - [Website](http://shiffman.net/)
+
+### Casey Muratori
+#### What Casey Streams
+- C, C++, Game Development, Algorithms
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/handmade_hero)
+#### Links:
+- [YouTube](https://www.youtube.com/HandmadeHero)
+- [Twitter](https://twitter.com/cmuratori)
+- [Website](https://handmadehero.org/)
 
 ### Ferris
 #### What Ferris Streams
