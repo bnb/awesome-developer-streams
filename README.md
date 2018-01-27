@@ -366,3 +366,17 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/csharpfritz)
 - [Website](http://jeffreyfritz.com/)
 - [YouTube](https://www.youtube.com/channel/UCfvJirlbRTN-bU9sMWMb_ZQ)
+
+
+### Swizec Teller
+#### What  Swizec Streams
+- JavaScript, React, D3
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/swizec)
+- [Youtube](https://www.youtube.com/user/TheSwizec)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/swizec)
+- [GitHub](https://github.com/Swizec)
+- [Website](https://swizec.com/)
