@@ -55,6 +55,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Casey Muratori](#casey-muratori)
 - [Ferris](#ferris)
 - [Jeff Fritz](#jeff-fritz)
+- [Jessica Mak](#jessica-mak)
 
 ## Developers That Stream
 
@@ -376,3 +377,5 @@ Also known as MPJ from Fun Fun Function
 - English
 #### Links:
 - [Twitter](https://twitter.com/mango_lychee)
+- [Discord](https://discord.gg/AxR74yp)
+- [Donations](https://streamlabs.com/jessicamak)
