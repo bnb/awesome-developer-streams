@@ -379,3 +379,16 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/mango_lychee)
 - [Discord](https://discord.gg/AxR74yp)
 - [Donations](https://streamlabs.com/jessicamak)
+
+### Swizec Teller
+#### What  Swizec Streams
+- JavaScript, React, D3
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/swizec)
+- [Youtube](https://www.youtube.com/user/TheSwizec)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/swizec)
+- [GitHub](https://github.com/Swizec)
+- [Website](https://swizec.com/)
