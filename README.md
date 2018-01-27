@@ -366,3 +366,13 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/csharpfritz)
 - [Website](http://jeffreyfritz.com/)
 - [YouTube](https://www.youtube.com/channel/UCfvJirlbRTN-bU9sMWMb_ZQ)
+
+### Jessica Mak
+#### What Jessica Streams
+- C++, OpenGL, Game Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jessicamak)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/mango_lychee)
