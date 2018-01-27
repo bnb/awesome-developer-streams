@@ -55,6 +55,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Casey Muratori](#casey-muratori)
 - [Ferris](#ferris)
 - [Jeff Fritz](#jeff-fritz)
+- [Jessica Mak](#jessica-mak)
 
 ## Developers That Stream
 
@@ -367,6 +368,17 @@ Also known as MPJ from Fun Fun Function
 - [Website](http://jeffreyfritz.com/)
 - [YouTube](https://www.youtube.com/channel/UCfvJirlbRTN-bU9sMWMb_ZQ)
 
+### Jessica Mak
+#### What Jessica Streams
+- C++, OpenGL, Game Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jessicamak)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/mango_lychee)
+- [Discord](https://discord.gg/AxR74yp)
+- [Donations](https://streamlabs.com/jessicamak)
 
 ### Swizec Teller
 #### What  Swizec Streams
