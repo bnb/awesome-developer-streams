@@ -56,7 +56,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ferris](#ferris)
 - [Jeff Fritz](#jeff-fritz)
 - [Jessica Mak](#jessica-mak)
-- (Swizec Teller)[#swizec-teller]
+- [Swizec Teller](#swizec-teller)
 
 ## Developers That Stream
 
