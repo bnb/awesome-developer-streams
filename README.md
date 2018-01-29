@@ -28,35 +28,35 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 **PROTIP:** Search this page for subjects you'd be interested in watching live, like JavaScript, DataViz, IoT, Rust, and so on. You'll get an index of streamers relevant to your interests–be sure to follow them! ❤️
 
 ## Table of Contents
-- [Suz Hinton](#suz-hinton)
-- [Feross Aboukhadijeh](#feross-aboukhadijeh)
-- [Thorsten Lorenz](#thorsten-lorenz)
-- [Shirley Wu](#shirley-wu)
-- [Sean Larkin](#sean-larkin)
-- [Kent C. Dodds](#kent-c-dodds)
-- [Kyle Shevlin](#kyle-shevlin)
-- [Brian Clark](#brian-clark)
-- [Yosh](#yosh)
-- [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime)
-- [Russell Hay](#russell-hay)
-- [Collin Henderson](#collin-henderson)
-- [Tim Ermilov](#tim-ermilov)
-- [Nicholas Brochu](#nicholas-brochu)
-- [Tierney Cyren](#tierney-cyren)
-- [Erik Guzman](#erik-guzman)
-- [Gary Kramlich](#gary-kramlich)
-- [Thomas Soerensen](#thomas-soerensen)
-- [Sallar Kaboli](#sallar-kaboli)
-- [Pavithra Kodmad](#pavithra-kodmad)
-- [Mattias Petter Johansson](#mattias-petter-johansson)
-- [HardlyDifficult](#hardlydifficult)
-- [RadicalFishGames](#radicalfishgames)
-- [Daniel Shiffman](#daniel-shiffman)
-- [Casey Muratori](#casey-muratori)
-- [Ferris](#ferris)
-- [Jeff Fritz](#jeff-fritz)
-- [Jessica Mak](#jessica-mak)
-- [Swizec Teller](#swizec-teller)
+- [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
+- [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
+- [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
+- [Shirley Wu](#shirley-wu) - **streaming:** Data Visualisation (DataViz), JavaScript, React
+- [Sean Larkin](#sean-larkin) - **streaming:** Webpack, OSS, JavaScript, Gaming
+- [Kent C. Dodds](#kent-c-dodds) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
+- [Kyle Shevlin](#kyle-shevlin) - **streaming:** React, JavaScript, Functional Programming, Web Development
+- [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
+- [Yosh](#yosh) - **streaming:** OSS maintenance, Tooling Development, JavaScript, Node.js, Choo
+- [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
+- [Russell Hay](#russell-hay) - **streaming:** Rust, Functional Programming, Hardware, Generative Art
+- [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
+- [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
+- [Nicholas Brochu](#nicholas-brochu) - **streaming:** Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
+- [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
+- [Erik Guzman](#erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
+- [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
+- [Thomas Soerensen](#thomas-soerensen) - **streaming:** Golang, PHP (Laravel), JavaScript
+- [Sallar Kaboli](#sallar-kaboli) - **streaming:** JavaScript, Node.js, Electron, React, OSS Projects, APIs
+- [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
+- [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
+- [HardlyDifficult](#hardlydifficult) - **streaming:** Game Development (Unity3D, C#), C# Programming, Cryptocurrency
+- [RadicalFishGames](#radicalfishgames) - **streaming:** Game Development (JavaScript, WebGL) (Game: CrossCode)
+- [Daniel Shiffman](#daniel-shiffman) - **streaming:** JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
+- [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
+- [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
+- [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
+- [Jessica Mak](#jessica-mak) - **streaming:** C++, OpenGL, Game Development
+- [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 
 ## Developers That Stream
 
