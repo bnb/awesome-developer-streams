@@ -266,7 +266,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ### Sallar Kaboli
 #### What Sallar Streams
-- JavaScript, NodeJS, Electron, React, OSS Projects, APIs
+- JavaScript, Node.js, Electron, React, OSS Projects, APIs
 #### Streaming on:
 - [Youtube](https://www.youtube.com/user/sallarkaboli)
 #### Languages Spoken During Stream
@@ -279,7 +279,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ### Pavithra Kodmad
 #### What PK Streams
-- Javascript, CSS, Open Source Stuff
+- JavaScript, CSS, Open Source Stuff
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/pavithrakodmad)
 #### Links:
@@ -290,7 +290,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 ### Mattias Petter Johansson
 Also known as MPJ from Fun Fun Function
 #### What MPJ Streams
-- JavaScript, NodeJS, Programming in general
+- JavaScript, Node.js, Programming in general
 #### Streaming on:
 - [Youtube](https://youtube.com/funfunfunction)
 #### Languages Spoken During Stream
@@ -324,7 +324,7 @@ Also known as MPJ from Fun Fun Function
 
 ### Daniel Shiffman
 #### What Daniel Streams
-- Javascript, Processing, P5.js, WebGL, Machine Learning, Algorithms
+- JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
 #### Streaming on:
 - [Youtube](https://www.youtube.com/user/shiffman)
 #### Links:
