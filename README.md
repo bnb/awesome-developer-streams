@@ -57,7 +57,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jessica Mak](#jessica-mak) - **streaming:** C++, OpenGL, Game Development
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
-- [Aleksandar Simovic](#simalexan) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
+- [Alexander Simovic](#simalexan) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 
 ## Developers That Stream
 
