@@ -57,6 +57,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jessica Mak](#jessica-mak) - **streaming:** C++, OpenGL, Game Development
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
+- [Aleksandar Simovic](#simalexan) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 
 ## Developers That Stream
 
@@ -393,3 +394,14 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/swizec)
 - [GitHub](https://github.com/Swizec)
 - [Website](https://swizec.com/)
+
+### Alexander Simovic
+#### What Alex Streams
+- Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/simalexan)
+#### Links:
+- [Twitter](https://twitter.com/simalexan)
+- [GitHub](https://github.com/simalexan)
+- [Website](https://effortless-serverless.com)
+- [Medium](https://medium.com/@simalexan)
