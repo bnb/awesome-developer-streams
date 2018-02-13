@@ -57,6 +57,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jessica Mak](#jessica-mak) - **streaming:** C++, OpenGL, Game Development
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
+- [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 
 ## Developers That Stream
@@ -395,6 +396,18 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/Swizec)
 - [Website](https://swizec.com/)
 
+### Sergio Cinos
+#### What Sergio Cinos Streams
+- Node.js, React, MobX, Docker, DevOps, Full Stack Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/scinos)
+#### Languages Spoken During Stream
+- Spanish
+#### Links:
+- [Twitter](https://twitter.com/scinos)
+- [GitHub](https://github.com/scinos/)
+- [Website](https://www.youtube.com/channel/UCWWgBvd400EdnUF791ZjSeg)
+
 ### Ragnar Thor
 #### What Ragnar Thor Streams
 - JavaScript, React, Web Development, Open Source, Node.js
@@ -403,4 +416,3 @@ Also known as MPJ from Fun Fun Function
 #### Links:
 - [Twitter](https://twitter.com/rthor)
 - [GitHub](https://github.com/rthor)
-
