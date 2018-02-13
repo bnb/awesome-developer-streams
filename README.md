@@ -31,7 +31,6 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
-- [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 - [Shirley Wu](#shirley-wu) - **streaming:** Data Visualisation (DataViz), JavaScript, React
 - [Sean Larkin](#sean-larkin) - **streaming:** Webpack, OSS, JavaScript, Gaming
 - [Kent C. Dodds](#kent-c-dodds) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
@@ -58,6 +57,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jessica Mak](#jessica-mak) - **streaming:** C++, OpenGL, Game Development
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
+- [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 
 ## Developers That Stream
 
@@ -93,15 +93,6 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/thlorenz)
 - [Website](http://thlorenz.com/)
 - [Patreon](https://www.patreon.com/thlorenz)
-
-### Ragnar Thor
-#### What Ragnar Thor
-- JavaScript, React, Web Development, Open Source, Node.js
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/rthor)
-#### Links:
-- [Twitter](https://twitter.com/rthor)
-- [GitHub](https://github.com/rthor)
 
 ### Shirley Wu
 #### What Shirley Streams
@@ -403,3 +394,13 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/swizec)
 - [GitHub](https://github.com/Swizec)
 - [Website](https://swizec.com/)
+
+### Ragnar Thor
+#### What Ragnar Thor Streams
+- JavaScript, React, Web Development, Open Source, Node.js
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/rthor)
+#### Links:
+- [Twitter](https://twitter.com/rthor)
+- [GitHub](https://github.com/rthor)
+
