@@ -59,6 +59,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
+- [Alexander Simovic](#simalexan) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 
 ## Developers That Stream
 
@@ -416,3 +417,14 @@ Also known as MPJ from Fun Fun Function
 #### Links:
 - [Twitter](https://twitter.com/rthor)
 - [GitHub](https://github.com/rthor)
+
+### Alexander Simovic
+#### What Alex Streams
+- Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/simalexan)
+#### Links:
+- [Twitter](https://twitter.com/simalexan)
+- [GitHub](https://github.com/simalexan)
+- [Website](https://effortless-serverless.com)
+- [Medium](https://medium.com/@simalexan)
