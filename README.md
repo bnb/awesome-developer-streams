@@ -60,6 +60,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 - [Alexander Simovic](#simalexan) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
+- [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
 
 ## Developers That Stream
 
@@ -428,3 +429,15 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/simalexan)
 - [Website](https://effortless-serverless.com)
 - [Medium](https://medium.com/@simalexan)
+
+### Adam13531
+#### What Adam Streams
+- Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/adam13531)
+#### Links:
+- [Discord](https://discord.gg/botland)
+- [Twitter](https://twitter.com/Xtonomous)
+- [YouTube](https://www.youtube.com/channel/UCJFxRNHar-c_lKYxFMIPg_g)
+- [Website](https://bot.land)
+- [Blog](https://blog.bot.land)
