@@ -61,6 +61,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 - [Alexander Simovic](#simalexan) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
+- [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 
 ## Developers That Stream
 
@@ -441,3 +442,13 @@ Also known as MPJ from Fun Fun Function
 - [YouTube](https://www.youtube.com/channel/UCJFxRNHar-c_lKYxFMIPg_g)
 - [Website](https://bot.land)
 - [Blog](https://blog.bot.land)
+
+### Luke Gorrie
+#### What Luke Streams
+- C, Lua, RaptorJIT, R, Nix, Network drivers
+#### Streaming on:
+- [YouTube](https://www.youtube.com/channel/UC-ATWoBhU7ae5w7s5Rc0sSA/)
+#### Links:
+- [Twitter](https://twitter.com/lukego)
+- [GitHub](https://github.com/lukego)
+- [Website](http://www.lukego.com/)
