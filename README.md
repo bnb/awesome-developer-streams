@@ -62,6 +62,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Alexander Simovic](#simalexan) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
+- [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 
 ## Developers That Stream
 
@@ -452,3 +453,12 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/lukego)
 - [GitHub](https://github.com/lukego)
 - [Website](http://www.lukego.com/)
+
+### Antonio Maiorano
+#### What Antonio Streams
+- Emulator Development, C++
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/daroou2)
+#### Links:
+- [Twitter](https://www.twitch.tv/daroou2)
+- [GitHub](https://github.com/amaiorano)
