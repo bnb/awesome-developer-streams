@@ -471,5 +471,7 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/daroou2)
 #### Links:
-- [Twitter](https://www.twitch.tv/daroou2)
+- [Twitter](https://twitter.com/antoniomaiorano)
 - [GitHub](https://github.com/amaiorano)
+- [YouTube](https://www.youtube.com/channel/UCvGInSOEQnf2ms4n4Q9dXdQ)
+- [LinkedIn](https://www.linkedin.com/in/amaiorano/)
