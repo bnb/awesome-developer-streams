@@ -64,6 +64,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
+- [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
 
 ## Developers That Stream
 
@@ -475,3 +476,9 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/amaiorano)
 - [YouTube](https://www.youtube.com/channel/UCvGInSOEQnf2ms4n4Q9dXdQ)
 - [LinkedIn](https://www.linkedin.com/in/amaiorano/)
+
+### Syanoks
+#### What Syanoks Streams
+- Operating System Development, C, Assembly, Shell, Python
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/syanoks)
