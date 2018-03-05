@@ -63,8 +63,8 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
-- [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
+- [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 
 ## Developers That Stream
 
@@ -487,3 +487,9 @@ Also known as MPJ from Fun Fun Function
 - [Game Jolt](https://gamejolt.com/@Ink/games)
 - [Facebook](www.facebook.com/DrunkDevs)
 - [Website](http://www.drunkdevs.com/)
+
+### Syanoks
+#### What Syanoks Streams
+- Operating System Development, C, Assembly, Shell, Python
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/syanoks)
