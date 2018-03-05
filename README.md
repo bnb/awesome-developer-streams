@@ -493,3 +493,4 @@ Also known as MPJ from Fun Fun Function
 - Operating System Development, C, Assembly, Shell, Python
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/syanoks)
+- [Blog](https://www.sceen.net/blog/)
