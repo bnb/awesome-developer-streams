@@ -67,6 +67,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
+- [Jonathan Blow](#jonathan-blow) - **streaming** Programming, Gamedev, Jai, C++, OpenGL
 
 ## Developers That Stream
 
@@ -514,3 +515,12 @@ Also known as MPJ from Fun Fun Function
 - [Twitch](https://www.twitch.tv/jackmott42)
 - [Website](https://gameswithgo.org/)
 
+### Jonathan Blow
+#### What Jonathan Blow Streams
+- Game Development, Language Developement, Jai, C++, OpenGL
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/naysayer88)
+#### Links:
+- [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
+- [Twitter](https://twitter.com/Jonathan_Blow)
+- [Google+](https://plus.google.com/u/0/102153353283805950802)
