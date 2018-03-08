@@ -67,6 +67,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
+- [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
 
 ## Developers That Stream
 
@@ -514,3 +515,14 @@ Also known as MPJ from Fun Fun Function
 - [Twitch](https://www.twitch.tv/jackmott42)
 - [Website](https://gameswithgo.org/)
 
+### Sébastien Rancoud
+#### What Sébastien Streams
+- JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/megadamage)
+#### Languages Spoken During Stream
+- French
+- English
+#### Links:
+- [Twitter](https://twitter.com/rancoud)
+- [GitHub](https://github.com/rancoud)
