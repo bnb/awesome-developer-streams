@@ -65,6 +65,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
+- [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
 
 ## Developers That Stream
 
@@ -494,3 +495,13 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/syanoks)
 - [Blog](https://www.sceen.net/blog/)
+
+### Brian McKenna
+#### What Brian Streams
+- Haskell, Functional Programming
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/puffnfresh)
+#### Links:
+- [Twitter](https://twitter.com/puffnfresh)
+- [GitHub](https://github.com/puffnfresh)
+- [Website](https://brianmckenna.org)
