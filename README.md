@@ -67,6 +67,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
+- [Gwen Frey](#gwen-frey) - **streaming** Game Development, Unreal Blueprint, Animation
 
 ## Developers That Stream
 
@@ -513,4 +514,12 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/jackmott42)
 - [Website](https://gameswithgo.org/)
+
+### Gwen Frey
+#### What Gwen Streams
+- Game Development, Unreal Blueprint, Animation
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/diregoldfish)
+#### Links:
+- [Twitter](https://twitter.com/diregoldfish)
 
