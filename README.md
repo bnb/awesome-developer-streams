@@ -65,8 +65,10 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
-- [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
-- [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
+- [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
+- [Jack Mott](#jack-mott) - **streaming:** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
+- [Talima Vale](#talima-vale) - **streaming:** Game Development (Unity3D, C#), Chat Bot Dev (Node.js), Gaming
+- [William Chyr](#william-chyr) - **streaming:** Game Development (Unity3D, C#), Gaming
 
 ## Developers That Stream
 
@@ -513,4 +515,24 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/jackmott42)
 - [Website](https://gameswithgo.org/)
+
+### Talima Vale
+#### What Talima Streams
+- Game Development using C# in Unity 3D, Chat Bot Dev in Node.js, and Gaming.
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/teamTALIMA)
+### Links
+- [Twitter](https://twitter.com/TalimaVale)
+- [GitHub](https://github.com/teamTALIMA)
+- [Website](https://teamtalima.com)
+
+### William Chyr
+#### What William Streams
+- Game Development (for his game: [Manifold Garden](https://manifold.garden)) using C# in Unity 3D, and Gaming.
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/WilliamChyr)
+#### Links
+- [Twitter](https://twitter.com/WilliamChyr)
+- [GitHub](https://github.com/williamchyr)
+- [Website](http://williamchyr.com)
 
