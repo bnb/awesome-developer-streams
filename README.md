@@ -67,6 +67,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
+- [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 
 ## Developers That Stream
 
@@ -513,4 +514,15 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/jackmott42)
 - [Website](https://gameswithgo.org/)
+
+### Jen Tong
+#### What Jen Streams
+- Python, JavaScript, NodeBots, Astronomy
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/MimmingCodes)
+#### Links:
+- [Twitter](https://twitter.com/MimmingCodes)
+- [GitHub](https://github.com/mimming)
+- [YouTube](https://www.youtube.com/c/mimming)
+- [Website](https://mimming.com/)
 
