@@ -67,6 +67,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
+- [CaptainKraft](#captainkraft) - **streaming** C, C++, Rust
 
 ## Developers That Stream
 
@@ -513,4 +514,10 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/jackmott42)
 - [Website](https://gameswithgo.org/)
+
+### CaptainKraft
+#### What CaptainKraft Streams
+- C, C++, Rust
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/captainkraft)
 
