@@ -65,7 +65,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
-- [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
+- [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 
 ## Developers That Stream
 
