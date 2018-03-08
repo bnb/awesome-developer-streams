@@ -67,7 +67,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
-- [CaptainKraft](#captainkraft) - **streaming** C, C++, Rust
+- [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 
 ## Developers That Stream
 
