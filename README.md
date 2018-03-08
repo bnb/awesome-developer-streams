@@ -65,6 +65,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
+- [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
 
 ## Developers That Stream
@@ -496,9 +497,20 @@ Also known as MPJ from Fun Fun Function
 - [Twitch](https://www.twitch.tv/syanoks)
 - [Blog](https://www.sceen.net/blog/)
 
+### Brian McKenna
+#### What Brian Streams
+- Haskell, Functional Programming
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/puffnfresh)
+#### Links:
+- [Twitter](https://twitter.com/puffnfresh)
+- [GitHub](https://github.com/puffnfresh)
+- [Website](https://brianmckenna.org)
+
 ### Jack Mott
 #### What Jack Streams
 - Teaching programming basics, data structures, algorithms, fun gamedev projects, Golang, SDL2, OpenGL
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/jackmott42)
 - [Website](https://gameswithgo.org/)
+
