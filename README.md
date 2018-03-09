@@ -51,6 +51,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
 - [HardlyDifficult](#hardlydifficult) - **streaming:** Game Development (Unity3D, C#), C# Programming, Cryptocurrency
 - [RadicalFishGames](#radicalfishgames) - **streaming:** Game Development (JavaScript, WebGL) (Game: CrossCode)
+- [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [Daniel Shiffman](#daniel-shiffman) - **streaming:** JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
@@ -341,6 +342,18 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/shiffman)
 - [GitHub](https://github.com/shiffman)
 - [Website](http://shiffman.net/)
+
+### DevChatter
+#### What DevChatter Streams
+- C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
+#### Streaming on:
+- [Twitch](https://twitch.tv/devchatter)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/DevChatter_)
+- [GitHub](https://github.com/DevChatter)
+- [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
 
 ### Casey Muratori
 #### What Casey Streams
