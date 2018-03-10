@@ -70,6 +70,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Joe Bew](#joebew42) - **streaming** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [Gwen Frey](#gwen-frey) - **streaming** Game Development, Unreal Blueprint, Animation
+- [Jonathan Blow](#jonathan-blow) - **streaming** Programming, Gamedev, Jai, C++, OpenGL
 
 ## Developers That Stream
 
@@ -548,3 +549,14 @@ Also known as MPJ from Fun Fun Function
 - [Twitch](https://www.twitch.tv/diregoldfish)
 #### Links:
 - [Twitter](https://twitter.com/diregoldfish)
+
+### Jonathan Blow
+#### What Jonathan Blow Streams
+- Game Development, Language Developement, Jai, C++, OpenGL
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/naysayer88)
+#### Links:
+- [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
+- [Twitter](https://twitter.com/Jonathan_Blow)
+- [Google+](https://plus.google.com/u/0/102153353283805950802)
+
