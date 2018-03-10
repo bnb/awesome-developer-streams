@@ -69,7 +69,6 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
-- [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [Joe Bew](#joebew42) - **streaming** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [Gwen Frey](#gwen-frey) - **streaming** Game Development, Unreal Blueprint, Animation
@@ -78,6 +77,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
+- [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 
 ## Developers That Stream
 
@@ -535,18 +535,6 @@ Also known as MPJ from Fun Fun Function
 - [Twitch](https://www.twitch.tv/jackmott42)
 - [Website](https://gameswithgo.org/)
 
-### DevChatter
-#### What DevChatter Streams
-- C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
-#### Streaming on:
-- [Twitch](https://twitch.tv/devchatter)
-#### Languages Spoken During Stream
-- English
-#### Links:
-- [Twitter](https://twitter.com/DevChatter_)
-- [GitHub](https://github.com/DevChatter)
-- [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
-
 ### Joe Bew
 #### What Joe Streams
 - Test-Driven Development, Clean Code, Refactoring, Open Source projects
@@ -624,3 +612,15 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
+
+### DevChatter
+#### What DevChatter Streams
+- C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
+#### Streaming on:
+- [Twitch](https://twitch.tv/devchatter)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/DevChatter_)
+- [GitHub](https://github.com/DevChatter)
+- [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
