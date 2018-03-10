@@ -69,6 +69,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
 - [Joe Bew](#joebew42) - **streaming** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
+- [Gwen Frey](#gwen-frey) - **streaming** Game Development, Unreal Blueprint, Animation
 
 ## Developers That Stream
 
@@ -539,3 +540,11 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](http://github.com/mikeconley/)
 - [YouTube](https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ)
 - [Website](https://www.mikeconley.ca/blog)
+
+### Gwen Frey
+#### What Gwen Streams
+- Game Development, Unreal Blueprint, Animation
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/diregoldfish)
+#### Links:
+- [Twitter](https://twitter.com/diregoldfish)
