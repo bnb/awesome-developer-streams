@@ -77,6 +77,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
+- [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 
 ## Developers That Stream
 
@@ -611,3 +612,13 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
+
+### iDevelopThings
+#### What nmarulo Streams
+- JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/nmarulo)
+#### Links:
+- [GitHub](https://github.com/nmarulo)
+- [Twitter](https://twitter.com/nmarulo)
+- [Website](http://softn.red)
