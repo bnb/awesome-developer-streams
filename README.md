@@ -73,6 +73,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jonathan Blow](#jonathan-blow) - **streaming** Programming, Gamedev, Jai, C++, OpenGL
 - [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
+- [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 
 ## Developers That Stream
 
@@ -584,3 +585,9 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/mimming)
 - [YouTube](https://www.youtube.com/c/mimming)
 - [Website](https://mimming.com/)
+
+### CaptainKraft
+#### What CaptainKraft Streams
+- C, C++, Rust
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/captainkraft)
