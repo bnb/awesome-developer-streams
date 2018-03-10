@@ -71,6 +71,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [Gwen Frey](#gwen-frey) - **streaming** Game Development, Unreal Blueprint, Animation
 - [Jonathan Blow](#jonathan-blow) - **streaming** Programming, Gamedev, Jai, C++, OpenGL
+- [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
 
 ## Developers That Stream
 
@@ -560,3 +561,14 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/Jonathan_Blow)
 - [Google+](https://plus.google.com/u/0/102153353283805950802)
 
+### Sébastien Rancoud
+#### What Sébastien Streams
+- JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/megadamage)
+#### Languages Spoken During Stream
+- French
+- English
+#### Links:
+- [Twitter](https://twitter.com/rancoud)
+- [GitHub](https://github.com/rancoud)
