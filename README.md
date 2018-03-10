@@ -13,7 +13,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 **NOTE** You can add **as many platforms** to "Streaming on" and **as many links** to "Links" as you'd like - either for yourself or for whoever you're PRing in.
 
-### Streamer Name OR Prefered Handle
+### Streamer Name OR Preferred Handle
 #### What (Name || Pref Handle) Streams
 - IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 #### Streaming on:
