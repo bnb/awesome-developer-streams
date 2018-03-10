@@ -56,6 +56,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jessica Mak](#jessica-mak) - **streaming:** C++, OpenGL, Game Development
+- [Shinmera](#shinmera) - **streaming**: Game Development, Common Lisp
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
@@ -398,6 +399,16 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/mango_lychee)
 - [Discord](https://discord.gg/AxR74yp)
 - [Donations](https://streamlabs.com/jessicamak)
+
+### Shinmera
+#### What Shinmera Streams
+- Game Development, Common Lisp, Lisp projects demos
+#### Streaming On:
+- [Twitch](http://twitch.tv/Shinmera)
+- [YouTube](https://www.youtube.com/playlist?list=PLkDl6Irujx9MtJPRRP5KBH40SGCenztPW)
+#### Links:
+- [Github](https://github.com/Shinmera/)
+- [Website](http://shinmera.com/)
 
 ### Swizec Teller
 #### What  Swizec Streams
