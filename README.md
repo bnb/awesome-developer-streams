@@ -1,6 +1,6 @@
 # Awesome Developer Streams [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome developers that stream.
+> A curated list of awesome developers who stream.
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing, focusing on developers + streaming. 📺*
 
@@ -13,7 +13,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 **NOTE** You can add **as many platforms** to "Streaming on" and **as many links** to "Links" as you'd like - either for yourself or for whoever you're PRing in.
 
-### Streamer Name OR Prefered Handle
+### Streamer Name OR Preferred Handle
 #### What (Name || Pref Handle) Streams
 - IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 #### Streaming on:
@@ -56,6 +56,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jessica Mak](#jessica-mak) - **streaming:** C++, OpenGL, Game Development
+- [Shinmera](#shinmera) - **streaming**: Game Development, Common Lisp
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
@@ -64,10 +65,19 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
+- [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
-- [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
+- [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
+- [Joe Bew](#joebew42) - **streaming** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
+- [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
+- [Gwen Frey](#gwen-frey) - **streaming** Game Development, Unreal Blueprint, Animation
+- [Jonathan Blow](#jonathan-blow) - **streaming** Programming, Gamedev, Jai, C++, OpenGL
+- [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
+- [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
+- [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
+- [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
 
 ## Developers That Stream
 
@@ -392,6 +402,16 @@ Also known as MPJ from Fun Fun Function
 - [Discord](https://discord.gg/AxR74yp)
 - [Donations](https://streamlabs.com/jessicamak)
 
+### Shinmera
+#### What Shinmera Streams
+- Game Development, Common Lisp, Lisp projects demos
+#### Streaming On:
+- [Twitch](http://twitch.tv/Shinmera)
+- [YouTube](https://www.youtube.com/playlist?list=PLkDl6Irujx9MtJPRRP5KBH40SGCenztPW)
+#### Links:
+- [Github](https://github.com/Shinmera/)
+- [Website](http://shinmera.com/)
+
 ### Swizec Teller
 #### What  Swizec Streams
 - JavaScript, React, D3
@@ -527,3 +547,80 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/DevChatter)
 - [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
 
+### Joe Bew
+#### What Joe Streams
+- Test-Driven Development, Clean Code, Refactoring, Open Source projects
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/joebew42)
+#### Links:
+- [Twitter](https://twitter.com/joebew42)
+- [GitHub](https://github.com/joebew42)
+- [Website](https://joebew42.github.io/twitch/)
+
+### Mike Conley
+#### What Mike Streams
+- Firefox Development, JavaScript, C++, CSS, Rust
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/mikeconley_dot_ca)
+- [Facebook](https://www.facebook.com/TheJoyOfCoding1/)
+- [YouTube](https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ)
+- [Air Mozilla](https://air.mozilla.org/channels/livehacking/)
+#### Links:
+- [Twitter](http://twitter.com/mike_conley)
+- [GitHub](http://github.com/mikeconley/)
+- [YouTube](https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ)
+- [Website](https://www.mikeconley.ca/blog)
+
+### Gwen Frey
+#### What Gwen Streams
+- Game Development, Unreal Blueprint, Animation
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/diregoldfish)
+#### Links:
+- [Twitter](https://twitter.com/diregoldfish)
+
+### Jonathan Blow
+#### What Jonathan Blow Streams
+- Game Development, Language Developement, Jai, C++, OpenGL
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/naysayer88)
+#### Links:
+- [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
+- [Twitter](https://twitter.com/Jonathan_Blow)
+- [Google+](https://plus.google.com/u/0/102153353283805950802)
+
+### Sébastien Rancoud
+#### What Sébastien Streams
+- JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/megadamage)
+#### Languages Spoken During Stream
+- French
+- English
+#### Links:
+- [Twitter](https://twitter.com/rancoud)
+- [GitHub](https://github.com/rancoud)
+
+### Jen Tong
+#### What Jen Streams
+- Python, JavaScript, NodeBots, Astronomy
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/MimmingCodes)
+#### Links:
+- [Twitter](https://twitter.com/MimmingCodes)
+- [GitHub](https://github.com/mimming)
+- [YouTube](https://www.youtube.com/c/mimming)
+- [Website](https://mimming.com/)
+
+### CaptainKraft
+#### What CaptainKraft Streams
+- C, C++, Rust
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/captainkraft)
+
+### iDevelopThings
+#### What iDevelopThings Streams
+- PHP, JavaScript, Node.js, Full stack development, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/idevelopthings)
+- [YouTube](https://youtube.com/idevelopthings)
