@@ -76,6 +76,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
+- [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
 
 ## Developers That Stream
 
@@ -603,3 +604,10 @@ Also known as MPJ from Fun Fun Function
 - C, C++, Rust
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/captainkraft)
+
+### iDevelopThings
+#### What iDevelopThings Streams
+- PHP, JavaScript, Node.js, Full stack development, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/idevelopthings)
+- [YouTube](https://youtube.com/idevelopthings)
