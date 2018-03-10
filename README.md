@@ -68,6 +68,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Brian McKenna] (#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
 - [Joe Bew](#joebew42) - **streaming** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
+- [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 
 ## Developers That Stream
 
@@ -525,3 +526,16 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/joebew42)
 - [Website](https://joebew42.github.io/twitch/)
 
+### Mike Conley
+#### What Mike Streams
+- Firefox Development, JavaScript, C++, CSS, Rust
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/mikeconley_dot_ca)
+- [Facebook](https://www.facebook.com/TheJoyOfCoding1/)
+- [YouTube](https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ)
+- [Air Mozilla](https://air.mozilla.org/channels/livehacking/)
+#### Links:
+- [Twitter](http://twitter.com/mike_conley)
+- [GitHub](http://github.com/mikeconley/)
+- [YouTube](https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ)
+- [Website](https://www.mikeconley.ca/blog)
