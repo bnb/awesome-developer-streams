@@ -72,6 +72,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Gwen Frey](#gwen-frey) - **streaming** Game Development, Unreal Blueprint, Animation
 - [Jonathan Blow](#jonathan-blow) - **streaming** Programming, Gamedev, Jai, C++, OpenGL
 - [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
+- [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 
 ## Developers That Stream
 
@@ -572,3 +573,14 @@ Also known as MPJ from Fun Fun Function
 #### Links:
 - [Twitter](https://twitter.com/rancoud)
 - [GitHub](https://github.com/rancoud)
+
+### Jen Tong
+#### What Jen Streams
+- Python, JavaScript, NodeBots, Astronomy
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/MimmingCodes)
+#### Links:
+- [Twitter](https://twitter.com/MimmingCodes)
+- [GitHub](https://github.com/mimming)
+- [YouTube](https://www.youtube.com/c/mimming)
+- [Website](https://mimming.com/)
