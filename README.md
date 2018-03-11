@@ -77,6 +77,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
+- [Randall Hunt](#randall-hunt) - **streaming:** AWS, Web Development, Hardware Hacking, Python, Serverless, AI
 
 ## Developers That Stream
 
@@ -611,3 +612,14 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
+
+### Randall Hunt
+#### What Randall Streams
+AWS, Web Development, Python, Serverless, AI
+#### Streaming on:
+- [Twitch (AWS)](https://www.twitch.tv/aws)
+- [Twitch (Personal)](https://www.twitch.tv/RandallAtAmazon)
+#### Links:
+- [Twitter](https://twitter.com/jrhunt)
+- [GitHub](https://github.com/ranman)
+- [YouTube](https://www.youtube.com/channel/UC-yKovfbYEWyD_pXh9n7nHA)
