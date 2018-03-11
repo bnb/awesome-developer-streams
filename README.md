@@ -77,6 +77,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
+- [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 
 ## Developers That Stream
 
@@ -611,3 +612,13 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
+
+### KensoDev
+#### What KensoDev Streams
+- Advanced Devops - Python, Terraform, React
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/kensodev)
+- [YouTube](https://www.youtube.com/channel/UCuFT6CtDnOGvcn9WdAvBusA)
+#### Links:
+- [Twitter](https://twitter.com/KensoDev)
+- [GitHub](https://github.com/KensoDev)
