@@ -623,5 +623,6 @@ Also known as MPJ from Fun Fun Function
 - French
 - English (only when asked)
 #### Links:
+- [Discord](https://discord.gg/zcWp9sC)
 - [GitHub](https://github.com/DrLynix)
 - [Website](https://sirlynixvanfrietjes.be)
