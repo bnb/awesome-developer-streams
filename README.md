@@ -77,6 +77,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
+- [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 
 ## Developers That Stream
 
@@ -611,3 +612,16 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
+
+
+### Sir Lynix Van Frietjes
+#### What Sir Lynix van Friejtes Streams
+- C++, Lua, Game Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/sirlynixvanfrietjes)
+#### Languages Spoken During Stream
+- French
+- English (only when asked)
+#### Links:
+- [GitHub](https://github.com/DrLynix)
+- [Website](https://sirlynixvanfrietjes.be)
