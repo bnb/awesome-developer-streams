@@ -77,7 +77,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
-
+- [btor](#btor) - **streaming** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 ## Developers That Stream
 
 ### Suz Hinton
@@ -611,3 +611,14 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
+
+### Btor
+#### What Btor Streams
+- French streamer who streams Php (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc. 
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/bt0r)
+#### Links:
+- [Twitter](https://twitter.com/biiitor)
+- [GitHub](https://github.com/bt0r)
+- [Website](http://btor.fr/)
+- [Discord](https://discord.gg/NDpZXN5)
