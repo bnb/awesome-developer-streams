@@ -79,6 +79,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
+- [Keraf](#keraf) - **streaming** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
 
 ## Developers That Stream
 
@@ -635,3 +636,13 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/nmarulo)
 - [Twitter](https://twitter.com/nmarulo)
 - [Website](http://softn.red)
+
+### Keraf
+#### What Keraf Streams
+- JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/iamkeraf)
+#### Links:
+- [Twitter](https://twitter.com/iamkeraf)
+- [GitHub](https://github.com/keraf)
+- [Website](https://ker.af/)
