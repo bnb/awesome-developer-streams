@@ -82,6 +82,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 - [Randall Hunt](#randall-hunt) - **streaming:** AWS, Web Development, Hardware Hacking, Python, Serverless, AI
 - [Keraf](#keraf) - **streaming** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
+- [btor](#btor) - **streaming** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 
 ## Developers That Stream
 
@@ -670,3 +671,15 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/iamkeraf)
 - [GitHub](https://github.com/keraf)
 - [Website](https://ker.af/)
+
+### Btor
+#### What Btor Streams
+- French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc. 
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/bt0r)
+#### Links:
+- [Twitter](https://twitter.com/biiitor)
+- [GitHub](https://github.com/bt0r)
+- [Website](http://btor.fr/)
+- [Discord](https://discord.gg/NDpZXN5)
+
