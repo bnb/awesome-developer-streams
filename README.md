@@ -84,6 +84,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Keraf](#keraf) - **streaming** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
 - [btor](#btor) - **streaming** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
+- [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 
 ## Developers That Stream
 
@@ -693,4 +694,17 @@ AWS, Web Development, Python, Serverless, AI
 #### Links:
 - [Twitter](https://twitter.com/KensoDev)
 - [GitHub](https://github.com/KensoDev)
+
+### Sir Lynix Van Frietjes
+#### What Sir Lynix van Friejtes Streams
+- C++, Lua, Game Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/sirlynixvanfrietjes)
+#### Languages Spoken During Stream
+- French
+- English (only when asked)
+#### Links:
+- [Discord](https://discord.gg/zcWp9sC)
+- [GitHub](https://github.com/DrLynix)
+- [Website](https://sirlynixvanfrietjes.be)
 
