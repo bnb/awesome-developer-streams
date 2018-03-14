@@ -77,6 +77,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
+- [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 
 ## Developers That Stream
 
@@ -611,3 +612,15 @@ Also known as MPJ from Fun Fun Function
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
+
+### DevChatter
+#### What DevChatter Streams
+- C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
+#### Streaming on:
+- [Twitch](https://twitch.tv/devchatter)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/DevChatter_)
+- [GitHub](https://github.com/DevChatter)
+- [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
