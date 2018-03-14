@@ -80,6 +80,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 - [Randall Hunt](#randall-hunt) - **streaming:** AWS, Web Development, Hardware Hacking, Python, Serverless, AI
+- [Keraf](#keraf) - **streaming** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
 
 ## Developers That Stream
 
@@ -647,3 +648,13 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/jrhunt)
 - [GitHub](https://github.com/ranman)
 - [YouTube](https://www.youtube.com/channel/UC-yKovfbYEWyD_pXh9n7nHA)
+
+### Keraf
+#### What Keraf Streams
+- JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/iamkeraf)
+#### Links:
+- [Twitter](https://twitter.com/iamkeraf)
+- [GitHub](https://github.com/keraf)
+- [Website](https://ker.af/)
