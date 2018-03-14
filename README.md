@@ -31,6 +31,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
+- [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Shirley Wu](#shirley-wu) - **streaming:** Data Visualisation (DataViz), JavaScript, React
 - [Sean Larkin](#sean-larkin) - **streaming:** Webpack, OSS, JavaScript, Gaming
 - [Kent C. Dodds](#kent-c-dodds) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
@@ -69,7 +70,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
-- [Joe Bew](#joebew42) - **streaming** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
+- [Joe Bew](#joe-bew) - **streaming:** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [Gwen Frey](#gwen-frey) - **streaming** Game Development, Unreal Blueprint, Animation
 - [Jonathan Blow](#jonathan-blow) - **streaming** Programming, Gamedev, Jai, C++, OpenGL
@@ -77,6 +78,12 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
+- [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
+- [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
+- [Randall Hunt](#randall-hunt) - **streaming:** AWS, Web Development, Hardware Hacking, Python, Serverless, AI
+- [Keraf](#keraf) - **streaming** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
+- [btor](#btor) - **streaming** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
+- [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 
 ## Developers That Stream
@@ -113,6 +120,17 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/thlorenz)
 - [Website](http://thlorenz.com/)
 - [Patreon](https://www.patreon.com/thlorenz)
+
+### Amorelandra
+#### What Amorelandra Streams
+- Twitch Extension Development, IRL, JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/Amorelandra)
+#### Links:
+- [Twitter](https://twitter.com/Amorelandra)
+- [GitHub](https://github.com/Amorelandra)
+- [Blog](https://amorelandra.com/blog/)
+- [Website](https://amorelandra.com/)
 
 ### Shirley Wu
 #### What Shirley Streams
@@ -613,6 +631,69 @@ Also known as MPJ from Fun Fun Function
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
 
+### DevChatter
+#### What DevChatter Streams
+- C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
+#### Streaming on:
+- [Twitch](https://twitch.tv/devchatter)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/DevChatter_)
+- [GitHub](https://github.com/DevChatter)
+- [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
+
+### iDevelopThings
+#### What nmarulo Streams
+- JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/nmarulo)
+#### Links:
+- [GitHub](https://github.com/nmarulo)
+- [Twitter](https://twitter.com/nmarulo)
+- [Website](http://softn.red)
+
+### Randall Hunt
+#### What Randall Streams
+AWS, Web Development, Python, Serverless, AI
+#### Streaming on:
+- [Twitch (AWS)](https://www.twitch.tv/aws)
+- [Twitch (Personal)](https://www.twitch.tv/RandallAtAmazon)
+#### Links:
+- [Twitter](https://twitter.com/jrhunt)
+- [GitHub](https://github.com/ranman)
+- [YouTube](https://www.youtube.com/channel/UC-yKovfbYEWyD_pXh9n7nHA)
+
+### Keraf
+#### What Keraf Streams
+- JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/iamkeraf)
+#### Links:
+- [Twitter](https://twitter.com/iamkeraf)
+- [GitHub](https://github.com/keraf)
+- [Website](https://ker.af/)
+
+### Btor
+#### What Btor Streams
+- French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc. 
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/bt0r)
+#### Links:
+- [Twitter](https://twitter.com/biiitor)
+- [GitHub](https://github.com/bt0r)
+- [Website](http://btor.fr/)
+- [Discord](https://discord.gg/NDpZXN5)
+
+### KensoDev
+#### What KensoDev Streams
+- Advanced Devops - Python, Terraform, React
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/kensodev)
+- [YouTube](https://www.youtube.com/channel/UCuFT6CtDnOGvcn9WdAvBusA)
+#### Links:
+- [Twitter](https://twitter.com/KensoDev)
+- [GitHub](https://github.com/KensoDev)
 
 ### Sir Lynix Van Frietjes
 #### What Sir Lynix van Friejtes Streams
@@ -626,3 +707,4 @@ Also known as MPJ from Fun Fun Function
 - [Discord](https://discord.gg/zcWp9sC)
 - [GitHub](https://github.com/DrLynix)
 - [Website](https://sirlynixvanfrietjes.be)
+
