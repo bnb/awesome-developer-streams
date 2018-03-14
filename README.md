@@ -83,6 +83,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Randall Hunt](#randall-hunt) - **streaming:** AWS, Web Development, Hardware Hacking, Python, Serverless, AI
 - [Keraf](#keraf) - **streaming** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
 - [btor](#btor) - **streaming** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
+- [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 
 ## Developers That Stream
 
@@ -682,4 +683,14 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/bt0r)
 - [Website](http://btor.fr/)
 - [Discord](https://discord.gg/NDpZXN5)
+
+### KensoDev
+#### What KensoDev Streams
+- Advanced Devops - Python, Terraform, React
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/kensodev)
+- [YouTube](https://www.youtube.com/channel/UCuFT6CtDnOGvcn9WdAvBusA)
+#### Links:
+- [Twitter](https://twitter.com/KensoDev)
+- [GitHub](https://github.com/KensoDev)
 
