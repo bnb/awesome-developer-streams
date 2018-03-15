@@ -85,6 +85,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [btor](#btor) - **streaming** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
+- [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
 
 ## Developers That Stream
 
@@ -708,3 +709,15 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/DrLynix)
 - [Website](https://sirlynixvanfrietjes.be)
 
+### Jochen Lillich
+#### What Jochen Lillich streams
+- DevOps - Chef, Docker, Kontena
+- Ruby programming
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/dev0ps)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://www.twitter.com/geewiz)
+- [Github](https://github.com/geewiz)
+- [Website](http://jochen.lillich.co)
