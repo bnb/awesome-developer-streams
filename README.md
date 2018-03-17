@@ -86,6 +86,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
+- [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming** JavaScript, React, Redux + redux-saga, Firebase, Node.js
 
 ## Developers That Stream
 
@@ -721,3 +722,14 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### Sebastian Krzyżanowski
+#### What Sebastian Krzyżanowski streams
+- JavaScript, React, Redux + redux-saga, Firebase, Node.js
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/vfujin)
+#### Languages Spoken During Stream
+- English
+- Polish
+#### Links:
+- [Github](https://github.com/vFujin)
