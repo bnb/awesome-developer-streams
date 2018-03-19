@@ -86,6 +86,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
+- [Simeon Vincent](#simeon-vincent) - **streaming** JavaScript, CSS, Web Development, Twitch extensions
 
 ## Developers That Stream
 
@@ -721,3 +722,15 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### Simeon Vincent
+#### What Simeon Vincent Streams
+- JavaScript, CSS, Web Development, Twitch extensions
+#### Streaming on:
+- [Twitch](https://twitch.tv/dotproto)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/dotproto)
+- [Github](https://github.com/dotproto)
+- [Website](https://dotproto.com)
