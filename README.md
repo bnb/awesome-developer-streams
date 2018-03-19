@@ -86,6 +86,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
+- [Jesse Weigel](#jweigel) - **streaming** React, Node.js, CSS, Next.js, Wordpress
 
 ## Developers That Stream
 
@@ -721,3 +722,16 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### Jesse Weigel
+#### What Jesse Streams
+Web Development, React, Node.js, CSS, Next.js, Wordpress
+#### Streaming on:
+- [YouTube (FreeCodeCamp)](https://www.youtube.com/playlist?list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r)
+- [YouTube (Personal)](https://www.youtube.com/channel/UCUGkNhK8IEUj8A0vbyJ1Bzw)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/JesseRWeigel)
+- [Instagram](https://www.instagram.com/jesse.weigel/)
+- [Github (FreeCodeCamp)](https://github.com/fus-marcom/franciscan-react)
