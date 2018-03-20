@@ -86,6 +86,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
+- [Ian Lovett](#ian-lovett) - **streaming** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 
 ## Developers That Stream
 
@@ -677,7 +678,7 @@ AWS, Web Development, Python, Serverless, AI
 
 ### Btor
 #### What Btor Streams
-- French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc. 
+- French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc.
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/bt0r)
 #### Links:
@@ -721,3 +722,18 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### Ian Lovett
+#### What Ian Lovett streams
+- JavaScript UI - Angular, React, React Native, Redux
+- JavaScript API - Node.js, Express
+- Elastic Search
+- CryptoCurrency Web Apps
+- Gaming - Overwatch, Fortnite, CS:GO
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ilovett)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://www.twitter.com/_ilovett)
+- [Github](https://github.com/ilovett)
