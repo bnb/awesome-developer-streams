@@ -727,6 +727,8 @@ AWS, Web Development, Python, Serverless, AI
 - Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/rgomex)
+#### Languages Spoken During Stream
+- English, Portuguese
 #### Links:
 - [Discord](https://discord.gg/4qDQdXu)
 - [Website](https://rubengomes10.github.io)
