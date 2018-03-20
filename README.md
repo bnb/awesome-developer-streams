@@ -721,3 +721,13 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### Rúben Gomes
+#### What Rúben Streams
+- Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/rgomex)
+#### Links:
+- [Discord](https://discord.gg/4qDQdXu)
+- [Website](https://rubengomes10.github.io)
+- [Github](https://github.com/rubengomex)
