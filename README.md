@@ -644,7 +644,7 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/DevChatter)
 - [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
 
-### nmarulo
+### iDevelopThings
 #### What nmarulo Streams
 - JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 #### Streaming on:
