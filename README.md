@@ -28,6 +28,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 **PROTIP:** Search this page for subjects you'd be interested in watching live, like JavaScript, DataViz, IoT, Rust, and so on. You'll get an index of streamers relevant to your interests–be sure to follow them! ❤️
 
 ## Table of Contents
+- [Jeff Lindsay](#jeff-lindsay) - **streaming:** Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
@@ -88,6 +89,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
 
 ## Developers That Stream
+
+### Jeff Lindsay
+#### What Jeff Streams
+- Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/progrium)
+#### Links:
+- [Twitter](https://twitter.com/progrium)
+- [GitHub](https://github.com/progrium)
+- [Website](http://progrium.com/)
 
 ### Suz Hinton
 #### What Suz Streams
