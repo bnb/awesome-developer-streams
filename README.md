@@ -61,7 +61,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
-- [Alexander Simovic](#simalexan) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
+- [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
@@ -677,7 +677,7 @@ AWS, Web Development, Python, Serverless, AI
 
 ### Btor
 #### What Btor Streams
-- French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc. 
+- French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc.
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/bt0r)
 #### Links:
