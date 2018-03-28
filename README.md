@@ -86,6 +86,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
+- [Per Vognsen](#per-vognsen) - **streaming** Software/Hardware low-level development, C, Python, Ion
 
 ## Developers That Stream
 
@@ -721,3 +722,17 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### Per Vognsen
+#### What Per Vognsen streams
+- Building system from scratch, C, Python, HDL, Ion
+#### Streaming on:
+- [Twitch](https://twitch.tv/pervognsen)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/pervognsen)
+- [Github](https://github.com/pervognsen/bitwise)
+- [Discord](https://discord.gg/7TSA6ZF)
+- [YouTube](https://youtube.com/pervognsen)
+- [Forum](https://bitwise.handmade.network/forums)
