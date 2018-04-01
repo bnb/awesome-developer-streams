@@ -340,6 +340,7 @@ Also known as MPJ from Fun Fun Function
 - JavaScript, Node.js, Programming in general
 #### Streaming on:
 - [Youtube](https://youtube.com/funfunfunction)
+- [Twitch](https://www.twitch.tv/funfunfunction)
 #### Languages Spoken During Stream
 - English
 #### Links:
