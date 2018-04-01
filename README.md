@@ -93,6 +93,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming** JavaScript, React, Redux + redux-saga, Firebase, Node.js
 - [Ian Lovett](#ian-lovett) - **streaming** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
+- [Per Vognsen](#per-vognsen) - **streaming** Software/Hardware low-level development, C, Python, Ion
 
 ## Developers That Stream
 
@@ -820,3 +821,17 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/4qDQdXu)
 - [Website](https://rubengomes10.github.io)
 - [Github](https://github.com/rubengomex)
+
+### Per Vognsen
+#### What Per Vognsen streams
+- Building system from scratch, C, Python, HDL, Ion
+#### Streaming on:
+- [Twitch](https://twitch.tv/pervognsen)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/pervognsen)
+- [Github](https://github.com/pervognsen/bitwise)
+- [Discord](https://discord.gg/7TSA6ZF)
+- [YouTube](https://youtube.com/pervognsen)
+- [Forum](https://bitwise.handmade.network/forums)
