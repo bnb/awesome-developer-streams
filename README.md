@@ -89,6 +89,8 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Robin Pokorny](#robin-pokorny) - **streaming** JavaScript, Functional Programming, Node.js
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
 - [Simeon Vincent](#simeon-vincent) - **streaming** JavaScript, CSS, Web Development, Twitch extensions
+- [Jesse Weigel](#jweigel) - **streaming** React, Node.js, CSS, Next.js, Wordpress
+
 
 ## Developers That Stream
 
@@ -764,3 +766,16 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/dotproto)
 - [Github](https://github.com/dotproto)
 - [Website](https://dotproto.com)
+
+### Jesse Weigel
+#### What Jesse Streams
+Web Development, React, Node.js, CSS, Next.js, Wordpress
+#### Streaming on:
+- [YouTube (FreeCodeCamp)](https://www.youtube.com/playlist?list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r)
+- [YouTube (Personal)](https://www.youtube.com/channel/UCUGkNhK8IEUj8A0vbyJ1Bzw)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/JesseRWeigel)
+- [Instagram](https://www.instagram.com/jesse.weigel/)
+- [Github (FreeCodeCamp)](https://github.com/fus-marcom/franciscan-react)
