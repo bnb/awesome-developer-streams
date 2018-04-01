@@ -61,7 +61,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
-- [Alexander Simovic](#simalexan) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
+- [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
@@ -86,7 +86,11 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
+- [Robin Pokorny](#robin-pokorny) - **streaming** JavaScript, Functional Programming, Node.js
+- [Gynvael Coldwind](#gynvael-coldwind) - **streaming** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
+- [Simeon Vincent](#simeon-vincent) - **streaming** JavaScript, CSS, Web Development, Twitch extensions
 - [Jesse Weigel](#jweigel) - **streaming** React, Node.js, CSS, Next.js, Wordpress
+
 
 ## Developers That Stream
 
@@ -645,7 +649,7 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/DevChatter)
 - [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
 
-### iDevelopThings
+### nmarulo
 #### What nmarulo Streams
 - JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 #### Streaming on:
@@ -678,7 +682,7 @@ AWS, Web Development, Python, Serverless, AI
 
 ### Btor
 #### What Btor Streams
-- French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc. 
+- French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc.
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/bt0r)
 #### Links:
@@ -722,6 +726,46 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### Robin Pokorny
+#### What Robin Pokorny Streams
+- JavaScript, Functional Programming, Node.js
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/robinpokorny)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/robinpokorny)
+- [GitHub](https://github.com/robinpokorny)
+- [Website](https://robinpokorny.com/)
+- [YouTube](https://www.youtube.com/c/robinpokorny)
+
+### Gynvael Coldwind
+#### What Gynvael Coldwind Streams
+- Software development - Python, C, C++, ASM
+- Reverse engineering
+- Hacking
+- Security
+#### Streaming on:
+- [Youtube EN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
+- [Youtube PL](https://www.youtube.com/user/GynvaelColdwind)
+#### Links:
+- [Twitter](https://twitter.com/gynvael)
+- [GitHub](https://github.com/gynvael)
+- [Website](http://gynvael.coldwind.pl/)
+- [Facebook](https://www.facebook.com/GynvaelPL/)
+
+### Simeon Vincent
+#### What Simeon Vincent Streams
+- JavaScript, CSS, Web Development, Twitch extensions
+#### Streaming on:
+- [Twitch](https://twitch.tv/dotproto)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/dotproto)
+- [Github](https://github.com/dotproto)
+- [Website](https://dotproto.com)
 
 ### Jesse Weigel
 #### What Jesse Streams
