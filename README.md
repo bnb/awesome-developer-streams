@@ -91,6 +91,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Simeon Vincent](#simeon-vincent) - **streaming** JavaScript, CSS, Web Development, Twitch extensions
 - [Jesse Weigel](#jweigel) - **streaming** React, Node.js, CSS, Next.js, Wordpress
 - [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming** JavaScript, React, Redux + redux-saga, Firebase, Node.js
+- [Ian Lovett](#ian-lovett) - **streaming** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 
 ## Developers That Stream
 
@@ -790,3 +791,18 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - Polish
 #### Links:
 - [Github](https://github.com/vFujin)
+
+### Ian Lovett
+#### What Ian Lovett streams
+- JavaScript UI - Angular, React, React Native, Redux
+- JavaScript API - Node.js, Express
+- Elastic Search
+- CryptoCurrency Web Apps
+- Gaming - Overwatch, Fortnite, CS:GO
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ilovett)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://www.twitter.com/_ilovett)
+- [Github](https://github.com/ilovett)
