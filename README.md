@@ -87,6 +87,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
 - [Robin Pokorny](#robin-pokorny) - **streaming** JavaScript, Functional Programming, Node.js
+- [Gynvael Coldwind](#gynvael-coldwind) - **streaming** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
 
 ## Developers That Stream
 
@@ -735,3 +736,18 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/robinpokorny)
 - [Website](https://robinpokorny.com/)
 - [YouTube](https://www.youtube.com/c/robinpokorny)
+
+### Gynvael Coldwind
+#### What Gynvael Coldwind Streams
+- Software development - Python, C, C++, ASM
+- Reverse engineering
+- Hacking
+- Security
+#### Streaming on:
+- [Youtube EN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
+- [Youtube PL](https://www.youtube.com/user/GynvaelColdwind)
+#### Links:
+- [Twitter](https://twitter.com/gynvael)
+- [GitHub](https://github.com/gynvael)
+- [Website](http://gynvael.coldwind.pl/)
+- [Facebook](https://www.facebook.com/GynvaelPL/)
