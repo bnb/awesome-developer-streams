@@ -92,6 +92,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jesse Weigel](#jweigel) - **streaming** React, Node.js, CSS, Next.js, Wordpress
 - [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming** JavaScript, React, Redux + redux-saga, Firebase, Node.js
 - [Ian Lovett](#ian-lovett) - **streaming** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
+- [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 
 ## Developers That Stream
 
@@ -806,3 +807,15 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 #### Links:
 - [Twitter](https://www.twitter.com/_ilovett)
 - [Github](https://github.com/ilovett)
+
+### Rúben Gomes
+#### What Rúben Streams
+- Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/rgomex)
+#### Languages Spoken During Stream
+- English, Portuguese
+#### Links:
+- [Discord](https://discord.gg/4qDQdXu)
+- [Website](https://rubengomes10.github.io)
+- [Github](https://github.com/rubengomex)
