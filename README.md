@@ -57,7 +57,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jessica Mak](#jessica-mak) - **streaming:** C++, OpenGL, Game Development
-- [Shinmera](#shinmera) - **streaming**: Game Development, Common Lisp
+- [Shinmera](#shinmera) - **streaming:**: Game Development, Common Lisp
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
@@ -69,31 +69,31 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
-- [Jack Mott](#jack-mott) - **streaming** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
+- [Jack Mott](#jack-mott) - **streaming:** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
 - [Joe Bew](#joe-bew) - **streaming:** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
-- [Gwen Frey](#gwen-frey) - **streaming** Game Development, Unreal Blueprint, Animation
-- [Jonathan Blow](#jonathan-blow) - **streaming** Programming, Gamedev, Jai, C++, OpenGL
+- [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
+- [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
 - [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
-- [iDevelopThings](#idevelopthings) - **streaming** PHP, JavaScript, Node.js, Full stack development, Web Development
+- [iDevelopThings](#idevelopthings) - **streaming:** PHP, JavaScript, Node.js, Full stack development, Web Development
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 - [Randall Hunt](#randall-hunt) - **streaming:** AWS, Web Development, Hardware Hacking, Python, Serverless, AI
-- [Keraf](#keraf) - **streaming** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
-- [btor](#btor) - **streaming** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
-- [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
-- [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
-- [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
-- [Robin Pokorny](#robin-pokorny) - **streaming** JavaScript, Functional Programming, Node.js
-- [Gynvael Coldwind](#gynvael-coldwind) - **streaming** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
-- [Simeon Vincent](#simeon-vincent) - **streaming** JavaScript, CSS, Web Development, Twitch extensions
-- [Jesse Weigel](#jweigel) - **streaming** React, Node.js, CSS, Next.js, Wordpress
-- [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming** JavaScript, React, Redux + redux-saga, Firebase, Node.js
-- [Ian Lovett](#ian-lovett) - **streaming** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
+- [Keraf](#keraf) - **streaming:** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
+- [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
+- [KensoDev](#kensodev) - **streaming:** Advanced Devops - Python, Terraform, React
+- [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming:** C++, Lua, Game Development (in french)
+- [Jochen Lillich](#jochen-lillich) - **streaming:** Ruby, Chef, DevOps, Docker, Kontena
+- [Robin Pokorny](#robin-pokorny) - **streaming:** JavaScript, Functional Programming, Node.js
+- [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
+- [Simeon Vincent](#simeon-vincent) - **streaming:** JavaScript, CSS, Web Development, Twitch extensions
+- [Jesse Weigel](#jweigel) - **streaming:** React, Node.js, CSS, Next.js, Wordpress
+- [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming:** JavaScript, React, Redux + redux-saga, Firebase, Node.js
+- [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
-- [Per Vognsen](#per-vognsen) - **streaming** Software/Hardware low-level development, C, Python, Ion
+- [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
 
 ## Developers That Stream
 
