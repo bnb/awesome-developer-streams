@@ -88,6 +88,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
 - [Robin Pokorny](#robin-pokorny) - **streaming** JavaScript, Functional Programming, Node.js
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
+- [Simeon Vincent](#simeon-vincent) - **streaming** JavaScript, CSS, Web Development, Twitch extensions
 
 ## Developers That Stream
 
@@ -751,3 +752,15 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/gynvael)
 - [Website](http://gynvael.coldwind.pl/)
 - [Facebook](https://www.facebook.com/GynvaelPL/)
+
+### Simeon Vincent
+#### What Simeon Vincent Streams
+- JavaScript, CSS, Web Development, Twitch extensions
+#### Streaming on:
+- [Twitch](https://twitch.tv/dotproto)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/dotproto)
+- [Github](https://github.com/dotproto)
+- [Website](https://dotproto.com)
