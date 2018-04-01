@@ -86,6 +86,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
+- [Robin Pokorny](#robin-pokorny) - **streaming** JavaScript, Functional Programming, Node.js
 
 ## Developers That Stream
 
@@ -721,3 +722,16 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### Robin Pokorny
+#### What Robin Pokorny Streams
+- JavaScript, Functional Programming, Node.js
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/robinpokorny)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/robinpokorny)
+- [GitHub](https://github.com/robinpokorny)
+- [Website](https://robinpokorny.com/)
+- [YouTube](https://www.youtube.com/c/robinpokorny)
