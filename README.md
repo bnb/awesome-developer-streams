@@ -90,7 +90,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
 - [Simeon Vincent](#simeon-vincent) - **streaming** JavaScript, CSS, Web Development, Twitch extensions
 - [Jesse Weigel](#jweigel) - **streaming** React, Node.js, CSS, Next.js, Wordpress
-
+- [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming** JavaScript, React, Redux + redux-saga, Firebase, Node.js
 
 ## Developers That Stream
 
@@ -779,3 +779,14 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/JesseRWeigel)
 - [Instagram](https://www.instagram.com/jesse.weigel/)
 - [Github (FreeCodeCamp)](https://github.com/fus-marcom/franciscan-react)
+
+### Sebastian Krzyżanowski
+#### What Sebastian Krzyżanowski streams
+- JavaScript, React, Redux + redux-saga, Firebase, Node.js
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/vfujin)
+#### Languages Spoken During Stream
+- English
+- Polish
+#### Links:
+- [Github](https://github.com/vFujin)
