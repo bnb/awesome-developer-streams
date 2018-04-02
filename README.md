@@ -28,7 +28,6 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 **PROTIP:** Search this page for subjects you'd be interested in watching live, like JavaScript, DataViz, IoT, Rust, and so on. You'll get an index of streamers relevant to your interests–be sure to follow them! ❤️
 
 ## Table of Contents
-- [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
@@ -87,17 +86,9 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
+- [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
 
 ## Developers That Stream
-### PixelogicDev
-#### What PixelogicDev Streams
-- iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/pixelogicdev)
-#### Links:
-- [Twitter](https://twitter.com/alec_dilanchian)
-- [GitHub](https://github.com/PixelogicDev)
-
 ### Suz Hinton
 #### What Suz Streams
 - IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
@@ -730,3 +721,12 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### PixelogicDev
+#### What PixelogicDev Streams
+- iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/pixelogicdev)
+#### Links:
+- [Twitter](https://twitter.com/alec_dilanchian)
+- [GitHub](https://github.com/PixelogicDev)
