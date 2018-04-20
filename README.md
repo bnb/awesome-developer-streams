@@ -94,9 +94,10 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [PixelogicDev](#PixelogicDev) - **streaming:** Build Apps in 28 Days, iOS, Swift, Mobile Development,JavaScript, Node.js, Angular, APIs, Web Development
+
 
 ## Developers That Stream
-
 ### Suz Hinton
 #### What Suz Streams
 - IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
@@ -835,3 +836,13 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+
+### PixelogicDev
+#### What PixelogicDev Streams
+- Build Apps in 28 Days, iOS, Mobile Development, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/pixelogicdev)
+#### Links:
+- [Twitter](https://twitter.com/alec_dilanchian)
+- [GitHub](https://github.com/PixelogicDev)
