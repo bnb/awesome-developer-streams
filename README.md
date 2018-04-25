@@ -94,6 +94,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Nico Vergara](#nico-vergara) - **streaming:** OSS, Elixir, Rust, Functional Programming, DevOps, Web Development
 
 ## Developers That Stream
 
@@ -835,3 +836,15 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+### Nico Vergara
+#### What Nico streams
+- Elixir, Rust, Obscure/Up and Coming Programming Languages, Functional Programming, DevOps, Web Development
+#### Streaming on:
+- [Twitch](https://twitch.tv/floatingdev)
+#### Languages Spoken During Stream
+- English, mumbling occasionally in Spanish
+#### Links:
+- [Twitter](https://twitter.com/nicoevergara)
+- [Github](https://github.com/nicoevergara)
+
