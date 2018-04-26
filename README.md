@@ -94,6 +94,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 
 ## Developers That Stream
 
@@ -835,3 +836,17 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+### Eddie Jaoude
+#### What Eddie streams
+- Open Source, JavaScript, Angular, AWS, Serverless, TypeScript, GitHub, Cucumber
+#### Streaming on:
+- [Twitch](https://twitch.tv/eddiejaoude)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/eddiejaoude)
+- [Github](https://github.com/eddiejaoude)
+- [Discord](https://discordapp.com/invite/jVwPDFd)
+- [YouTube](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA?view_as=subscriber)
+- [Instagram](https://www.instagram.com/eddiejaoude/)
