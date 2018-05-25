@@ -94,6 +94,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Jesse Skinner](#jesse-skinner) - **streaming:** Full stack web development, JavaScript, CSS, HTML, React, Node.js, PHP, Lua
 
 ## Developers That Stream
 
@@ -835,3 +836,16 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+### Jesse Skinner
+#### What Jesse Skinner Streams
+- Full stack web development, JavaScript, CSS, HTML, React, Node.js, PHP, Lua
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jesseskinner)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [YouTube](https://www.youtube.com/channel/UC6Ak0hMzttpQYAxzTe8kx7A)
+- [Twitter](https://twitter.com/jesseskinner)
+- [Github](https://github.com/jesseskinner)
+- [Website](https://codingwithjesse.com)
