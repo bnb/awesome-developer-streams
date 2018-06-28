@@ -94,6 +94,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Yuri Alves](#Yuri-Alves) - **streaming:** Javascript, Teaching Programming, Vue, CSS, Web Development, PHP (Laravel)
 
 ## Developers That Stream
 
@@ -835,3 +836,15 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+### Yuri Alves
+#### What Yuri Alves streams
+- JavaScript, Vue, Web Development, CSS
+#### Streaming on:
+- [Twitch](https://twitch.tv/pervognsen)
+#### Languages Spoken During Stream
+- English, Portuguese
+#### Links:
+- [Twitter](https://www.twitch.tv/ermatise)
+- [Github](https://github.com/chuckykillr)
+- [Website](https://bitwise.handmade.network/forums)
