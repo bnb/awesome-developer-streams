@@ -94,6 +94,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Vincent Gabriel](#vincent-gabriel) - **streaming:** Laravel, Vue.js, JavaScript, PHP, Open Source, Node.js
 
 ## Developers That Stream
 
@@ -835,3 +836,14 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+### Vincent Gabriel
+#### What Vincent streams
+- Laravel, Vue.js, JavaScript, PHP, Open Source, Node.js
+#### Streaming on:
+- [Twitch](https://twitch.tv/vincentcodes)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/gabrielva)
+- [Github](https://github.com/vinceg)
