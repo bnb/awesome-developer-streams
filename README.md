@@ -840,6 +840,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 ### Holden Karau
 #### What Holden Karau streams
 Scala, Python, Spark, PySpark, Open Source#### Streaming on:
+#### Streaming on:
 - [Twitch](https://www.twitch.tv/holdenkarau)
 #### Languages Spoken During Stream
 - English
