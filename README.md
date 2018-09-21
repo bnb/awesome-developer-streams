@@ -94,6 +94,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Jeff Lindsay](#jeff-lindsay) - **streaming:** Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
 
 ## Developers That Stream
 
@@ -835,3 +836,13 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+### Jeff Lindsay
+#### What Jeff Streams
+- Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/progrium)
+#### Links:
+- [Twitter](https://twitter.com/progrium)
+- [GitHub](https://github.com/progrium)
+- [Website](http://progrium.com/)
