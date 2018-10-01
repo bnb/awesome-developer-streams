@@ -94,6 +94,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Daniel Jenkins](#HonestDanGames) - **streaming:** Javascript, PHP, C#, Unity, Game Development 
 
 ## Developers That Stream
 
@@ -835,3 +836,17 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+### Daniel Jenkins
+#### What Daniel Jenkins streams
+- Javascript, PHP, C#, Unity, Game Development. Often takes part in Ludam Dare
+#### Streaming on:
+- [Twitch](https://twitch.tv/honestdangames)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://www.twitter.com/honestdangames)
+- [itch.io](https://honestdan.itch.io/)
+- [Discord](https://discord.gg/t2ESzmr)
+- [YouTube](https://www.youtube.com/channel/UCx1TRVOz6HbgwVgXxiK7WKQ)
+
