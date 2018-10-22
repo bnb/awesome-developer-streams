@@ -723,7 +723,7 @@ AWS, Web Development, Python, Serverless, AI
 - DevOps - Chef, Docker, Kontena
 - Ruby programming
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/dev0ps)
+- [Twitch](https://www.twitch.tv/fullstacklive)
 #### Languages Spoken During Stream
 - English
 #### Links:
