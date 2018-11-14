@@ -85,7 +85,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 - [KensoDev](#kensodev) - **streaming:** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming:** C++, Lua, Game Development (in french)
-- [Jochen Lillich](#jochen-lillich) - **streaming:** Ruby, Chef, DevOps, Docker, Kontena
+- [Jochen Lillich](#jochen-lillich) - **streaming:** Ruby, Chef, DevOps, SRE, Docker, Kubernetes
 - [Robin Pokorny](#robin-pokorny) - **streaming:** JavaScript, Functional Programming, Node.js
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
 - [Simeon Vincent](#simeon-vincent) - **streaming:** JavaScript, CSS, Web Development, Twitch extensions
@@ -720,16 +720,17 @@ AWS, Web Development, Python, Serverless, AI
 
 ### Jochen Lillich
 #### What Jochen Lillich streams
-- DevOps - Chef, Docker, Kontena
+- DevOps/SRE - Chef, Docker, Kubernetes
 - Ruby programming
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/dev0ps)
+- [Twitch](https://www.twitch.tv/fullstacklive)
+- [Youtube](https://www.youtube.com/channel/UCyYSXGM9OpT4VvoIcYQIYhA/live)
 #### Languages Spoken During Stream
 - English
 #### Links:
-- [Twitter](https://www.twitter.com/geewiz)
+- [Twitter](https://www.twitter.com/fullstacksensei)
 - [Github](https://github.com/geewiz)
-- [Website](http://jochen.lillich.co)
+- [Website](https://www.fullstacksensei.com)
 
 ### Robin Pokorny
 #### What Robin Pokorny Streams
