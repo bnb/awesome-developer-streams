@@ -96,6 +96,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
+- [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
 
 ## Developers That Stream
 
@@ -861,3 +862,12 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter(@davidkpiano)](https://twitter.com/davidkpiano)
 - [Twitter(@shshaw)](https://twitter.com/shshaw)
 - [Patreon](https://www.patreon.com/keyframers)
+ 
+### PixelogicDev
+#### What PixelogicDev Streams
+- iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/pixelogicdev)
+#### Links:
+- [Twitter](https://twitter.com/alec_dilanchian)
+- [GitHub](https://github.com/PixelogicDev)
