@@ -98,6 +98,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
 - [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
+- [Jesse Skinner](#jesse-skinner) - **streaming:** Full stack web development, JavaScript, CSS, HTML, React, Node.js, PHP, Lua
 
 ## Developers That Stream
 
@@ -886,3 +887,16 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discordapp.com/invite/jVwPDFd)
 - [YouTube](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA?view_as=subscriber)
 - [Instagram](https://www.instagram.com/eddiejaoude/)
+
+### Jesse Skinner
+#### What Jesse Skinner Streams
+- Full stack web development, JavaScript, CSS, HTML, React, Node.js, PHP, Lua
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jesseskinner)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [YouTube](https://www.youtube.com/channel/UC6Ak0hMzttpQYAxzTe8kx7A)
+- [Twitter](https://twitter.com/jesseskinner)
+- [Github](https://github.com/jesseskinner)
+- [Website](https://codingwithjesse.com)
