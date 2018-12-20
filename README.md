@@ -717,6 +717,7 @@ AWS, Web Development, Python, Serverless, AI
 #### Links:
 - [Discord](https://discord.gg/zcWp9sC)
 - [GitHub](https://github.com/DrLynix)
+- [Twitter](https://twitter.com/SirLynix)
 - [Website](https://sirlynixvanfrietjes.be)
 
 ### Jochen Lillich
