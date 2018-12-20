@@ -95,6 +95,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
+- [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
 
 ## Developers That Stream
 
@@ -849,3 +850,14 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/tsoding)
 - [Patreon](https://www.patreon.com/tsoding)
 - [Website](https://tsoding.github.io/)
+
+### KeyFramers
+#### What KeyFramers Stream
+- UI, Animation, JavaScript, CSS, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/keyframers)
+#### Links:
+- [Twitter(@keyframers)](https://twitter.com/keyframers)
+- [Twitter(@davidkpiano)](https://twitter.com/davidkpiano)
+- [Twitter(@shshaw)](https://twitter.com/shshaw)
+- [Patreon](https://www.patreon.com/keyframers)
