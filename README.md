@@ -103,6 +103,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Holden Karau](#holden-karau) - **streaming:** Scala, Python, Spark, PySpark, Open Source
 - [Jeff Lindsay](#jeff-lindsay) - **streaming:** Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
 - [Daniel Jenkins](#daniel-jenkins) - **streaming:** Javascript, PHP, C#, Unity, Game Development 
+- [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 
 ## Developers That Stream
 
@@ -951,3 +952,16 @@ Scala, Python, Spark, PySpark, Open Source#### Streaming on:
 - [itch.io](https://honestdan.itch.io/)
 - [Discord](https://discord.gg/t2ESzmr)
 - [YouTube](https://www.youtube.com/channel/UCx1TRVOz6HbgwVgXxiK7WKQ)
+
+### Matt Layman
+#### What Matt streams
+- Building Software as a Service (SaaS) with Python and Django
+#### Streaming on:
+- [Twitch](https://twitch.tv/mblayman)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Website](https://www.mattlayman.com)
+- [Twitter](https://twitter.com/mblayman)
+- [Github](https://github.com/mblayman)
+- [YouTube Playlist](https://www.youtube.com/watch?v=fNEZ_1dmVyE&list=PLFcKEo4b_n1wQA6lKtSqCq1dTMq1c2Lmw)
