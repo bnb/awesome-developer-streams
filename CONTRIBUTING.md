@@ -22,7 +22,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Suggestions for improvements to the awesome list are _always_ welcome.
 - Check your spelling and grammar.
 - Pull requests and commits should have descriptive titles.
-- Add new developer streams to **the end of the list**.
+- Add new developer streams alphabetically by the streamer's name or stream name.
 
 Suggestions for ammendments to these guidelines are always welcome - feel free to submit an issue or pull request.
 
