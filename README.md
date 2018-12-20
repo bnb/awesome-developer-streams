@@ -94,6 +94,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
 
 ## Developers That Stream
 
@@ -835,3 +836,15 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+### Tsoding
+#### What Tsoding Streams
+- Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/tsoding)
+#### Links:
+- [Twitter](https://twitter.com/tsoding)
+- [YouTube](https://www.youtube.com/tsoding)
+- [GitHub](https://github.com/tsoding)
+- [Patreon](https://www.patreon.com/tsoding)
+- [Website](https://tsoding.github.io/)
