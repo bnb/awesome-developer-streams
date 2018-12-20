@@ -94,6 +94,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 
 ## Developers That Stream
 
@@ -835,3 +836,16 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+### Matt Layman
+#### What Matt streams
+- Building Software as a Service (SaaS) with Python and Django
+#### Streaming on:
+- [Twitch](https://twitch.tv/mblayman)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Website](https://www.mattlayman.com)
+- [Twitter](https://twitter.com/mblayman)
+- [Github](https://github.com/mblayman)
+- [YouTube Playlist](https://www.youtube.com/watch?v=fNEZ_1dmVyE&list=PLFcKEo4b_n1wQA6lKtSqCq1dTMq1c2Lmw)
