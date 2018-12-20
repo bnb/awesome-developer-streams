@@ -94,6 +94,10 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
+- [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
+- [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+- [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Jesse Skinner](#jesse-skinner) - **streaming:** Full stack web development, JavaScript, CSS, HTML, React, Node.js, PHP, Lua
 
 ## Developers That Stream
@@ -717,6 +721,7 @@ AWS, Web Development, Python, Serverless, AI
 #### Links:
 - [Discord](https://discord.gg/zcWp9sC)
 - [GitHub](https://github.com/DrLynix)
+- [Twitter](https://twitter.com/SirLynix)
 - [Website](https://sirlynixvanfrietjes.be)
 
 ### Jochen Lillich
@@ -836,6 +841,52 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+### Tsoding
+#### What Tsoding Streams
+- Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/tsoding)
+#### Links:
+- [Twitter](https://twitter.com/tsoding)
+- [YouTube](https://www.youtube.com/tsoding)
+- [GitHub](https://github.com/tsoding)
+- [Patreon](https://www.patreon.com/tsoding)
+- [Website](https://tsoding.github.io/)
+
+### KeyFramers
+#### What KeyFramers Stream
+- UI, Animation, JavaScript, CSS, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/keyframers)
+#### Links:
+- [Twitter(@keyframers)](https://twitter.com/keyframers)
+- [Twitter(@davidkpiano)](https://twitter.com/davidkpiano)
+- [Twitter(@shshaw)](https://twitter.com/shshaw)
+- [Patreon](https://www.patreon.com/keyframers)
+ 
+### PixelogicDev
+#### What PixelogicDev Streams
+- iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/pixelogicdev)
+#### Links:
+- [Twitter](https://twitter.com/alec_dilanchian)
+- [GitHub](https://github.com/PixelogicDev)
+
+### Eddie Jaoude
+#### What Eddie streams
+- Open Source, JavaScript, Angular, AWS, Serverless, TypeScript, GitHub, Cucumber
+#### Streaming on:
+- [Twitch](https://twitch.tv/eddiejaoude)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/eddiejaoude)
+- [Github](https://github.com/eddiejaoude)
+- [Discord](https://discordapp.com/invite/jVwPDFd)
+- [YouTube](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA?view_as=subscriber)
+- [Instagram](https://www.instagram.com/eddiejaoude/)
 
 ### Jesse Skinner
 #### What Jesse Skinner Streams
