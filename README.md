@@ -97,6 +97,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
 - [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+- [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 
 ## Developers That Stream
 
@@ -871,3 +872,17 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 #### Links:
 - [Twitter](https://twitter.com/alec_dilanchian)
 - [GitHub](https://github.com/PixelogicDev)
+
+### Eddie Jaoude
+#### What Eddie streams
+- Open Source, JavaScript, Angular, AWS, Serverless, TypeScript, GitHub, Cucumber
+#### Streaming on:
+- [Twitch](https://twitch.tv/eddiejaoude)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/eddiejaoude)
+- [Github](https://github.com/eddiejaoude)
+- [Discord](https://discordapp.com/invite/jVwPDFd)
+- [YouTube](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA?view_as=subscriber)
+- [Instagram](https://www.instagram.com/eddiejaoude/)
