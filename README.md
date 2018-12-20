@@ -64,7 +64,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
-- [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
+- [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
@@ -94,7 +94,15 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
-- [Daniel Jenkins](#HonestDanGames) - **streaming:** Javascript, PHP, C#, Unity, Game Development 
+- [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
+- [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
+- [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+- [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
+- [Jesse Skinner](#jesse-skinner) - **streaming:** Full stack web development, JavaScript, CSS, HTML, React, Node.js, PHP, Lua
+- [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
+- [Holden Karau](#holden-karau) - **streaming:** Scala, Python, Spark, PySpark, Open Source
+- [Jeff Lindsay](#jeff-lindsay) - **streaming:** Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
+- [Daniel Jenkins](#daniel-jenkins) - **streaming:** Javascript, PHP, C#, Unity, Game Development 
 
 ## Developers That Stream
 
@@ -510,7 +518,7 @@ Also known as MPJ from Fun Fun Function
 
 ### Josh Hawkins
 #### What Hawkins Streams
-- JavaScript, Node.js, Rust, Python, OSS Projects, Gaming
+- JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 #### Streaming on:
 - [Twitch](https://twitch.tv/hawkinjs)
 #### Links:
@@ -717,6 +725,7 @@ AWS, Web Development, Python, Serverless, AI
 #### Links:
 - [Discord](https://discord.gg/zcWp9sC)
 - [GitHub](https://github.com/DrLynix)
+- [Twitter](https://twitter.com/SirLynix)
 - [Website](https://sirlynixvanfrietjes.be)
 
 ### Jochen Lillich
@@ -837,6 +846,98 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
 
+### Tsoding
+#### What Tsoding Streams
+- Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/tsoding)
+#### Links:
+- [Twitter](https://twitter.com/tsoding)
+- [YouTube](https://www.youtube.com/tsoding)
+- [GitHub](https://github.com/tsoding)
+- [Patreon](https://www.patreon.com/tsoding)
+- [Website](https://tsoding.github.io/)
+
+### KeyFramers
+#### What KeyFramers Stream
+- UI, Animation, JavaScript, CSS, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/keyframers)
+#### Links:
+- [Twitter(@keyframers)](https://twitter.com/keyframers)
+- [Twitter(@davidkpiano)](https://twitter.com/davidkpiano)
+- [Twitter(@shshaw)](https://twitter.com/shshaw)
+- [Patreon](https://www.patreon.com/keyframers)
+ 
+### PixelogicDev
+#### What PixelogicDev Streams
+- iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/pixelogicdev)
+#### Links:
+- [Twitter](https://twitter.com/alec_dilanchian)
+- [GitHub](https://github.com/PixelogicDev)
+
+### Eddie Jaoude
+#### What Eddie streams
+- Open Source, JavaScript, Angular, AWS, Serverless, TypeScript, GitHub, Cucumber
+#### Streaming on:
+- [Twitch](https://twitch.tv/eddiejaoude)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/eddiejaoude)
+- [Github](https://github.com/eddiejaoude)
+- [Discord](https://discordapp.com/invite/jVwPDFd)
+- [YouTube](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA?view_as=subscriber)
+- [Instagram](https://www.instagram.com/eddiejaoude/)
+
+### Jesse Skinner
+#### What Jesse Skinner Streams
+- Full stack web development, JavaScript, CSS, HTML, React, Node.js, PHP, Lua
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jesseskinner)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [YouTube](https://www.youtube.com/channel/UC6Ak0hMzttpQYAxzTe8kx7A)
+- [Twitter](https://twitter.com/jesseskinner)
+- [Github](https://github.com/jesseskinner)
+- [Website](https://codingwithjesse.com)
+
+### Ben Greenier
+#### What Ben Streams
+- Game development with C#/Unity3D, web and service development with JavaScript/Node.js
+#### Streaming on:
+- [Twitch](https://twitch.tv/ben_greenier)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/bengreenier)
+- [GitHub](https://github.com/bengreenier)
+- [Website](http://bengreenier.com)
+
+### Holden Karau
+#### What Holden Karau streams
+Scala, Python, Spark, PySpark, Open Source#### Streaming on:
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/holdenkarau)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/holdenkarau)
+- [Github](https://github.com/holdenk)
+- [YouTube](https://www.youtube.com/channel/UCSrCrNswosZaD7-IufFp2AA)
+
+### Jeff Lindsay
+#### What Jeff Streams
+- Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/progrium)
+#### Links:
+- [Twitter](https://twitter.com/progrium)
+- [GitHub](https://github.com/progrium)
+
 ### Daniel Jenkins
 #### What Daniel Jenkins streams
 - Javascript, PHP, C#, Unity, Game Development. Often takes part in Ludam Dare
@@ -849,4 +950,3 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [itch.io](https://honestdan.itch.io/)
 - [Discord](https://discord.gg/t2ESzmr)
 - [YouTube](https://www.youtube.com/channel/UCx1TRVOz6HbgwVgXxiK7WKQ)
-
