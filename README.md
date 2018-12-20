@@ -100,6 +100,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Jesse Skinner](#jesse-skinner) - **streaming:** Full stack web development, JavaScript, CSS, HTML, React, Node.js, PHP, Lua
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
+- [Holden Karau](#holden-karau) - **streaming:** Scala, Python, Spark, PySpark, Open Source
 
 ## Developers That Stream
 
@@ -913,3 +914,15 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/bengreenier)
 - [GitHub](https://github.com/bengreenier)
 - [Website](http://bengreenier.com)
+
+### Holden Karau
+#### What Holden Karau streams
+Scala, Python, Spark, PySpark, Open Source#### Streaming on:
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/holdenkarau)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/holdenkarau)
+- [Github](https://github.com/holdenk)
+- [YouTube](https://www.youtube.com/channel/UCSrCrNswosZaD7-IufFp2AA)
