@@ -102,6 +102,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
 - [Holden Karau](#holden-karau) - **streaming:** Scala, Python, Spark, PySpark, Open Source
 - [Jeff Lindsay](#jeff-lindsay) - **streaming:** Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
+- [Daniel Jenkins](#daniel-jenkins) - **streaming:** Javascript, PHP, C#, Unity, Game Development 
 
 ## Developers That Stream
 
@@ -936,3 +937,16 @@ Scala, Python, Spark, PySpark, Open Source#### Streaming on:
 #### Links:
 - [Twitter](https://twitter.com/progrium)
 - [GitHub](https://github.com/progrium)
+
+### Daniel Jenkins
+#### What Daniel Jenkins streams
+- Javascript, PHP, C#, Unity, Game Development. Often takes part in Ludam Dare
+#### Streaming on:
+- [Twitch](https://twitch.tv/honestdangames)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://www.twitter.com/honestdangames)
+- [itch.io](https://honestdan.itch.io/)
+- [Discord](https://discord.gg/t2ESzmr)
+- [YouTube](https://www.youtube.com/channel/UCx1TRVOz6HbgwVgXxiK7WKQ)
