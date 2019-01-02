@@ -104,6 +104,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
 - [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
+- [Tyler Leonhardt](#tyler-leonhardt) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
 - [Yosh](#yosh) - **streaming:** OSS maintenance, Tooling Development, JavaScript, Node.js, Choo
 
 ## Developers That Stream
@@ -957,6 +958,17 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/tsoding)
 - [Patreon](https://www.patreon.com/tsoding)
 - [Website](https://tsoding.github.io/)
+
+
+### Tyler Leonhardt
+#### What Tyler Streams
+- PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/tylerleonhardt)
+#### Links:
+- [Twitter](https://twitter.com/TylerLeonhardt)
+- [GitHub](https://github.com/TylerLeonhardt)
+- [Website](https://TylerLeonhardt.com/)
 
 ### Yosh
 #### What Yosh Streams
