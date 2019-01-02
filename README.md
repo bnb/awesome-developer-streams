@@ -72,6 +72,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
 - [Kyle Shevlin](#kyle-shevlin) - **streaming:** React, JavaScript, Functional Programming, Web Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
+- [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
@@ -591,6 +592,20 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/lukego)
 - [GitHub](https://github.com/lukego)
 - [Website](http://www.lukego.com/)
+
+### Mark Kraus
+#### What Mark Streams
+- PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/markekraus)
+- [YouTube](https://www.youtube.com/user/markekraus)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/markekraus)
+- [GitHub](https://github.com/markekraus)
+- [LinkedIn](https://www.linkedin.com/in/markekraus/)
+- [Blog](http://get-powershellblog.blogspot.com/)
 
 ### Matt Layman
 #### What Matt streams
