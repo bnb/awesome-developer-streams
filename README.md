@@ -106,6 +106,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
 - [Tyler Leonhardt](#tyler-leonhardt) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
 - [Yosh](#yosh) - **streaming:** OSS maintenance, Tooling Development, JavaScript, Node.js, Choo
+- [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 
 ## Developers That Stream
 
@@ -978,3 +979,17 @@ AWS, Web Development, Python, Serverless, AI
 #### Links:
 - [Twitter](https://twitter.com/yoshuawuyts)
 - [GitHub](https://github.com/yoshuawuyts)
+
+### Mark Kraus
+#### What Mark Streams
+- PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/markekraus)
+- [YouTube](https://www.youtube.com/user/markekraus)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/markekraus)
+- [GitHub](https://github.com/markekraus)
+- [LinkedIn](https://www.linkedin.com/in/markekraus/)
+- [Blog](http://get-powershellblog.blogspot.com/)
