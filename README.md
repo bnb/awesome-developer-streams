@@ -46,7 +46,10 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Erik Guzman](#erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
-- [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
+- [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web 
+Game Development
+- [WindybeardGames](#windybeardgames) - **streaming:** Game Development (various), ClickTeam Fusion, PhotoShop, Spine
+Development
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
 - [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
@@ -957,6 +960,17 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/tsoding)
 - [Patreon](https://www.patreon.com/tsoding)
 - [Website](https://tsoding.github.io/)
+
+### WindybeardGames
+#### What Windy Streams
+- Game Development, ClickTeam Fusion, PhotoShop, Spine
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/windybeardgames)
+#### Links:
+- [Discord](https://discord.gg/FKumdQY)
+- [Patreon](https://www.patreon.com/Windybeardgames)
+- [Twitter](https://twitter.com/WindybeardGames)
+- [Website](http://www.windybeard.com)
 
 ### Yosh
 #### What Yosh Streams
