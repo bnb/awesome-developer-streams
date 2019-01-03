@@ -70,6 +70,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KensoDev](#kensodev) - **streaming:** Advanced Devops - Python, Terraform, React
 - [Kent C. Dodds](#kent-c-dodds) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 - [Keraf](#keraf) - **streaming:** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
+- [Kevin Griffin](#kevin-griffin) - **streaming:** C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
 - [Kyle Shevlin](#kyle-shevlin) - **streaming:** React, JavaScript, Functional Programming, Web Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
@@ -450,6 +451,27 @@ Scala, Python, Spark, PySpark, Open Source#### Streaming on:
 - [Twitter](https://twitter.com/iamkeraf)
 - [GitHub](https://github.com/keraf)
 - [Website](https://ker.af/)
+
+### Kevin Griffin
+#### What Kevin Streams
+- C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/1kevgriff)
+#### Links:
+- [Twitter](https://twitter.com/1kevgriff)
+- [GitHub](https://github.com/1kevgriff)
+- [Website](https://kevgriffin.com/)
+
+### KeyFramers
+#### What KeyFramers Stream
+- UI, Animation, JavaScript, CSS, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/keyframers)
+#### Links:
+- [Twitter(@keyframers)](https://twitter.com/keyframers)
+- [Twitter(@davidkpiano)](https://twitter.com/davidkpiano)
+- [Twitter(@shshaw)](https://twitter.com/shshaw)
+- [Patreon](https://www.patreon.com/keyframers)
 
 ### KeyFramers
 #### What KeyFramers Stream
