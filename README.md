@@ -235,7 +235,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### Streaming on:
 - [Twitch[(https://www.twitch.tv/corbob)
 #### Links:
-- [Twitter](https://twitter.com/coryknox
+- [Twitter](https://twitter.com/coryknox)
 - [GitHub](https://github.com/corbob)
 - [Website](https://knoxy.ca)
 
