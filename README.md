@@ -74,6 +74,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
+- [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
@@ -619,6 +620,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/mblayman)
 - [Github](https://github.com/mblayman)
 - [YouTube Playlist](https://www.youtube.com/watch?v=fNEZ_1dmVyE&list=PLFcKEo4b_n1wQA6lKtSqCq1dTMq1c2Lmw)
+
+### Matt Podwysocki
+#### What Matt aka BluerThanBlue Falcon aka λ Calrissian Streams
+- JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/bluerthanbluefalcon)
+- [YouTube](https://www.youtube.com/user/matthewpodwysocki)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/mattpodwysocki)
+- [GitHub](https://github.com/mattpodwysocki)
+- [YouTube Channel](https://www.youtube.com/user/matthewpodwysocki)
 
 ### Mattias Petter Johansson
 Also known as MPJ from Fun Fun Function
