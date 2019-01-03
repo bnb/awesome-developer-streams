@@ -473,17 +473,6 @@ Scala, Python, Spark, PySpark, Open Source#### Streaming on:
 - [Twitter(@shshaw)](https://twitter.com/shshaw)
 - [Patreon](https://www.patreon.com/keyframers)
 
-### KeyFramers
-#### What KeyFramers Stream
-- UI, Animation, JavaScript, CSS, Web Development
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/keyframers)
-#### Links:
-- [Twitter(@keyframers)](https://twitter.com/keyframers)
-- [Twitter(@davidkpiano)](https://twitter.com/davidkpiano)
-- [Twitter(@shshaw)](https://twitter.com/shshaw)
-- [Patreon](https://www.patreon.com/keyframers)
-
 ### Kyle Shevlin
 #### What Kyle Streams
 - React, JavaScript, Functional Programming, Web Development
