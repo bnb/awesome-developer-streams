@@ -40,6 +40,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
+- [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
 - [Daniel Jenkins](#daniel-jenkins) - **streaming:** Javascript, PHP, C#, Unity, Game Development 
 - [Daniel Shiffman](#daniel-shiffman) - **streaming:** JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
@@ -227,6 +228,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/syropian)
 - [GitHub](https://github.com/syropian)
 - [Website](https://syropia.net/)
+
+### Cory knox
+#### What Cory Streams
+- PowerShell, C#, TypeScript, VSCode extension development
+#### Streaming on:
+- [Twitch[(https://www.twitch.tv/corbob)
+#### Links:
+- [Twitter](https://twitter.com/coryknox
+- [GitHub](https://github.com/corbob)
+- [Website](https://knoxy.ca)
 
 ### Daniel Jenkins
 #### What Daniel Jenkins streams
