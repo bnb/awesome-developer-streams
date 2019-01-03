@@ -233,7 +233,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### What Cory Streams
 - PowerShell, C#, TypeScript, VSCode extension development
 #### Streaming on:
-- [Twitch[(https://www.twitch.tv/corbob)
+- [Twitch](https://www.twitch.tv/corbob)
 #### Links:
 - [Twitter](https://twitter.com/coryknox)
 - [GitHub](https://github.com/corbob)
