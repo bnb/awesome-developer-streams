@@ -40,6 +40,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
+- [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
 - [Daniel Jenkins](#daniel-jenkins) - **streaming:** Javascript, PHP, C#, Unity, Game Development 
 - [Daniel Shiffman](#daniel-shiffman) - **streaming:** JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
@@ -70,10 +71,13 @@ Development
 - [KensoDev](#kensodev) - **streaming:** Advanced Devops - Python, Terraform, React
 - [Kent C. Dodds](#kent-c-dodds) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 - [Keraf](#keraf) - **streaming:** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
+- [Kevin Griffin](#kevin-griffin) - **streaming:** C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
 - [Kyle Shevlin](#kyle-shevlin) - **streaming:** React, JavaScript, Functional Programming, Web Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
+- [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
+- [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
@@ -105,6 +109,7 @@ Development
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
 - [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
+- [Tyler Leonhardt](#tyler-leonhardt) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
 Game Development
 - [WindybeardGames](#windybeardgames) - **streaming:** Game Development (various), ClickTeam Fusion, PhotoShop, Spine
 Projects
@@ -228,6 +233,16 @@ Projects
 - [Twitter](https://twitter.com/syropian)
 - [GitHub](https://github.com/syropian)
 - [Website](https://syropia.net/)
+
+### Cory knox
+#### What Cory Streams
+- PowerShell, C#, TypeScript, VSCode extension development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/corbob)
+#### Links:
+- [Twitter](https://twitter.com/coryknox)
+- [GitHub](https://github.com/corbob)
+- [Website](https://knoxy.ca)
 
 ### Daniel Jenkins
 #### What Daniel Jenkins streams
@@ -441,6 +456,16 @@ Scala, Python, Spark, PySpark, Open Source#### Streaming on:
 - [GitHub](https://github.com/keraf)
 - [Website](https://ker.af/)
 
+### Kevin Griffin
+#### What Kevin Streams
+- C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/1kevgriff)
+#### Links:
+- [Twitter](https://twitter.com/1kevgriff)
+- [GitHub](https://github.com/1kevgriff)
+- [Website](https://kevgriffin.com/)
+
 ### KeyFramers
 #### What KeyFramers Stream
 - UI, Animation, JavaScript, CSS, Web Development
@@ -595,6 +620,20 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/lukego)
 - [Website](http://www.lukego.com/)
 
+### Mark Kraus
+#### What Mark Streams
+- PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/markekraus)
+- [YouTube](https://www.youtube.com/user/markekraus)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/markekraus)
+- [GitHub](https://github.com/markekraus)
+- [LinkedIn](https://www.linkedin.com/in/markekraus/)
+- [Blog](http://get-powershellblog.blogspot.com/)
+
 ### Matt Layman
 #### What Matt streams
 - Building Software as a Service (SaaS) with Python and Django
@@ -607,6 +646,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/mblayman)
 - [Github](https://github.com/mblayman)
 - [YouTube Playlist](https://www.youtube.com/watch?v=fNEZ_1dmVyE&list=PLFcKEo4b_n1wQA6lKtSqCq1dTMq1c2Lmw)
+
+### Matt Podwysocki
+#### What Matt aka BluerThanBlue Falcon aka λ Calrissian Streams
+- JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/bluerthanbluefalcon)
+- [YouTube](https://www.youtube.com/user/matthewpodwysocki)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/mattpodwysocki)
+- [GitHub](https://github.com/mattpodwysocki)
+- [YouTube Channel](https://www.youtube.com/user/matthewpodwysocki)
 
 ### Mattias Petter Johansson
 Also known as MPJ from Fun Fun Function
@@ -961,6 +1013,16 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/tsoding)
 - [Patreon](https://www.patreon.com/tsoding)
 - [Website](https://tsoding.github.io/)
+
+### Tyler Leonhardt
+#### What Tyler Streams
+- PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/tylerleonhardt)
+#### Links:
+- [Twitter](https://twitter.com/TylerLeonhardt)
+- [GitHub](https://github.com/TylerLeonhardt)
+- [Website](https://TylerLeonhardt.com/)
 
 ### WindybeardGames
 #### What Windy Streams
