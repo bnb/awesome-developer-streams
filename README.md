@@ -47,8 +47,6 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Erik Guzman](#erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web 
-Game Development
-- [WindybeardGames](#windybeardgames) - **streaming:** Game Development (various), ClickTeam Fusion, PhotoShop, Spine
 Development
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
@@ -107,6 +105,9 @@ Development
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
 - [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
+Game Development
+- [WindybeardGames](#windybeardgames) - **streaming:** Game Development (various), ClickTeam Fusion, PhotoShop, Spine
+Projects
 - [Yosh](#yosh) - **streaming:** OSS maintenance, Tooling Development, JavaScript, Node.js, Choo
 
 ## Developers That Stream
