@@ -30,6 +30,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 ## Table of Contents
 
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
+- [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
@@ -124,6 +125,17 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [YouTube](https://www.youtube.com/channel/UCJFxRNHar-c_lKYxFMIPg_g)
 - [Website](https://bot.land)
 - [Blog](https://blog.bot.land)
+
+### Adron Hall
+#### What Adron Streams
+- Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/adronhall/)
+- [YouTube](https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ)
+#### Links:
+- [Twitter](https://twitter.com/adron)
+- [Discord](https://discord.gg/gASJah)
+- [Blog](https://compositecode.blog/)
 
 ### Alexander Simovic
 #### What Alex Streams
