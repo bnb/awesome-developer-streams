@@ -124,6 +124,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ### Adron Hall
 #### What Adron Streams
+- Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/adronhall/)
 - [YouTube](https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ)
