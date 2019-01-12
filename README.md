@@ -82,6 +82,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [Nicholas Brochu](#nicholas-brochu) - **streaming:** Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
+- [Ninjabunny9000](#ninjabunny9000) - **streaming:** Python, C#, Ninja, Programming in general
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 - [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
@@ -110,6 +111,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
 - [Tyler Leonhardt](#tyler-leonhardt) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
+- [WindybeardGames](#windybeardgames) - **streaming:** ClickTeam Fusion, PhotoShop, Spine, Game Art 
 - [Yosh](#yosh) - **streaming:** OSS maintenance, Tooling Development, JavaScript, Node.js, Choo
 
 ## Developers That Stream
@@ -431,70 +433,6 @@ Scala, Python, Spark, PySpark, Open Source#### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
 
-### KensoDev
-#### What KensoDev Streams
-- Advanced Devops - Python, Terraform, React
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/kensodev)
-- [YouTube](https://www.youtube.com/channel/UCuFT6CtDnOGvcn9WdAvBusA)
-#### Links:
-- [Twitter](https://twitter.com/KensoDev)
-- [GitHub](https://github.com/KensoDev)
-
-### Kent C. Dodds
-#### What Kent Streams
-- JavaScript, React, Web Development, Open Source, Node.js
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/kentcdodds)
-#### Links:
-- [Twitter](https://twitter.com/kentcdodds)
-- [GitHub](https://github.com/kentcdodds)
-- [Website](https://kentcdodds.com)
-- [Newsletter](http://kcd.im/news)
-- [Blog](https://blog.kentcdodds.com)
-- [YouTube](https://www.youtube.com/c/kentcdodds-vids)
-
-### Keraf
-#### What Keraf Streams
-- JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/iamkeraf)
-#### Links:
-- [Twitter](https://twitter.com/iamkeraf)
-- [GitHub](https://github.com/keraf)
-- [Website](https://ker.af/)
-
-### Kevin Griffin
-#### What Kevin Streams
-- C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/1kevgriff)
-#### Links:
-- [Twitter](https://twitter.com/1kevgriff)
-- [GitHub](https://github.com/1kevgriff)
-- [Website](https://kevgriffin.com/)
-
-### KeyFramers
-#### What KeyFramers Stream
-- UI, Animation, JavaScript, CSS, Web Development
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/keyframers)
-#### Links:
-- [Twitter(@keyframers)](https://twitter.com/keyframers)
-- [Twitter(@davidkpiano)](https://twitter.com/davidkpiano)
-- [Twitter(@shshaw)](https://twitter.com/shshaw)
-- [Patreon](https://www.patreon.com/keyframers)
-
-### Kyle Shevlin
-#### What Kyle Streams
-- React, JavaScript, Functional Programming, Web Development
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/kyleshevlin)
-#### Links:
-- [Twitter](https://twitter.com/kyleshevlin)
-- [GitHub](https://github.com/kyleshevlin)
-- [Website](https://kyleshevlin.com/)
-
 ### Jonathan Blow
 #### What Jonathan Blow Streams
 - Game Development, Language Developement, Jai, C++, OpenGL
@@ -618,6 +556,70 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/hawkins)
 - [Website](https://hawkins.is)
 
+### KensoDev
+#### What KensoDev Streams
+- Advanced Devops - Python, Terraform, React
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/kensodev)
+- [YouTube](https://www.youtube.com/channel/UCuFT6CtDnOGvcn9WdAvBusA)
+#### Links:
+- [Twitter](https://twitter.com/KensoDev)
+- [GitHub](https://github.com/KensoDev)
+
+### Kent C. Dodds
+#### What Kent Streams
+- JavaScript, React, Web Development, Open Source, Node.js
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/kentcdodds)
+#### Links:
+- [Twitter](https://twitter.com/kentcdodds)
+- [GitHub](https://github.com/kentcdodds)
+- [Website](https://kentcdodds.com)
+- [Newsletter](http://kcd.im/news)
+- [Blog](https://blog.kentcdodds.com)
+- [YouTube](https://www.youtube.com/c/kentcdodds-vids)
+
+### Keraf
+#### What Keraf Streams
+- JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/iamkeraf)
+#### Links:
+- [Twitter](https://twitter.com/iamkeraf)
+- [GitHub](https://github.com/keraf)
+- [Website](https://ker.af/)
+
+### Kevin Griffin
+#### What Kevin Streams
+- C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/1kevgriff)
+#### Links:
+- [Twitter](https://twitter.com/1kevgriff)
+- [GitHub](https://github.com/1kevgriff)
+- [Website](https://kevgriffin.com/)
+
+### KeyFramers
+#### What KeyFramers Stream
+- UI, Animation, JavaScript, CSS, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/keyframers)
+#### Links:
+- [Twitter(@keyframers)](https://twitter.com/keyframers)
+- [Twitter(@davidkpiano)](https://twitter.com/davidkpiano)
+- [Twitter(@shshaw)](https://twitter.com/shshaw)
+- [Patreon](https://www.patreon.com/keyframers)
+
+### Kyle Shevlin
+#### What Kyle Streams
+- React, JavaScript, Functional Programming, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/kyleshevlin)
+#### Links:
+- [Twitter](https://twitter.com/kyleshevlin)
+- [GitHub](https://github.com/kyleshevlin)
+- [Website](https://kyleshevlin.com/)
+
 ### Luke Gorrie
 #### What Luke Streams
 - C, Lua, RaptorJIT, R, Nix, Network drivers
@@ -721,6 +723,19 @@ Also known as MPJ from Fun Fun Function
 - [YouTube](https://www.youtube.com/c/SerpentAI)
 - [Discord](https://discord.gg/9D5SuxH)
 - [Patreon](https://www.patreon.com/serpent_ai)
+
+### Ninjabunny9000 
+#### What Ninjabunny9000 Stream
+- Python, C#, Ninja, Programming in general
+#### Languages Spoken During Stream
+- English
+- Ninjago
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ninjabunny9000)
+#### Links:
+- [GitHub](https://github.com/NinjaBunny9000)
+- [Twitter](www.twitter.com/ninjabunny9000)
+- [Discord](https://discord.gg/UEUFAUV)
 
 ### nmarulo
 #### What nmarulo Streams
@@ -1032,6 +1047,20 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/TylerLeonhardt)
 - [GitHub](https://github.com/TylerLeonhardt)
 - [Website](https://TylerLeonhardt.com/)
+
+### WindybeardGames
+#### What Windy Streams
+- ClickTeam Fusion, PhotoShop, Spine, Game Art
+#### Languages Spoken During Stream
+- English
+- Wincy
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/windybeardgames)
+#### Links:
+- [Discord](https://discord.gg/FKumdQY)
+- [Patreon](https://www.patreon.com/Windybeardgames)
+- [Twitter](https://twitter.com/WindybeardGames)
+- [Website](http://windybeard.com/)
 
 ### Yosh
 #### What Yosh Streams
