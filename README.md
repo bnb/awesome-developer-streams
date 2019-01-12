@@ -72,7 +72,6 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Keraf](#keraf) - **streaming:** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
 - [Kevin Griffin](#kevin-griffin) - **streaming:** C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
-- [Ninjabunny9000](#ninjabunny9000) - **streaming:** Python, C#, Ninja, Programming in general
 - [Kyle Shevlin](#kyle-shevlin) - **streaming:** React, JavaScript, Functional Programming, Web Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
@@ -82,6 +81,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [Nicholas Brochu](#nicholas-brochu) - **streaming:** Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
+- [Ninjabunny9000](#ninjabunny9000) - **streaming:** Python, C#, Ninja, Programming in general
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 - [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
@@ -598,19 +598,6 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter(@shshaw)](https://twitter.com/shshaw)
 - [Patreon](https://www.patreon.com/keyframers)
 
-### Ninjabunny9000 
-#### What Ninjabunny9000 Stream
-- Python, C#, Ninja, Programming in general
-#### Languages Spoken During Stream
-- English
-- Ninjago
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/ninjabunny9000)
-#### Links:
-- [GitHub](https://github.com/NinjaBunny9000)
-- [Twitter](www.twitter.com/ninjabunny9000)
-- [Discord](https://discord.gg/UEUFAUV)
-
 ### Kyle Shevlin
 #### What Kyle Streams
 - React, JavaScript, Functional Programming, Web Development
@@ -724,6 +711,19 @@ Also known as MPJ from Fun Fun Function
 - [YouTube](https://www.youtube.com/c/SerpentAI)
 - [Discord](https://discord.gg/9D5SuxH)
 - [Patreon](https://www.patreon.com/serpent_ai)
+
+### Ninjabunny9000 
+#### What Ninjabunny9000 Stream
+- Python, C#, Ninja, Programming in general
+#### Languages Spoken During Stream
+- English
+- Ninjago
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ninjabunny9000)
+#### Links:
+- [GitHub](https://github.com/NinjaBunny9000)
+- [Twitter](www.twitter.com/ninjabunny9000)
+- [Discord](https://discord.gg/UEUFAUV)
 
 ### nmarulo
 #### What nmarulo Streams
