@@ -72,7 +72,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Keraf](#keraf) - **streaming:** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
 - [Kevin Griffin](#kevin-griffin) - **streaming:** C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
-- [Krissy Heishman](#krissy-heishman) - **streaming:** Python, C#, Ninja, Programming in general
+- [Ninjabunny9000](#ninjabunny9000) - **streaming:** Python, C#, Ninja, Programming in general
 - [Kyle Shevlin](#kyle-shevlin) - **streaming:** React, JavaScript, Functional Programming, Web Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
@@ -598,8 +598,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter(@shshaw)](https://twitter.com/shshaw)
 - [Patreon](https://www.patreon.com/keyframers)
 
-### Krissy Heishman 
-#### What Krissy Heishman Stream
+### Ninjabunny9000 
+#### What Ninjabunny9000 Stream
 - Python, C#, Ninja, Programming in general
 #### Languages Spoken During Stream
 - English
