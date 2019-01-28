@@ -34,6 +34,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
+- [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
@@ -172,6 +173,15 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/amaiorano)
 - [YouTube](https://www.youtube.com/channel/UCvGInSOEQnf2ms4n4Q9dXdQ)
 - [LinkedIn](https://www.linkedin.com/in/amaiorano/)
+
+### Armin Ronacher
+#### What Armin Streams
+- Rust, maybe Python
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/themitsuhiko)
+#### Links:
+- [Twitter](https://twitter.com/mitsuhiko)
+- [GitHub](https://github.com/mitsuhiko)
 
 ### Ben Greenier
 #### What Ben Streams
