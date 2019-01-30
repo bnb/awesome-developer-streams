@@ -52,6 +52,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Erik Guzman](#erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
+- [Freya Holmér](#freya-holmér) - **streaming:** Game Development, Unity, C#, Shaders, Developer Tooling
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
 - [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
@@ -371,6 +372,19 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Youtube](https://www.youtube.com/channel/UC4mpLlHn0FOekNg05yCnkzQ)
 - [Pouet](http://www.pouet.net/user.php?who=16820)
 - [Patreon](https://www.patreon.com/ferrisstreamsstuff)
+
+### Freya Holmér
+#### What Freya (Acegikmo) Streams
+- Game Development, Unity, C#, Shaders, Developer Tooling
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/acegikmo)
+#### Links:
+- [Website](http://acegikmo.com/)
+- [YouTube](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA)
+- [Twitter](https://twitter.com/FreyaHolmer)
+- [Discord](https://discord.gg/v5VWuga)
+- [Instagram](https://www.instagram.com/freya_holmer/)
+- [Patreon](https://www.patreon.com/acegikmo)
 
 ### Gary Kramlich
 #### What Grim Streams
