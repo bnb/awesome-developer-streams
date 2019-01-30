@@ -43,7 +43,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
-- [Daniel Jenkins](#daniel-jenkins) - **streaming:** Javascript, PHP, C#, Unity, Game Development 
+- [Daniel Jenkins](#daniel-jenkins) - **streaming:** JavaScript, PHP, C#, Unity, Game Development, Web Development
 - [Daniel Shiffman](#daniel-shiffman) - **streaming:** JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
 - [David Poindexter](#david-poindexter) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
@@ -266,12 +266,13 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Website](https://knoxy.ca)
 
 ### Daniel Jenkins
-#### What Daniel Jenkins streams
-- Javascript, PHP, C#, Unity, Game Development. Often takes part in Ludam Dare
+#### What Daniel (HonestDan) streams
+- JavasSript, PHP, C#, Unity, Game Development, Web Development; Often takes part in Ludum Dare
 #### Streaming on:
 - [Twitch](https://twitch.tv/honestdangames)
 #### Languages Spoken During Stream
 - English
+- Welsh
 #### Links:
 - [Twitter](https://www.twitter.com/honestdangames)
 - [itch.io](https://honestdan.itch.io/)
