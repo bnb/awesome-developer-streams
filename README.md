@@ -378,6 +378,8 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/acegikmo)
+#### Languages Spoken During Stream
+- English
 #### Links:
 - [Website](http://acegikmo.com/)
 - [YouTube](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA)
