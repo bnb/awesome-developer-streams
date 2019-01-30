@@ -62,6 +62,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jack Mott](#jack-mott) - **streaming:** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jeff Lindsay](#jeff-lindsay) - **streaming:** Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
+- [Jeff Panici](#jeff-panici) - **streaming:** C, C++, Assembly, C#, Rust, JavaScript, Basecode, Programming Language Development, Compiler Development, Web Development, Game Development
 - [Jen Tong](#jen-tong) - **streaming:** Python, JavaScript, NodeBots, Astronomy
 - [Jesse Skinner](#jesse-skinner) - **streaming:** Full stack web development, JavaScript, CSS, HTML, React, Node.js, PHP, Lua
 - [Jesse Weigel](#jweigel) - **streaming:** React, Node.js, CSS, Next.js, Wordpress
@@ -496,6 +497,20 @@ Scala, Python, Spark, PySpark, Open Source#### Streaming on:
 #### Links:
 - [Twitter](https://twitter.com/progrium)
 - [GitHub](https://github.com/progrium)
+
+### Jeff Panici
+#### What Jeff Streams
+- C, C++, Assembly, C#, Rust, JavaScript, Basecode, Programming Language Development, Compiler Development, Web Development, Game Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/nybblesio)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [GitHub](https://github.com/nybblesio), [Basecode GitHub](https://github.com/basecode-lang), [Personal GitHub](https://github.com/jeffpanici75)
+- [YouTube](https://www.youtube.com/channel/UCaV77OIv89qfsnncY5J2zvg)
+- [Twitter](https://twitter.com/nybbles_io)
+- [Discord](https://discord.gg/fdejMhU)
+- [Website](https://nybbles.io/)
 
 ### Jen Tong
 #### What Jen Streams
