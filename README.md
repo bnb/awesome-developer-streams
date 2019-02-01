@@ -53,6 +53,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
 - [Freya Holmér](#freya-holmér) - **streaming:** Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
+- [Gary Ewan Park](#gary-ewan-park) - **streaming:** C#, .NET, .NET Core, Cake, Chocolatey, DevOps
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
 - [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
@@ -389,6 +390,17 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Discord](https://discord.gg/v5VWuga)
 - [Instagram](https://www.instagram.com/freya_holmer/)
 - [Patreon](https://www.patreon.com/acegikmo)
+
+### Gary Ewan Park
+#### What Gary Streams
+- C#, .NET, .NET Core, Cake, Chocolatey, DevOps
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/gep13)
+#### Links:
+- [Twitter](https://twitter.com/gep13)
+- [GitHub](https://github.com/gep13)
+- [Blog](https://gep13.co.uk)
+- [YouTube](https://www.youtube.com/channel/UCO72yJoksHHEDfFJyxTDnqQ)
 
 ### Gary Kramlich
 #### What Grim Streams
