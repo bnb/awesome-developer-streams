@@ -36,6 +36,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
+- [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
@@ -197,6 +198,17 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/bengreenier)
 - [GitHub](https://github.com/bengreenier)
 - [Website](http://bengreenier.com)
+
+### Brandon Satrom
+#### What Brandon Streams
+- IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
+#### Streaming on:
+- [Twitch](https://twitch.tv/brandonsatrom)
+#### Links:
+- [Twitter](https://twitter.com/brandonsatrom)
+- [GitHub](https://github.com/bsatrom)
+- [YouTube](https://www.youtube.com/channel/UCAS6I-NFh25eBhwMX2KCxqQ)
+- [Instagram](https://www.instagram.com/bsatrom/)
 
 ### Brian Clark
 #### What Brian Streams
