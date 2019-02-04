@@ -46,6 +46,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
 - [Daniel Jenkins](#daniel-jenkins) - **streaming:** JavaScript, PHP, C#, Unity, Game Development, Web Development
 - [Daniel Shiffman](#daniel-shiffman) - **streaming:** JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
+- [David Pedersen](#david-pedersen) - **streaming:** Rust, Ruby, Vim
 - [David Poindexter](#david-poindexter) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
@@ -303,6 +304,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/shiffman)
 - [GitHub](https://github.com/shiffman)
 - [Website](http://shiffman.net/)
+
+### David Pedersen
+#### What David Streams
+- Rust, Ruby, Vim
+#### Streaming On:
+- [Twitch](https://twitch.tv/davidpdrsn)
+#### Links:
+- [GitHub](https://github.com/davidpdrsn)
+- [Twitter](https://twitter.com/davidpdrsn)
+- [YouTube](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ)
 
 ### David Poindexter
 #### What David Streams
