@@ -73,6 +73,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jessica Mak](#jessica-mak) - **streaming:** C++, OpenGL, Game Development
 - [Jochen Lillich](#jochen-lillich) - **streaming:** Ruby, Chef, DevOps, SRE, Docker, Kubernetes
 - [Joe Bew](#joe-bew) - **streaming:** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
+- [Jon Gjengset](#jon-gjengset) - **streaming:** Rust
 - [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 - [KensoDev](#kensodev) - **streaming:** Advanced Devops - Python, Terraform, React
@@ -636,6 +637,17 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/joebew42)
 - [GitHub](https://github.com/joebew42)
 - [Website](https://joebew42.github.io/twitch/)
+
+### Jon Gjengset
+#### What Jon Gjenset Streams
+- Rust
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jonfrg)
+- [Youtube](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
+#### Links:
+- [Github](https://github.com/jonhoo)
+- [Twitter](https://twitter.com/jonhoo)
+- [Website](https://thesquareplanet.com)
 
 ### Josh Hawkins
 #### What Hawkins Streams
