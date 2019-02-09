@@ -63,8 +63,8 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Holden Karau](#holden-karau) - **streaming:** Scala, Python, Spark, PySpark, Open Source
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [iDevelopThings](#idevelopthings) - **streaming:** PHP, JavaScript, Node.js, Full stack development, Web Development
-- [Jason Lengstorf](#jlengstorf) - **streaming:** GatsbyJS (React) development
 - [Jack Mott](#jack-mott) - **streaming:** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
+- [Jason Lengstorf](#jlengstorf) - **streaming:** GatsbyJS (React) development
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jeff Lindsay](#jeff-lindsay) - **streaming:** Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
 - [Jeff Panici](#jeff-panici) - **streaming:** C, C++, Assembly, C#, Rust, JavaScript, Basecode, Programming Language Development, Compiler Development, Web Development, Game Development
@@ -114,6 +114,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
+- [Tanya Janca](#tanya-janca) - **streaming** Web Security, Azure, Cloud Security
 - [Thomas Soerensen](#thomas-soerensen) - **streaming:** Golang, PHP (Laravel), JavaScript
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
@@ -512,6 +513,13 @@ Scala, Python, Spark, PySpark, Open Source#### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
 
+### Jack Mott
+#### What Jack Streams
+- Teaching programming basics, data structures, algorithms, fun gamedev projects, Golang, SDL2, OpenGL
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jackmott42)
+- [Website](https://gameswithgo.org/)
+
 ### Jason Lengstorf
 #### What Jason Lengstorf Streams
 - GatsbyJS (React) development
@@ -522,23 +530,6 @@ Scala, Python, Spark, PySpark, Open Source#### Streaming on:
 - [GitHub](https://github.com/jlengstorf)
 - [Website](https://lengstorf.com)
 - [Youtube](https://www.youtube.com/channel/UCnty0z0pNRDgnuoirYXnC5A)
-
-### Jonathan Blow
-#### What Jonathan Blow Streams
-- Game Development, Language Developement, Jai, C++, OpenGL
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/naysayer88)
-#### Links:
-- [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
-- [Twitter](https://twitter.com/Jonathan_Blow)
-- [Google+](https://plus.google.com/u/0/102153353283805950802)
-
-### Jack Mott
-#### What Jack Streams
-- Teaching programming basics, data structures, algorithms, fun gamedev projects, Golang, SDL2, OpenGL
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/jackmott42)
-- [Website](https://gameswithgo.org/)
 
 ### Jeff Fritz
 #### What Jeff Streams
@@ -660,6 +651,16 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Github](https://github.com/jonhoo)
 - [Twitter](https://twitter.com/jonhoo)
 - [Website](https://thesquareplanet.com)
+
+### Jonathan Blow
+#### What Jonathan Blow Streams
+- Game Development, Language Developement, Jai, C++, OpenGL
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/naysayer88)
+#### Links:
+- [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
+- [Twitter](https://twitter.com/Jonathan_Blow)
+- [Google+](https://plus.google.com/u/0/102153353283805950802)
 
 ### Josh Hawkins
 #### What Hawkins Streams
@@ -1096,6 +1097,16 @@ AWS, Web Development, Python, Serverless, AI
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/syanoks)
 - [Blog](https://www.sceen.net/blog/)
+
+### Tanya Janca
+#### What Tanya Streams
+- Web Security, Azure, Cloud Security
+#### Streaming on:
+- [Twitch](https://aka.ms/DevSlopTwitch)
+#### Links:
+- [Twitter](https://twitter.com/shehackspurple)
+- [YouTube](https://aka.ms/DevSlopShow)
+- [Website](https://devslop.co/)
 
 ### Thomas Soerensen
 #### What Thomas Streams
