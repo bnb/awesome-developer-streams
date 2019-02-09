@@ -512,16 +512,6 @@ Scala, Python, Spark, PySpark, Open Source#### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
 
-### Jonathan Blow
-#### What Jonathan Blow Streams
-- Game Development, Language Developement, Jai, C++, OpenGL
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/naysayer88)
-#### Links:
-- [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
-- [Twitter](https://twitter.com/Jonathan_Blow)
-- [Google+](https://plus.google.com/u/0/102153353283805950802)
-
 ### Jack Mott
 #### What Jack Streams
 - Teaching programming basics, data structures, algorithms, fun gamedev projects, Golang, SDL2, OpenGL
@@ -649,6 +639,16 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Github](https://github.com/jonhoo)
 - [Twitter](https://twitter.com/jonhoo)
 - [Website](https://thesquareplanet.com)
+
+### Jonathan Blow
+#### What Jonathan Blow Streams
+- Game Development, Language Developement, Jai, C++, OpenGL
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/naysayer88)
+#### Links:
+- [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
+- [Twitter](https://twitter.com/Jonathan_Blow)
+- [Google+](https://plus.google.com/u/0/102153353283805950802)
 
 ### Josh Hawkins
 #### What Hawkins Streams
