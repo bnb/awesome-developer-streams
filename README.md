@@ -113,6 +113,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
+- [Tanya Janca](#tanya-janca) - **streaming** Web Security, Azure, Cloud Security
 - [Thomas Soerensen](#thomas-soerensen) - **streaming:** Golang, PHP (Laravel), JavaScript
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
@@ -1084,6 +1085,16 @@ AWS, Web Development, Python, Serverless, AI
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/syanoks)
 - [Blog](https://www.sceen.net/blog/)
+
+### Tanya Janca
+#### What Tanya Streams
+- Web Security, Azure, Cloud Security
+#### Streaming on:
+- [Twitch](https://aka.ms/DevSlopTwitch)
+#### Links:
+- [Twitter](https://twitter.com/shehackspurple)
+- [YouTube](https://aka.ms/DevSlopShow)
+- [Website](https://devslop.co/)
 
 ### Thomas Soerensen
 #### What Thomas Streams
