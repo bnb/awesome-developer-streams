@@ -58,6 +58,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Freya Holmér](#freya-holmér) - **streaming:** Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
 - [Gary Ewan Park](#gary-ewan-park) - **streaming:** C#, .NET, .NET Core, Cake, Chocolatey, DevOps
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
+- [Geoffrey Huntley](#geoffrey-huntley) - **streaming:** Haskell, Reactive Extensions, NixOS, OSS Development, C#, .NET, Xamarin, DevOps
 - [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
 - [HardlyDifficult](#hardlydifficult) - **streaming:** Game Development (Unity3D, C#), C# Programming, Cryptocurrency
@@ -459,6 +460,18 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Pidgin](https://www.pidgin.im)
 - [Convey](https://bitbucket.org/rw_grim/convey)
 
+### Geoffrey Huntley
+#### What Geoff Streams
+- Haskell, Reactive Extensions, NixOS, OSS Development, C#, .NET, Xamarin, DevOps
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/geoffreyhuntley)
+- [Twitter](https://twitter.com/geoffreyhuntley)
+- [YouTube](https://www.youtube.com/c/geoffreyhuntley)
+#### Links:
+- [Website](https://www.ghuntley.com)
+- [GitHub](https://github.com/ghuntley)
+- [Patreon](https://www.patreon.com/geoffreyhuntley)
+
 ### Gwen Frey
 #### What Gwen Streams
 - Game Development, Unreal Blueprint, Animation
@@ -495,7 +508,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ### Holden Karau
 #### What Holden Karau streams
-Scala, Python, Spark, PySpark, Open Source#### Streaming on:
+Scala, Python, Spark, PySpark, Open Source
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/holdenkarau)
 #### Languages Spoken During Stream
