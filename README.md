@@ -33,6 +33,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
+- [Andrew Kelley](#andrew-kelly) - **streaming:** Zig programming language, Compiler, LLVM, ASM
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
@@ -170,6 +171,19 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/Amorelandra)
 - [Blog](https://amorelandra.com/blog/)
 - [Website](https://amorelandra.com/)
+
+### Andrew Kelley
+#### What Andrew Kelley Streams
+- Zig programming language, Compiler, LLVM, ASM
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/andrewrok)
+- [YouTube](https://www.youtube.com/user/superjoe30/)
+#### Links:
+- [Twitter](https://mobile.twitter.com/andy_kelley)
+- [GitHub](https://github.com/andrewrk/)
+- [Blog](https://andrewkelley.me/)
+- [Patreon](https://www.patreon.com/andrewrk)
+- [Website](https://ziglang.org/)
 
 ### Antonio Maiorano
 #### What Antonio Streams
