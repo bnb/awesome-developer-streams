@@ -34,6 +34,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Andrew Kelley](#andrew-kelly) - **streaming:** Zig programming language, Compiler, LLVM, ASM
+- [Anthony Sottile](#anthony-sottile) - **streaming:** Python, AST manipulations
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
@@ -184,6 +185,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Blog](https://andrewkelley.me/)
 - [Patreon](https://www.patreon.com/andrewrk)
 - [Website](https://ziglang.org/)
+
+### Anthony Sottile
+#### What Anthony Streams
+- Python, AST manipulations
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/anthonywritescode)
+#### Links:
+- [Twitter](https://twitter.com/codewithanthony)
+- [GitHub](https://github.com/asottile)
+- [YouTube](https://www.youtube.com/anthonywritescode)
 
 ### Antonio Maiorano
 #### What Antonio Streams
