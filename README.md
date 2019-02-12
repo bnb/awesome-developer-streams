@@ -57,6 +57,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Erik Guzman](#erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
+- [Franziska Hinkelmann)(#franziska-hinkelmann) - **streaming:** JavaScript, Node.js, Interview Training, Pair Programming
 - [Freya Holmér](#freya-holmér) - **streaming:** Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
 - [Gary Ewan Park](#gary-ewan-park) - **streaming:** C#, .NET, .NET Core, Cake, Chocolatey, DevOps
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
@@ -437,6 +438,17 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Youtube](https://www.youtube.com/channel/UC4mpLlHn0FOekNg05yCnkzQ)
 - [Pouet](http://www.pouet.net/user.php?who=16820)
 - [Patreon](https://www.patreon.com/ferrisstreamsstuff)
+
+### Franziska Hinkelmann
+#### What Franziska (fhinkel) Streams
+- JavaScript, Node.js, Interview Training, Pair Programming
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/fhinkel)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/fhinkel)
+- [YouTube](https://www.youtube.com/channel/UCRVQQJtsbCBF0tL7j0fEGpg)
 
 ### Freya Holmér
 #### What Freya (Acegikmo) Streams
