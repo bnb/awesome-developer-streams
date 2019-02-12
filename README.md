@@ -38,6 +38,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
+- [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
@@ -227,6 +228,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/bengreenier)
 - [GitHub](https://github.com/bengreenier)
 - [Website](http://bengreenier.com)
+
+### Bobby Johnson
+#### What Bobby Streams
+- Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/auth0bobby)
+#### Links:
+- [Twitter](https://twitter.com/NotMyself)
+- [GitHub](https://github.com/NotMyself)
+- [Website](https://iamnotmyself.com/)
 
 ### Brandon Satrom
 #### What Brandon Streams
