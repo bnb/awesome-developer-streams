@@ -36,6 +36,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
 - [Anthony Sottile](#anthony-sottile) - **streaming:** Python, AST manipulations
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
+- [Ardalis - Steve Smith](#ardalis) - **streaming:** C#, ASP.NET Core, Clean Architecture, DDD, Design Patterns, TDD
 - [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
@@ -207,6 +208,18 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/amaiorano)
 - [YouTube](https://www.youtube.com/channel/UCvGInSOEQnf2ms4n4Q9dXdQ)
 - [LinkedIn](https://www.linkedin.com/in/amaiorano/)
+
+### Ardalis - Steve Smith
+#### What Ardalis Streams
+- C#, ASP.NET Core, Clean Architecture, DDD, Design Patterns, TDD
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ardalis)
+- [YouTube](https://www.youtube.com/channel/UCkvBKVrZ_RepwX7UgfnFIUA)
+#### Links:
+- [Twitter](https://twitter.com/ardalis)
+- [Blog](https://ardalis.com)
+- [Weekly Dev Tips Podcast](http://www.weeklydevtips.com/)
+- [GitHub](https://github.com/ardalis)
 
 ### Armin Ronacher
 #### What Armin Streams
