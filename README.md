@@ -36,7 +36,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
 - [Anthony Sottile](#anthony-sottile) - **streaming:** Python, AST manipulations
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
-- [Ardalis - Steve Smith](ardalis---steve-smith) - **streaming:** C#, ASP.NET Core, Clean Architecture, DDD, Design Patterns, TDD
+- [Ardalis - Steve Smith](#ardalis---steve-smith) - **streaming:** C#, ASP.NET Core, Clean Architecture, DDD, Design Patterns, TDD
 - [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
