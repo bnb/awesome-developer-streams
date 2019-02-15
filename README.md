@@ -34,7 +34,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
-- [Anthony Sottile](#anthony-sottile) - **streaming:** Python, AST manipulations
+- [Anthony Sottile](#anthony-sottile) - **streaming:** Python, linting, code formatting, testing, refactoring
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Ardalis - Steve Smith](#ardalis---steve-smith) - **streaming:** C#, ASP.NET Core, Clean Architecture, DDD, Design Patterns, TDD
 - [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
@@ -191,7 +191,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ### Anthony Sottile
 #### What Anthony Streams
-- Python, AST manipulations
+- Python, linting, code formatting, testing, refactoring
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/anthonywritescode)
 #### Links:
