@@ -98,7 +98,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Nicholas Brochu](#nicholas-brochu) - **streaming:** Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
 - [Ninjabunny9000](#ninjabunny9000) - **streaming:** Python, C#, Ninja, Programming in general
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
-- [nullpointer128](#nullpointer128) - **streaming:** Javascript, flutter, Spring, Vue.js, Web development, App development
+- [nullpointer128](#nullpointer128) - **streaming:** Javascript, flutter, Dart, Spring, Vue.js, Web development, App development
 - [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
 - [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
@@ -927,7 +927,7 @@ Also known as MPJ from Fun Fun Function
 
 ### nullpointer128
 #### What nullpointer Streams
-- Javascript, flutter, Spring, Vue.js, Web development, App development
+- Javascript, flutter, Dart, Spring, Vue.js, Web development, App development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/nullpointer128)
 #### Links:
