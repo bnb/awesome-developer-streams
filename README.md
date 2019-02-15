@@ -933,7 +933,6 @@ Also known as MPJ from Fun Fun Function
 #### Links:
 - [Discord](http://discord.gg/XNqfcQW)
 - [Twitter](http://twitter.com/nullpointer256)
-- [Website](http://johncpanos.github.io/)
 
 ### Pavithra Kodmad
 #### What PK Streams
