@@ -117,6 +117,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Shirley Wu](#shirley-wu) - **streaming:** Data Visualisation (DataViz), JavaScript, React
 - [Simeon Vincent](#simeon-vincent) - **streaming:** JavaScript, CSS, Web Development, Twitch extensions
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming:** C++, Lua, Game Development (in french)
+- [Siva](#siva) - **streaming:** ML, IoT, Node.js, JavaScript, GraphQL
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
@@ -1137,6 +1138,16 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/DrLynix)
 - [Twitter](https://twitter.com/SirLynix)
 - [Website](https://sirlynixvanfrietjes.be)
+
+### Siva
+#### What Siva Streams
+- ML, IoT, Node.js, JavaScript, GraphQL
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ksivamuthu)
+#### Links:
+- [Twitter](https://twitter.com/ksivamuthu)
+- [GitHub](https://github.com/ksivamuthu)
+- [Youtube](https://www.youtube.com/channel/UCTWEip7qMz2HP-0daYA8nvA)
 
 ### Suz Hinton
 #### What Suz Streams
