@@ -470,7 +470,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### Links:
 - [Website](https://www.ghuntley.com)
 - [GitHub](https://github.com/ghuntley)
-- [Patreon](https://www.patreon.com/geoffreyhuntley)
+- [Patreon](https://www.patreon.com/ghuntley)
 
 ### Gwen Frey
 #### What Gwen Streams
