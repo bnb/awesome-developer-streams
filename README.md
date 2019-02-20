@@ -53,6 +53,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [David Pedersen](#david-pedersen) - **streaming:** Rust, Ruby, Vim
 - [David Poindexter](#david-poindexter) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
+- [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Erik Guzman](#erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
@@ -395,6 +396,20 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/DevChatter_)
 - [GitHub](https://github.com/DevChatter)
 - [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
+
+### Dmitry Figol
+#### What Dmitry Streams
+- Network programmability, Network automation, Python, NetDevOps, DevOps
+#### Streaming on:
+- [Twitch](https://twitch.tv/dmfigol)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/dmfigol)
+- [GitHub](https://github.com/dmfigol)
+- [LinkedIn](https://linkedin.com/in/dmfigol)
+- [Website](https://dmfigol.me)
+- [YouTube](https://www.youtube.com/dmfigol)
 
 ### DrunkDevs
 #### What DrunkDevs Streams
