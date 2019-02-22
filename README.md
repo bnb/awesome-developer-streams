@@ -91,8 +91,8 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
 - [Kyle Shevlin](#kyle-shevlin) - **streaming:** React, JavaScript, Functional Programming, Web Development
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
+- [Marco Bruno](#marco-bruno) - **streaming** Programming, Javascript, Web Development, React, CSS, HTML
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
-- [Marco Bruno](#marco-bruno) - **streaming** Programing, Javascript, Web Development, React, CSS, HTML
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 - [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
@@ -838,6 +838,20 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/lukego)
 - [Website](http://www.lukego.com/)
 
+### Marco Bruno
+#### What Mark Streams
+- Programming, Javascript, Web Development, React, CSS, HTML
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/marcobrunobr/)
+- [YouTube](https://www.youtube.com/c/collabcode)
+#### Languages Spoken During Stream
+- Portuguese
+#### Links:
+- [Twitter](https://twitter.com/marcobrunobr)
+- [GitHub](https://github.com/marcobrunobr)
+- [LinkedIn](https://www.linkedin.com/in/marcobrunobr/)
+- [Blog](https://medium.com/collabcode)
+
 ### Mark Kraus
 #### What Mark Streams
 - PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
@@ -851,20 +865,6 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/markekraus)
 - [LinkedIn](https://www.linkedin.com/in/markekraus/)
 - [Blog](http://get-powershellblog.blogspot.com/)
-
-### Marco Bruno
-#### What Mark Streams
-- Programing, Javascript, Web Development, React, CSS, HTML
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/marcobrunobr/)
-- [YouTube](https://www.youtube.com/c/collabcode)
-#### Languages Spoken During Stream
-- Portuguese
-#### Links:
-- [Twitter](https://twitter.com/marcobrunobr)
-- [GitHub](https://github.com/marcobrunobr)
-- [LinkedIn](https://www.linkedin.com/in/marcobrunobr/)
-- [Blog](https://medium.com/collabcode)
 
 ### Matt Layman
 #### What Matt streams
