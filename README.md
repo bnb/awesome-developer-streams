@@ -53,6 +53,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [David Pedersen](#david-pedersen) - **streaming:** Rust, Ruby, Vim
 - [David Poindexter](#david-poindexter) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
+- [Developers Garage](#developers-garage) - **streaming:** C#, JavaScript, TypeScript, .NET Core, ASP.NET Core, OSS, Xamarin
 - [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
@@ -397,6 +398,19 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/DevChatter_)
 - [GitHub](https://github.com/DevChatter)
 - [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
+
+### Developers Garage
+#### What Developers Garage Streams
+- C#, JavaScript, TypeScript, .NET Core, ASP.NET Core, OSS, Xamarin
+#### Streaming on:
+- [Twitch](https://twitch.tv/developersgarage)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/ryano9791)
+- [GitHub](https://github.com/devsgarage)
+- [YouTube](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
+- [Website](https://onyxprime.github.io)
 
 ### Dmitry Figol
 #### What Dmitry Streams
