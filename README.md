@@ -126,6 +126,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
 - [Tanya Janca](#tanya-janca) - **streaming** Web Security, Azure, Cloud Security
+- [Ted M. Young](#ted-m-young) - **streaming:** Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
 - [Thomas Soerensen](#thomas-soerensen) - **streaming:** Golang, PHP (Laravel), JavaScript
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
@@ -1246,6 +1247,19 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/shehackspurple)
 - [YouTube](https://aka.ms/DevSlopShow)
 - [Website](https://devslop.co/)
+
+### Ted M. Young
+#### What Ted (Jitterted) Streams
+- Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
+#### Streaming on:
+- [Twitch](https://twitch.tv/jitterted)
+#### Links:
+- [Twitter](https://twitter.com/jitterted)
+- [YouTube](https://www.youtube.com/channel/UCx8qMdZ6JoZgOcOQxWlyV8A)
+- [Website](https://www.tedmyoung.com)
+- [Patreon](https://www.patreon.com/jitterted)
+- [GitHub](https://www.github.com/tedyoung)
+- [Newsletter](https://upscri.be/f34570/)
 
 ### Thomas Soerensen
 #### What Thomas Streams
