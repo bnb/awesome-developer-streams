@@ -85,6 +85,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Jon Gjengset](#jon-gjengset) - **streaming:** Rust
 - [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
+- [Josh Justice](#josh-justice) - **streaming:** JavaScript, Rails, Ember, React Native
 - [KensoDev](#kensodev) - **streaming:** Advanced Devops - Python, Terraform, React
 - [Kent C. Dodds](#kent-c-dodds) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 - [Keraf](#keraf) - **streaming:** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
@@ -778,6 +779,16 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/hawkinjs)
 - [GitHub](https://github.com/hawkins)
 - [Website](https://hawkins.is)
+
+### Josh Justice
+#### What Josh (codingitwrong) Streams
+- JavaScript, Rails, Ember, React Native
+#### Streaming on:
+- [Twitch](https://twitch.tv/codingitwrong)
+#### Links:
+- [Twitter](https://twitter.com/codingitwrong)
+- [GitHub](https://github.com/codingitwrong)
+- [Website](https://codingitwrong.com)
 
 ### KensoDev
 #### What KensoDev Streams
