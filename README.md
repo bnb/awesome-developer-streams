@@ -98,6 +98,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 - [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
+- [MechJack](#mechjack) - **streaming:** Java, JavaScript, React, Framework development, Programming in general
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [Nicholas Brochu](#nicholas-brochu) - **streaming:** Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
@@ -932,6 +933,20 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/mpj)
 - [GitHubGist](https://gist.github.com/mpj)
 - [Website](https://about.me/mpj)
+
+### MechJack
+#### What MechJack Streams
+- Java, JavaScript, React, Framework development, Programming in general
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/mechjack)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Discord](https://discord.gg/vVX66kw)
+- [GitHub](https://github.com/mechjacktv)
+- [Thingiverse](https://www.thingiverse.com/MechJack/about)
+- [Twitter](https://twitter.com/mechjacktv)
+- [YouTube](https://www.youtube.com/channel/UCYi1VMWVuFTySaJ3tOqOb_w)
 
 ### Micah Elizabeth Scott (scanlime)
 #### What Micah Streams
