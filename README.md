@@ -95,6 +95,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Marco Bruno](#marco-bruno) - **streaming** Programming, Javascript, Web Development, React, CSS, HTML
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
+- [Mark Mandel](#mark-mandel) - **streaming** Game Development, Kubernetes, Go, OSS
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 - [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
@@ -892,6 +893,20 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/markekraus)
 - [LinkedIn](https://www.linkedin.com/in/markekraus/)
 - [Blog](http://get-powershellblog.blogspot.com/)
+
+### Mark Mandel
+#### What Mark Streams
+- Game Development, Kubernetes, Golang, mostly working on [Agones](https://agones.dev)
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/markmandel/)
+- [YouTube](https://www.youtube.com/user/marksmandel)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/neurotic)
+- [GitHub](https://github.com/markmandel)
+- [LinkedIn](https://www.linkedin.com/in/marksmandel/)
+- [Blog](https://www.compoundtheory.com)
 
 ### Matt Layman
 #### What Matt streams
