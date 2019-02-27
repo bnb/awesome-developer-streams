@@ -64,6 +64,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Freya Holmér](#freya-holmér) - **streaming:** Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
 - [Gary Ewan Park](#gary-ewan-park) - **streaming:** C#, .NET, .NET Core, Cake, Chocolatey, DevOps
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
+- [Gavin Barron](#gavin-barron) - **streaming:** Web Development, C#, TypeScript, Azure, DevOps
 - [Geoffrey Huntley](#geoffrey-huntley) - **streaming:** Haskell, Reactive Extensions, NixOS, OSS Development, C#, .NET, Xamarin, DevOps
 - [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
@@ -542,6 +543,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Patreon](https://www.patreon.com/rw_grim)
 - [Pidgin](https://www.pidgin.im)
 - [Convey](https://bitbucket.org/rw_grim/convey)
+
+### Gavin Barron
+#### What Gavin Streams
+- Web Development, C#, TypeScript, Azure, DevOps
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/gavinbarron)
+#### Links:
+- [Twitter](https://twitter.com/gavinbarron)
+- [GitHub](https://github.com/gavinbarron)
+- [Website](https://gavinb.net)
 
 ### Geoffrey Huntley
 #### What Geoff Streams
