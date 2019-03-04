@@ -54,6 +54,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [David Poindexter](#david-poindexter) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [Developers Garage](#developers-garage) - **streaming:** C#, JavaScript, TypeScript, .NET Core, ASP.NET Core, OSS, Xamarin
+- [DJ Adams](#dj-adams) - **streaming:** SAP development topics, including Node.js, JavaScript & the Cloud Application Programming Model 
 - [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
@@ -417,6 +418,20 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/devsgarage)
 - [YouTube](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
 - [Website](https://onyxprime.github.io)
+
+### DJ Adams
+#### What DJ Adams Streams
+- SAP development topics, including Node.js, JavaScript & the Cloud Application Programming Model
+#### Streaming on:
+- [Twitch](https://twitch.tv/qmacro99)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/qmacro)
+- [GitHub](https://github.com/qmacro)
+- [YouTube](https://www.youtube.com/user/qmacro99/)
+- [Homepage](https://qmacro.org)
+- [SAP Community](https://people.sap.com/dj.adams.sap)
 
 ### Dmitry Figol
 #### What Dmitry Streams
