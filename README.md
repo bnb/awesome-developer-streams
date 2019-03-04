@@ -94,6 +94,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Kevin Griffin](#kevin-griffin) - **streaming:** C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
 - [Kyle Shevlin](#kyle-shevlin) - **streaming:** React, JavaScript, Functional Programming, Web Development
+- [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects 
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Marco Bruno](#marco-bruno) - **streaming** Programming, Javascript, Web Development, React, CSS, HTML
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
@@ -882,6 +883,18 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/kyleshevlin)
 - [GitHub](https://github.com/kyleshevlin)
 - [Website](https://kyleshevlin.com/)
+
+### Lizzie Siegle
+#### What Lizzie Streams
+- JavaScript, Swift, Web Development, Node.js, cool libraries and projects
+#### Languages Spoken During Stream
+- English
+#### Streaming on:
+- [Instagram Live](https://instagram.com/twilio)
+#### Links:
+- [Twitter](https://twitter.com/lizziepika)
+- [GitHub](https://github.com/elizabethsiegle)
+- [Website](https://elizabethsiegle.github.io)
 
 ### Luke Gorrie
 #### What Luke Streams
