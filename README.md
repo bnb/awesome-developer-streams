@@ -36,6 +36,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
 - [Anthony Sottile](#anthony-sottile) - **streaming:** Python, linting, code formatting, testing, refactoring
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
+- [Anton Kuzmenko](#anton-kuzmenko) - **streaming:** Go/Golang, Ruby on Rails, Node.js, JavaScript, Terraform, Docker, Kubernetes, Helm, Bash, Vim.
 - [Ardalis - Steve Smith](#ardalis---steve-smith) - **streaming:** C#, ASP.NET Core, Clean Architecture, DDD, Design Patterns, TDD
 - [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
@@ -223,6 +224,19 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [GitHub](https://github.com/amaiorano)
 - [YouTube](https://www.youtube.com/channel/UCvGInSOEQnf2ms4n4Q9dXdQ)
 - [LinkedIn](https://www.linkedin.com/in/amaiorano/)
+
+### Anton Kuzmenko
+#### What Anton (antonlabs/solomakerlabs) Kuzmenko
+- Go/Golang, Ruby on Rails, Node.js, JavaScript, Terraform, Docker, Kubernetes, Helm, Bash, Vim; I build profitable businesses live on Twitch while working a full-time job.
+#### Streaming on:
+- [Twitch](https://twitch.tv/solomakerlabs)
+#### Links:
+- [Twitter](https://twitter.com/solomakerlabs)
+- [Website](https://antonlabs.dev)
+- [Patreon](https://www.patreon.com/AntonLabs)
+- [Buy Anton Kuzmenko a coffee](https://www.buymeacoffee.com/antonlabs)
+- [GitHub](https://www.github.com/antonlabs)
+- [Telegram](https://t.me/anton_dev)
 
 ### Ardalis - Steve Smith
 #### What Ardalis Streams
