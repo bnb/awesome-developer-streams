@@ -64,6 +64,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
 - [Franziska Hinkelmann](#franziska-hinkelmann) - **streaming:** JavaScript, Node.js, Interview Training, Pair Programming
 - [Freya Holmér](#freya-holmér) - **streaming:** Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
+- [Gareth Hubball](#gareth-hubball) - **streaming:** F#, .NET, .NET Core, Functional Programming, Rust, Xamarin
 - [Gary Ewan Park](#gary-ewan-park) - **streaming:** C#, .NET, .NET Core, Cake, Chocolatey, DevOps
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
 - [Gavin Barron](#gavin-barron) - **streaming:** Web Development, C#, TypeScript, Azure, DevOps
@@ -546,6 +547,18 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Discord](https://discord.gg/v5VWuga)
 - [Instagram](https://www.instagram.com/freya_holmer/)
 - [Patreon](https://www.patreon.com/acegikmo)
+
+### Gareth Hubball
+#### What Gareth Streams
+- F#, .NET, .NET Core, Functional Programming, Rust, Xamarin
+#### Streaming on:
+- [Twitch](https://twitch.tv/garethhubball)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/garethhubball)
+- [GitHub](https://github.com/garethhubball)
+- [Website](https://garethhubball.com)
 
 ### Gary Ewan Park
 #### What Gary Streams
