@@ -622,12 +622,12 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Instagram](https://instagram.com/go_maestro_go)
 - [YouTube](https://youtube.com/channel/UC5kP9luOLJE9jiuKi9VQ9Yg)
 #### Links:
-- [Website](https://www.gomaestrogo.com)
+- [Website](http://www.gomaestrogo.com)
 - [GitHub](https://github.com/gueroso)
-- [Personal Website](https://www.christiang.xyz)
-- [Meditation Blog](https://www.christianmediates.com)
+- [Personal Website](http://www.christiang.xyz)
+- [Meditation Blog](http://www.christianmeditates.com)
 - [Patreon](https://www.patreon.com/gomaestrogo)
-- [StreamLabs] (https://streamlabs.com/go_maestro_go)
+- [StreamLabs](https://streamlabs.com/go_maestro_go)
 
 ### Gwen Frey
 #### What Gwen Streams
