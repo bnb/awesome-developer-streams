@@ -69,6 +69,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
 - [Gavin Barron](#gavin-barron) - **streaming:** Web Development, C#, TypeScript, Azure, DevOps
 - [Geoffrey Huntley](#geoffrey-huntley) - **streaming:** Haskell, Reactive Extensions, NixOS, OSS Development, C#, .NET, Xamarin, DevOps
+- [Go_Maestro_Go](#go_maestro_go) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, GraphQL, Web Development, Native Apps, Docker, Kubernetes, AWS, Oracle, Heroku, PostgresQL, Angular, Vue, Flutter, Dart, Open-Source, Full-Stack, DevOps
 - [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
 - [HardlyDifficult](#hardlydifficult) - **streaming:** Game Development (Unity3D, C#), C# Programming, Cryptocurrency
@@ -610,6 +611,23 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Website](https://www.ghuntley.com)
 - [GitHub](https://github.com/ghuntley)
 - [Patreon](https://www.patreon.com/ghuntley)
+
+### Go_Maestro_Go
+#### What Go_Maestro_Go (Christian) Streams
+- JavaScript, Node.js, ReactJS, React Native, External APIs, GraphQL, Web Assembly, Oracle JavaScript Extension Toolkit (OJET), Native Apps, Docker, Kubernetes, Cloud Infrastructure, OCI, GCP, AWS, Azure, Heroku, PostgresQL, Open-Source, Full-Stack, DevOps, Machine Learning, Relational Database Design, Google Sheets Automations, Raspberry Pi, IoT, Integrations, BoseAR, Elgato Stream Deck, Trello, Scrum Management
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/go_maestro_go)
+- [Twitter](https://twitter.com/gomaestrogo)
+- [Facebook](https://facebook.com/gomaestrogo)
+- [Instagram](https://instagram.com/go_maestro_go)
+- [YouTube](https://youtube.com/channel/UC5kP9luOLJE9jiuKi9VQ9Yg)
+#### Links:
+- [Website](http://www.gomaestrogo.com)
+- [GitHub](https://github.com/gueroso)
+- [Personal Website](http://www.christiang.xyz)
+- [Meditation Blog](http://www.christianmeditates.com)
+- [Patreon](https://www.patreon.com/gomaestrogo)
+- [StreamLabs](https://streamlabs.com/go_maestro_go)
 
 ### Gwen Frey
 #### What Gwen Streams
