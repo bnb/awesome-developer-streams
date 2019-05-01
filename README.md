@@ -47,7 +47,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
-- [Codebase Alpha](#codebasealpha) - **streaming:** C#, .Net Core, ASP.Net Core
+- [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
 - [Daniel Jenkins](#daniel-jenkins) - **streaming:** JavaScript, PHP, C#, Unity, Game Development, Web Development
