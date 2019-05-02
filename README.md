@@ -134,6 +134,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Simeon Vincent](#simeon-vincent) - **streaming:** JavaScript, CSS, Web Development, Twitch extensions
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming:** C++, Lua, Game Development (in french)
 - [Siva](#siva) - **streaming:** ML, IoT, Node.js, JavaScript, GraphQL
+- [Sorskoot](#sorskoot) - **streaming:** JavaScript, Node.js, WebVR/WebAR/WebXR, Progressive web apps, IoT, Microsoft Azure
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
@@ -1369,6 +1370,17 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/ksivamuthu)
 - [GitHub](https://github.com/ksivamuthu)
 - [Youtube](https://www.youtube.com/channel/UCTWEip7qMz2HP-0daYA8nvA)
+
+### Sorskoot
+#### What Sorskoot Streams
+- JavaScript, Node.js, WebVR/WebAR/WebXR, Progressive web apps, IoT, Microsoft Azure
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/sorskoot)
+#### Links:
+- [Twitter](https://twitter.com/sorskoot)
+- [GitHub](https://github.com/sorskoot)
+- [Youtube](https://www.youtube.com/c/sorskoot)
+- [Website](https://timmykokke.com/)
 
 ### Suz Hinton
 #### What Suz Streams
