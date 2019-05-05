@@ -118,6 +118,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
 - [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+- [Rachael Tatman](#rachael-tatman) - **streaming** Data Science Livecoding (mostly R) and scientic paper journal club
 - [RadicalFishGames](#radicalfishgames) - **streaming:** Game Development (JavaScript, WebGL) (Game: CrossCode)
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 - [Randall Hunt](#randall-hunt) - **streaming:** AWS, Web Development, Hardware Hacking, Python, Serverless, AI
@@ -1189,6 +1190,16 @@ Also known as MPJ from Fun Fun Function
 #### Links:
 - [Twitter](https://twitter.com/alec_dilanchian)
 - [GitHub](https://github.com/PixelogicDev)
+
+### Rachael Tatman
+#### What rachaeltatman streams
+- data science
+- journal club
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/rctatman)
+#### Links:
+- [Twitter](https://twitter.com/rctatman)
+- [GitHub](https://github.com/rctatman)
 
 ### RadicalFishGames
 #### What RadicalFishGames Streams
