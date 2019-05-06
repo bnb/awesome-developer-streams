@@ -148,6 +148,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Tyler Leonhardt](#tyler-leonhardt) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
 - [WindybeardGames](#windybeardgames) - **streaming:** ClickTeam Fusion, PhotoShop, Spine, Game Art 
 - [Yosh](#yosh) - **streaming:** OSS maintenance, Tooling Development, JavaScript, Node.js, Choo
+- [Zorchenhimer](#zorchenhimer) **streaming** 6502 NES Assembly, Golang
 
 ## Developers That Stream
 
@@ -1524,3 +1525,14 @@ AWS, Web Development, Python, Serverless, AI
 #### Links:
 - [Twitter](https://twitter.com/yoshuawuyts)
 - [GitHub](https://github.com/yoshuawuyts)
+
+### Zorchenhimer
+#### What Zorchenhimer Streams
+- 6502 NES Assembly, Golang
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/zorchenhimer)
+#### Links:
+- [Twitter](https://twitter.com/Zorchenhimer)
+- [GitHub](https://github.com/zorchenhimer)
+- [Website](https://zorchenhimer.com/)
+- [Youtube](https://www.youtube.com/c/Zorchenhimer)
