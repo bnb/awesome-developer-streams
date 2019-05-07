@@ -52,6 +52,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
 - [Daniel Jenkins](#daniel-jenkins) - **streaming:** JavaScript, PHP, C#, Unity, Game Development, Web Development
 - [Daniel Shiffman](#daniel-shiffman) - **streaming:** JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
+- [Daniel Stenberg](#daniel-stenberg) - **streaming:** C, Network Tools, Network Security
 - [David Pedersen](#david-pedersen) - **streaming:** Rust, Ruby, Vim
 - [David Poindexter](#david-poindexter) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
@@ -402,6 +403,18 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/shiffman)
 - [GitHub](https://github.com/shiffman)
 - [Website](http://shiffman.net/)
+
+### Daniel Stenberg
+#### What Daniel Streams
+- C, Network Tools, Network Security
+- Primarily focuses on cURL, WolfSSH, WolfSSL, etc.
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/curlhacker)
+#### Links:
+- [Youtube](https://www.youtube.com/channel/UCD5eL38hFtSLiVFP9cCUJEA)
+- [Twitter](https://twitter.com/bagder)
+- [GitHub](https://github.com/bagder)
+- [Website](https://daniel.haxx.se/)
 
 ### David Pedersen
 #### What David Streams
