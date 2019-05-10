@@ -48,6 +48,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
+- [CodeRushed](#coderushed) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
 - [Daniel Jenkins](#daniel-jenkins) - **streaming:** JavaScript, PHP, C#, Unity, Game Development, Web Development
@@ -359,6 +360,16 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Twitter](https://twitter.com/codebasealpha)
 - [GitHub](https://github.com/essenbee)
 - [YouTube](https://www.youtube.com/channel/UCFFtfkaWjMb9UMDpPVnC1Sg)
+
+### CodeRushed (Mark Miller)
+#### What CodeRushed Streams
+- C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, D&D Game development, CodeRush dog-fooding
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/coderushed)
+#### Links:
+- [Twitter](https://twitter.com/millermark)
+- [GitHub](https://github.com/millermark)
+- [CodeRush feature of the week (YouTube)](https://www.youtube.com/playlist?list=PL8h4jt35t1wgawacCN9wmxq1EN36CNUGk)
 
 ### Collin Henderson
 #### What Collin Streams
