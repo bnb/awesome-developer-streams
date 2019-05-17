@@ -61,6 +61,8 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [DJ Adams](#dj-adams) - **streaming:** SAP development topics, including Node.js, JavaScript & the Cloud Application Programming Model 
 - [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
+
+https://twitter.com/EdCharbeneau
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Erik Guzman](#erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
@@ -513,6 +515,17 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Game Jolt](https://gamejolt.com/@Ink/games)
 - [Facebook](www.facebook.com/DrunkDevs)
 - [Website](http://www.drunkdevs.com/)
+
+### Ed Charbeneau 
+#### What Ed streams
+- Blazor, Open Source, C#, FLuent, Functional Programming
+#### Streaming on:
+- [Twitch](https://twitch.tv/edcharbeneau)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://github.com/EdCharbeneau)
+- [Github](https://github.com/EdCharbeneau)
 
 ### Eddie Jaoude
 #### What Eddie streams
