@@ -114,6 +114,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Michael Jolley](#michael-jolley) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [Nicholas Brochu](#nicholas-brochu) - **streaming:** Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
+- [Nick Busey](#nick-busey) - **streaming:** PHP, NodeJS, Docker, Ansible, DevOps, React, MeteorJS and occasionally I'll brew a beer!
 - [Ninjabunny9000](#ninjabunny9000) - **streaming:** Python, C#, Ninja, Programming in general
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 - [nullpointer128](#nullpointer128) - **streaming:** Javascript, flutter, Dart, Spring, Vue.js, Web development, App development
@@ -1150,6 +1151,18 @@ Also known as MPJ from Fun Fun Function
 - [YouTube](https://www.youtube.com/c/SerpentAI)
 - [Discord](https://discord.gg/9D5SuxH)
 - [Patreon](https://www.patreon.com/serpent_ai)
+
+### Nick Busey
+#### What Nick Streams
+- PHP, NodeJS, Docker, Ansible, DevOps, React, MeteorJS and occasionally I'll brew a beer!
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/nickbusey)
+#### Links:
+- [Twitter](https://twitter.com/NickBusey)
+- [GitLab](https://gitlab.com/NickBusey)
+- [Website](http://nickbusey.com)
+- [YouTube](https://www.youtube.com/channel/UCMdTn6st3HoGkvH95IhrjbQ)
+- [Patreon](https://www.patreon.com/NickBusey)
 
 ### Ninjabunny9000 
 #### What Ninjabunny9000 Stream
