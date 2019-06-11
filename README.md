@@ -34,6 +34,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
+- [Andy Li](#andy-li) - **streaming:** Haxe, Web Development, Linux packaging
 - [Anthony Sottile](#anthony-sottile) - **streaming:** Python, linting, code formatting, testing, refactoring
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Anton Kuzmenko](#anton-kuzmenko) - **streaming:** Go/Golang, Ruby on Rails, Node.js, JavaScript, Terraform, Docker, Kubernetes, Helm, Bash, Vim.
@@ -213,6 +214,17 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Blog](https://andrewkelley.me/)
 - [Patreon](https://www.patreon.com/andrewrk)
 - [Website](https://ziglang.org/)
+
+### Andy Li
+#### What Andy Li Streams
+- Haxe, Web Development, Linux packaging
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/andyonthewings)
+#### Links:
+- [Twitter](https://mobile.twitter.com/andy_li)
+- [GitHub](https://github.com/andyli)
+- [Blog](https://blog.onthewings.net/)
+- [Giffon](https://giffon.io/user/2PX2)
 
 ### Anthony Sottile
 #### What Anthony Streams
