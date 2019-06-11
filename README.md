@@ -221,7 +221,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/andyonthewings)
 #### Links:
-- [Twitter](https://mobile.twitter.com/andy_li)
+- [Twitter](https://twitter.com/andy_li)
 - [GitHub](https://github.com/andyli)
 - [Blog](https://blog.onthewings.net/)
 - [Giffon](https://giffon.io/user/2PX2)
