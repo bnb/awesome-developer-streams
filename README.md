@@ -1126,7 +1126,7 @@ Also known as MPJ from Fun Fun Function
 - [Website](http://scanlime.org)
 - [Patreon](https://www.patreon.com/scanlime)
 
-## Michael Henderson (aka robedcoder / aka leadcoder)
+### Michael Henderson (aka robedcoder / aka leadcoder)
 #### What Michael Henderson Streams
 - Full stack development
 #### Streaming on:
@@ -1136,7 +1136,7 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](https://github.com/m-henderson)
 - [Instagram](https://instagram.com/robedcoder/)
 
-## Michael Jolley
+### Michael Jolley
 #### What Michael Jolley Streams
 - C#, JavaScript, .Net Core, IoT
 #### Streaming on:
