@@ -140,6 +140,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming:** C++, Lua, Game Development (in french)
 - [Siva](#siva) - **streaming:** ML, IoT, Node.js, JavaScript, GraphQL
 - [Sorskoot](#sorskoot) - **streaming:** JavaScript, Node.js, WebVR/WebAR/WebXR, Progressive web apps, IoT, Microsoft Azure
+- [Stan Daniels-Roth](#stan-daniels-roth) - **streaming:** Web Development, AdminSys, JavaScript, CSS, PHP (Laravel), 3D Printing
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
@@ -1442,6 +1443,20 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/sorskoot)
 - [Youtube](https://www.youtube.com/c/sorskoot)
 - [Website](https://timmykokke.com/)
+
+### Stan Daniels-Roth
+#### What Stan Streams
+- Web Development, JavaScript, CSS, PHP (Laravel)
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/mrstandu33)
+#### Languages Spoken During Stream
+- French (Native)
+- English
+#### Links:
+- [Twitter](https://twitter.com/mrstandu33)
+- [GitHub](https://github.com/mrstandu33)
+- [Instagram](https://www.instagram.com/stan_danielsroth)
+- [Website](https://daniels-roth-stan.fr)
 
 ### Suz Hinton
 #### What Suz Streams
