@@ -138,6 +138,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
 - [MechJack](#mechjack) - **streaming:** Java, JavaScript, React, Framework development, Programming in general
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
+- [Michael Henderson](#michael-henderson-robedcoder--leadcoder) - **streaming:** Fullstack development
 - [Michael Jolley](#michael-jolley) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 ---
@@ -1251,6 +1252,16 @@ Also known as MPJ from Fun Fun Function
 - [Website](http://scanlime.org)
 - [Patreon](https://www.patreon.com/scanlime)
 
+---
+## Michael Henderson (robedcoder / leadcoder)
+#### What Michael Jolley Streams
+- Full stack development
+#### Streaming on:
+- [Twitch](https://twitch.tv/leadcoder)
+- [YouTube](https://www.youtube.com/channel/UC_Dn6rTbbVggWONZtgzVHIQ)
+#### Links:
+- [GitHub](https://github.com/m-henderson)
+- [Instagram](https://instagram.com/robedcoder/)
 
 ---
 ### Michael Jolley
