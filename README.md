@@ -73,7 +73,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 ---
 ## E
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
-- [Erik Guzman](#erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
+- [Erik Guzman](#erik-guzman-talk2megooseman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 ---
 ## F
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
@@ -620,8 +620,8 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Instagram](https://www.instagram.com/eddiejaoude/)
 
 ---
-### Erik Guzman
-#### What Erik (Talk2MeGoseman) Streams
+### Erik Guzman (Talk2MeGooseman)
+#### What Erik (Talk2MeGooseman) Streams
 - JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/talk2megooseman)
