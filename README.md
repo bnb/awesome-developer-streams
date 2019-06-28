@@ -1800,7 +1800,7 @@ AWS, Web Development, Python, Serverless, AI
 
 ## Twitch 
 
-As well as the awesome developers listed below, there are a some team links and category links that will help you find active coders that are currently streaming on the Twitch platform.
+As well as the awesome developers listed, there are a some team links and category links that will help you find active coders that are currently streaming on the Twitch platform.
 
 ### Teams
 [Live Coders - https://www.twitch.tv/team/livecoders](https://www.twitch.tv/team/livecoders)
