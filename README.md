@@ -90,7 +90,6 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 ---
 ## E
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
-- [Erik Guzman (Talk2MeGooseman](#erik-guzman-Talk2MeGooseman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 
 [(top)](#table-of-contents)
 
@@ -237,6 +236,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ---
 ## T
+- [Talk2MeGooseman (Erik Guzman)](#Talk2MeGooseman-erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 - [Tanya Janca](#tanya-janca) - **streaming** Web Security, Azure, Cloud Security
 - [Ted M. Young](#ted-m-young) - **streaming:** Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
 - [Thomas Soerensen](#thomas-soerensen) - **streaming:** Golang, PHP (Laravel), JavaScript
@@ -751,19 +751,6 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Discord](https://discordapp.com/invite/jVwPDFd)
 - [YouTube](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA?view_as=subscriber)
 - [Instagram](https://www.instagram.com/eddiejaoude/)
-
-[(top)](#table-of-contents)
-
----
-### Erik Guzman (Talk2MeGooseman)
-#### What Erik (Talk2MeGooseman) Streams
-- JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/talk2megooseman)
-#### Links:
-- [Twitter](https://twitter.com/talk2megooseman)
-- [GitHub](https://github.com/talk2megooseman)
-- [Discord](https://discord.gg/j86Rmva)
 
 [(top)](#table-of-contents)
 
@@ -1955,6 +1942,17 @@ AWS, Web Development, Python, Serverless, AI
 - [Blog](https://www.sceen.net/blog/)
 
 [(top)](#table-of-contents)
+
+---
+### Talk2MeGooseman (Erik Guzman)
+#### What Talk2MeGooseman Streams
+- JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/talk2megooseman)
+#### Links:
+- [Twitter](https://twitter.com/talk2megooseman)
+- [GitHub](https://github.com/talk2megooseman)
+- [Discord](https://discord.gg/j86Rmva)
 
 ---
 ### Tanya Janca
