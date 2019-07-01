@@ -34,6 +34,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## Table of Contents
 
+[A](#A) - [B](#B) - [C](#C) - [D](#D) - [E](#E) - [F](#F) - [G](#G) - [H](#H) - [I](#I) - [J](#J) - [K](#K) - [L](#L) - [M](#M) - [N](#N) - [O](#O) - [P](#P) - [R](#R) - [S](#S) - [T](#T) - [V](#V) - [W](#W) - [X](#X) - [Y](#Y) - [Z](#Z)
+
+---
 ## A
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
@@ -46,6 +49,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Anton Kuzmenko](#anton-kuzmenko) - **streaming:** Go/Golang, Ruby on Rails, Node.js, JavaScript, Terraform, Docker, Kubernetes, Helm, Bash, Vim.
 - [Ardalis - Steve Smith](#ardalis---steve-smith) - **streaming:** C#, ASP.NET Core, Clean Architecture, DDD, Design Patterns, TDD
 - [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
+
+[(top)](#table-of-contents)
+
 ---
 ## B
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
@@ -54,6 +60,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
+
+[(top)](#table-of-contents)
+
 ---
 ## C
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
@@ -62,6 +71,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
+
+[(top)](#table-of-contents)
+
 ---
 ## D
 - [Daniel Jenkins](#daniel-jenkins) - **streaming:** JavaScript, PHP, C#, Unity, Game Development, Web Development
@@ -74,15 +86,24 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [DJ Adams](#dj-adams) - **streaming:** SAP development topics, including Node.js, JavaScript & the Cloud Application Programming Model 
 - [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
+
+[(top)](#table-of-contents)
+
 ---
 ## E
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
+
+[(top)](#table-of-contents)
+
 ---
 ## F
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
 - [Franziska Hinkelmann](#franziska-hinkelmann) - **streaming:** JavaScript, Node.js, Interview Training, Pair Programming
 - [Freya Holmér](#freya-holmér) - **streaming:** Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
+
+[(top)](#table-of-contents)
+
 ---
 ## G
 - [Gareth Hubball](#gareth-hubball) - **streaming:** F#, .NET, .NET Core, Functional Programming, Rust, Xamarin
@@ -93,14 +114,23 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Go_Maestro_Go](#go_maestro_go) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, GraphQL, Web Development, Native Apps, Docker, Kubernetes, AWS, Oracle, Heroku, PostgresQL, Angular, Vue, Flutter, Dart, Open-Source, Full-Stack, DevOps
 - [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
+
+[(top)](#table-of-contents)
+
 ---
 ## H
 - [HardlyDifficult](#hardlydifficult) - **streaming:** Game Development (Unity3D, C#), C# Programming, Cryptocurrency
 - [Holden Karau](#holden-karau) - **streaming:** Scala, Python, Spark, PySpark, Open Source
+
+[(top)](#table-of-contents)
+
 ---
 ## I
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [iDevelopThings](#idevelopthings) - **streaming:** PHP, JavaScript, Node.js, Full stack development, Web Development
+
+[(top)](#table-of-contents)
+
 ---
 ## J
 - [Jack Mott](#jack-mott) - **streaming:** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
@@ -118,6 +148,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 - [Josh Justice](#josh-justice) - **streaming:** JavaScript, Rails, Ember, React Native
+
+[(top)](#table-of-contents)
+
 ---
 ## K
 - [KensoDev](#kensodev) - **streaming:** Advanced Devops - Python, Terraform, React
@@ -126,10 +159,16 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Kevin Griffin](#kevin-griffin) - **streaming:** C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
 - [Kyle Shevlin](#kyle-shevlin) - **streaming:** React, JavaScript, Functional Programming, Web Development
+
+[(top)](#table-of-contents)
+
 ---
 ## L
 - [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects 
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
+
+[(top)](#table-of-contents)
+
 ---
 ## M
 - [Marco Bruno](#marco-bruno) - **streaming** Programming, Javascript, Web Development, React, CSS, HTML
@@ -144,6 +183,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Michael Henderson](#michael-henderson-robedcoder--leadcoder) - **streaming:** Fullstack development
 - [Michael Jolley](#michael-jolley) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
+
+[(top)](#table-of-contents)
+
 ---
 ## N
 - [Nicholas Brochu](#nicholas-brochu) - **streaming:** Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
@@ -151,11 +193,17 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Ninjabunny9000](#ninjabunny9000) - **streaming:** Python, C#, Ninja, Programming in general
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 - [nullpointer128](#nullpointer128) - **streaming:** Javascript, flutter, Dart, Spring, Vue.js, Web development, App development
+
+[(top)](#table-of-contents)
+
 ---
 ## P
 - [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
 - [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+
+[(top)](#table-of-contents)
+
 ---
 ## R
 - [Rachael Tatman](#rachael-tatman) - **streaming** Data Science Livecoding (mostly R) and scientic paper journal club
@@ -165,6 +213,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Robin Pokorny](#robin-pokorny) - **streaming:** JavaScript, Functional Programming, Node.js
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Russell Hay](#russell-hay) - **streaming:** Rust, Functional Programming, Hardware, Generative Art
+
+[(top)](#table-of-contents)
+
 ---
 ## S
 - [Sallar Kaboli](#sallar-kaboli) - **streaming:** JavaScript, Node.js, Electron, React, OSS Projects, APIs
@@ -182,6 +233,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
+
+[(top)](#table-of-contents)
+
 ---
 ## T
 - [Talk2MeGooseman (Erik Guzman)](#Talk2MeGooseman-erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
@@ -193,15 +247,26 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
 - [Tyler Leonhardt](#tyler-leonhardt) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
+
+[(top)](#table-of-contents)
+
 ---
 ## W
 - [WindybeardGames](#windybeardgames) - **streaming:** ClickTeam Fusion, PhotoShop, Spine, Game Art 
+
+[(top)](#table-of-contents)
+
 ---
 ## Y
 - [Yosh](#yosh) - **streaming:** OSS maintenance, Tooling Development, JavaScript, Node.js, Choo
+
+[(top)](#table-of-contents)
+
 ---
 ## Z
 - [Zorchenhimer](#zorchenhimer) **streaming** 6502 NES Assembly, Golang
+
+[(top)](#table-of-contents)
 
 ----
 # Developers That Stream
@@ -218,6 +283,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Website](https://bot.land)
 - [Blog](https://blog.bot.land)
 
+[(top)](#table-of-contents)
+
 ---
 ### Adron Hall
 #### What Adron Streams
@@ -229,6 +296,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/adron)
 - [Discord](https://discord.gg/gASJah)
 - [Blog](https://compositecode.blog/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Alexander Simovic
@@ -242,6 +311,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Website](https://effortless-serverless.com)
 - [Medium](https://medium.com/@simalexan)
 
+[(top)](#table-of-contents)
+
 ---
 ### Amorelandra
 #### What Amorelandra Streams
@@ -253,6 +324,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/Amorelandra)
 - [Blog](https://amorelandra.com/blog/)
 - [Website](https://amorelandra.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Andrew Kelley
@@ -268,6 +341,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Patreon](https://www.patreon.com/andrewrk)
 - [Website](https://ziglang.org/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Andy Li
 #### What Andy Li Streams
@@ -280,6 +355,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Blog](https://blog.onthewings.net/)
 - [Giffon](https://giffon.io/user/2PX2)
 
+[(top)](#table-of-contents)
+
 ---
 ### Anthony Sottile
 #### What Anthony Streams
@@ -290,6 +367,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/codewithanthony)
 - [GitHub](https://github.com/asottile)
 - [YouTube](https://www.youtube.com/anthonywritescode)
+
+[(top)](#table-of-contents)
 
 ---
 ### Antonio Maiorano
@@ -302,6 +381,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/amaiorano)
 - [YouTube](https://www.youtube.com/channel/UCvGInSOEQnf2ms4n4Q9dXdQ)
 - [LinkedIn](https://www.linkedin.com/in/amaiorano/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Anton Kuzmenko
@@ -317,6 +398,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://www.github.com/antonlabs)
 - [Telegram](https://t.me/anton_dev)
 
+[(top)](#table-of-contents)
+
 ---
 ### Ardalis - Steve Smith
 #### What Ardalis Streams
@@ -330,6 +413,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Weekly Dev Tips Podcast](http://www.weeklydevtips.com/)
 - [GitHub](https://github.com/ardalis)
 
+[(top)](#table-of-contents)
+
 ---
 ### Armin Ronacher
 #### What Armin Streams
@@ -339,6 +424,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 #### Links:
 - [Twitter](https://twitter.com/mitsuhiko)
 - [GitHub](https://github.com/mitsuhiko)
+
+[(top)](#table-of-contents)
 
 ---
 ### Ben Greenier
@@ -353,6 +440,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/bengreenier)
 - [Website](http://bengreenier.com)
 
+[(top)](#table-of-contents)
+
 ---
 ### Bobby Johnson
 #### What Bobby Streams
@@ -363,6 +452,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/NotMyself)
 - [GitHub](https://github.com/NotMyself)
 - [Website](https://iamnotmyself.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Brandon Satrom
@@ -375,6 +466,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/bsatrom)
 - [YouTube](https://www.youtube.com/channel/UCAS6I-NFh25eBhwMX2KCxqQ)
 - [Instagram](https://www.instagram.com/bsatrom/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Brian Clark
@@ -390,6 +483,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Instagram](https://www.instagram.com/_clarkio/)
 - [Website](https://www.clarkio.com/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Brian McKenna
 #### What Brian Streams
@@ -400,6 +495,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/puffnfresh)
 - [GitHub](https://github.com/puffnfresh)
 - [Website](https://brianmckenna.org)
+
+[(top)](#table-of-contents)
 
 ---
 ### Btor
@@ -413,12 +510,16 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Website](http://btor.fr/)
 - [Discord](https://discord.gg/NDpZXN5)
 
+[(top)](#table-of-contents)
+
 ---
 ### CaptainKraft
 #### What CaptainKraft Streams
 - C, C++, Rust
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/captainkraft)
+
+[(top)](#table-of-contents)
 
 ---
 ### Casey Muratori
@@ -431,6 +532,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/cmuratori)
 - [Website](https://handmadehero.org/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Codebase Alpha
 #### What Codebase Alpha Streams
@@ -441,6 +544,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/codebasealpha)
 - [GitHub](https://github.com/essenbee)
 - [YouTube](https://www.youtube.com/channel/UCFFtfkaWjMb9UMDpPVnC1Sg)
+
+[(top)](#table-of-contents)
 
 ---
 ### CodeRushed (Mark Miller)
@@ -453,6 +558,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/millermark)
 - [CodeRush feature of the week (YouTube)](https://www.youtube.com/playlist?list=PL8h4jt35t1wgawacCN9wmxq1EN36CNUGk)
 
+[(top)](#table-of-contents)
+
 ---
 ### Collin Henderson
 #### What Collin Streams
@@ -464,6 +571,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/syropian)
 - [Website](https://syropia.net/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Cory knox
 #### What Cory Streams
@@ -474,6 +583,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/coryknox)
 - [GitHub](https://github.com/corbob)
 - [Website](https://knoxy.ca)
+
+[(top)](#table-of-contents)
 
 ---
 ### Daniel Jenkins
@@ -490,6 +601,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Discord](https://discord.gg/t2ESzmr)
 - [YouTube](https://www.youtube.com/channel/UCx1TRVOz6HbgwVgXxiK7WKQ)
 
+[(top)](#table-of-contents)
+
 ---
 ### Daniel Shiffman
 #### What Daniel Streams
@@ -500,6 +613,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/shiffman)
 - [GitHub](https://github.com/shiffman)
 - [Website](http://shiffman.net/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Daniel Stenberg
@@ -514,6 +629,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/bagder)
 - [Website](https://daniel.haxx.se/)
 
+[(top)](#table-of-contents)
+
 ---
 ### David Pedersen
 #### What David Streams
@@ -524,6 +641,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/davidpdrsn)
 - [Twitter](https://twitter.com/davidpdrsn)
 - [YouTube](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ)
+
+[(top)](#table-of-contents)
 
 ---
 ### David Poindexter
@@ -539,6 +658,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Website](https://drp3.me)
 - [npx card](https://github.com/mtheoryx/npx-drpoindexter) `npx drpoindexter`
 
+[(top)](#table-of-contents)
+
 ---
 ### DevChatter
 #### What DevChatter Streams
@@ -551,6 +672,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/DevChatter_)
 - [GitHub](https://github.com/DevChatter)
 - [YouTube](https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA)
+
+[(top)](#table-of-contents)
 
 ---
 ### Developers Garage
@@ -565,6 +688,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/devsgarage)
 - [YouTube](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
 - [Website](https://onyxprime.github.io)
+
+[(top)](#table-of-contents)
 
 ---
 ### DJ Adams
@@ -581,6 +706,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Homepage](https://qmacro.org)
 - [SAP Community](https://people.sap.com/dj.adams.sap)
 
+[(top)](#table-of-contents)
+
 ---
 ### Dmitry Figol
 #### What Dmitry Streams
@@ -596,6 +723,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Website](https://dmfigol.me)
 - [YouTube](https://www.youtube.com/dmfigol)
 
+[(top)](#table-of-contents)
+
 ---
 ### DrunkDevs
 #### What DrunkDevs Streams
@@ -607,6 +736,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Game Jolt](https://gamejolt.com/@Ink/games)
 - [Facebook](www.facebook.com/DrunkDevs)
 - [Website](http://www.drunkdevs.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Eddie Jaoude
@@ -623,6 +754,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [YouTube](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA?view_as=subscriber)
 - [Instagram](https://www.instagram.com/eddiejaoude/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Feross Aboukhadijeh
 #### What Feross Streams
@@ -634,6 +767,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/feross)
 - [Website](https://feross.org/)
 - [Patreon](https://www.patreon.com/feross)
+
+[(top)](#table-of-contents)
 
 ---
 ### Ferris
@@ -649,6 +784,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Pouet](http://www.pouet.net/user.php?who=16820)
 - [Patreon](https://www.patreon.com/ferrisstreamsstuff)
 
+[(top)](#table-of-contents)
+
 ---
 ### Franziska Hinkelmann
 #### What Franziska (fhinkel) Streams
@@ -660,6 +797,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 #### Links:
 - [Twitter](https://twitter.com/fhinkel)
 - [YouTube](https://www.youtube.com/channel/UCRVQQJtsbCBF0tL7j0fEGpg)
+
+[(top)](#table-of-contents)
 
 ---
 ### Freya Holmér
@@ -677,6 +816,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Instagram](https://www.instagram.com/freya_holmer/)
 - [Patreon](https://www.patreon.com/acegikmo)
 
+[(top)](#table-of-contents)
+
 ---
 ### Gareth Hubball
 #### What Gareth Streams
@@ -690,6 +831,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/garethhubball)
 - [Website](https://garethhubball.com)
 
+[(top)](#table-of-contents)
+
 ---
 ### Gary Ewan Park
 #### What Gary Streams
@@ -701,6 +844,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/gep13)
 - [Blog](https://gep13.co.uk)
 - [YouTube](https://www.youtube.com/channel/UCO72yJoksHHEDfFJyxTDnqQ)
+
+[(top)](#table-of-contents)
 
 ---
 ### Gary Kramlich
@@ -720,6 +865,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Pidgin](https://www.pidgin.im)
 - [Convey](https://bitbucket.org/rw_grim/convey)
 
+[(top)](#table-of-contents)
+
 ---
 ### Gavin Barron
 #### What Gavin Streams
@@ -730,6 +877,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/gavinbarron)
 - [GitHub](https://github.com/gavinbarron)
 - [Website](https://gavinb.net)
+
+[(top)](#table-of-contents)
 
 ---
 ### Geoffrey Huntley
@@ -743,6 +892,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Website](https://www.ghuntley.com)
 - [GitHub](https://github.com/ghuntley)
 - [Patreon](https://www.patreon.com/ghuntley)
+
+[(top)](#table-of-contents)
 
 ---
 ### Go_Maestro_Go
@@ -762,6 +913,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Patreon](https://www.patreon.com/gomaestrogo)
 - [StreamLabs](https://streamlabs.com/go_maestro_go)
 
+[(top)](#table-of-contents)
+
 ---
 ### Gwen Frey
 #### What Gwen Streams
@@ -770,6 +923,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitch](https://www.twitch.tv/diregoldfish)
 #### Links:
 - [Twitter](https://twitter.com/diregoldfish)
+
+[(top)](#table-of-contents)
 
 ---
 ### Gynvael Coldwind
@@ -787,6 +942,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Website](http://gynvael.coldwind.pl/)
 - [Facebook](https://www.facebook.com/GynvaelPL/)
 
+[(top)](#table-of-contents)
+
 ---
 ### HardlyDifficult
 #### What HardlyDifficult Streams
@@ -798,6 +955,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/hardlydifficult)
 - [Website](http://hardlydifficult.com/)
 - [Youtube](http://youtube.com/HardlyDifficult)
+
+[(top)](#table-of-contents)
 
 ---
 ### Holden Karau
@@ -811,6 +970,8 @@ Scala, Python, Spark, PySpark, Open Source
 - [Twitter](https://twitter.com/holdenkarau)
 - [Github](https://github.com/holdenk)
 - [YouTube](https://www.youtube.com/channel/UCSrCrNswosZaD7-IufFp2AA)
+
+[(top)](#table-of-contents)
 
 ---
 ### Ian Lovett
@@ -828,6 +989,8 @@ Scala, Python, Spark, PySpark, Open Source
 - [Twitter](https://www.twitter.com/_ilovett)
 - [Github](https://github.com/ilovett)
 
+[(top)](#table-of-contents)
+
 ---
 ### iDevelopThings
 #### What iDevelopThings Streams
@@ -836,6 +999,8 @@ Scala, Python, Spark, PySpark, Open Source
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
 
+[(top)](#table-of-contents)
+
 ---
 ### Jack Mott
 #### What Jack Streams
@@ -843,6 +1008,8 @@ Scala, Python, Spark, PySpark, Open Source
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/jackmott42)
 - [Website](https://gameswithgo.org/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Jason Lengstorf
@@ -855,6 +1022,8 @@ Scala, Python, Spark, PySpark, Open Source
 - [GitHub](https://github.com/jlengstorf)
 - [Website](https://lengstorf.com)
 - [Youtube](https://www.youtube.com/channel/UCnty0z0pNRDgnuoirYXnC5A)
+
+[(top)](#table-of-contents)
 
 ---
 ### Jeff Fritz
@@ -871,6 +1040,8 @@ Scala, Python, Spark, PySpark, Open Source
 - [Website](http://jeffreyfritz.com/)
 - [YouTube](https://www.youtube.com/channel/UCfvJirlbRTN-bU9sMWMb_ZQ)
 
+[(top)](#table-of-contents)
+
 ---
 ### Jeff Lindsay
 #### What Jeff Streams
@@ -880,6 +1051,8 @@ Scala, Python, Spark, PySpark, Open Source
 #### Links:
 - [Twitter](https://twitter.com/progrium)
 - [GitHub](https://github.com/progrium)
+
+[(top)](#table-of-contents)
 
 ---
 ### Jeff Panici
@@ -896,6 +1069,8 @@ Scala, Python, Spark, PySpark, Open Source
 - [Discord](https://discord.gg/fdejMhU)
 - [Website](https://nybbles.io/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Jen Tong
 #### What Jen Streams
@@ -907,6 +1082,8 @@ Scala, Python, Spark, PySpark, Open Source
 - [GitHub](https://github.com/mimming)
 - [YouTube](https://www.youtube.com/c/mimming)
 - [Website](https://mimming.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Jesse Skinner
@@ -922,6 +1099,8 @@ Scala, Python, Spark, PySpark, Open Source
 - [Github](https://github.com/jesseskinner)
 - [Website](https://codingwithjesse.com)
 
+[(top)](#table-of-contents)
+
 ---
 ### Jesse Weigel
 #### What Jesse Streams
@@ -936,6 +1115,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Instagram](https://www.instagram.com/jesse.weigel/)
 - [Github (FreeCodeCamp)](https://github.com/fus-marcom/franciscan-react)
 
+[(top)](#table-of-contents)
+
 ---
 ### Jessica Mak
 #### What Jessica Streams
@@ -948,6 +1129,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/mango_lychee)
 - [Discord](https://discord.gg/AxR74yp)
 - [Donations](https://streamlabs.com/jessicamak)
+
+[(top)](#table-of-contents)
 
 ---
 ### Jochen Lillich
@@ -964,6 +1147,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Github](https://github.com/geewiz)
 - [Website](https://www.fullstacksensei.com)
 
+[(top)](#table-of-contents)
+
 ---
 ### Joe Bew
 #### What Joe Streams
@@ -974,6 +1159,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/joebew42)
 - [GitHub](https://github.com/joebew42)
 - [Website](https://joebew42.github.io/twitch/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Jon Gjengset
@@ -987,6 +1174,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/jonhoo)
 - [Website](https://thesquareplanet.com)
 
+[(top)](#table-of-contents)
+
 ---
 ### Jonathan Blow
 #### What Jonathan Blow Streams
@@ -997,6 +1186,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
 - [Twitter](https://twitter.com/Jonathan_Blow)
 - [Google+](https://plus.google.com/u/0/102153353283805950802)
+
+[(top)](#table-of-contents)
 
 ---
 ### Josh Hawkins
@@ -1009,6 +1200,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/hawkins)
 - [Website](https://hawkins.is)
 
+[(top)](#table-of-contents)
+
 ---
 ### Josh Justice
 #### What Josh (codingitwrong) Streams
@@ -1020,6 +1213,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/codingitwrong)
 - [Website](https://codingitwrong.com)
 
+[(top)](#table-of-contents)
+
 ---
 ### KensoDev
 #### What KensoDev Streams
@@ -1030,6 +1225,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 #### Links:
 - [Twitter](https://twitter.com/KensoDev)
 - [GitHub](https://github.com/KensoDev)
+
+[(top)](#table-of-contents)
 
 ---
 ### Kent C. Dodds
@@ -1045,6 +1242,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Blog](https://blog.kentcdodds.com)
 - [YouTube](https://www.youtube.com/c/kentcdodds-vids)
 
+[(top)](#table-of-contents)
+
 ---
 ### Keraf
 #### What Keraf Streams
@@ -1056,6 +1255,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/keraf)
 - [Website](https://ker.af/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Kevin Griffin
 #### What Kevin Streams
@@ -1066,6 +1267,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/1kevgriff)
 - [GitHub](https://github.com/1kevgriff)
 - [Website](https://kevgriffin.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### KeyFramers
@@ -1079,6 +1282,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter(@shshaw)](https://twitter.com/shshaw)
 - [Patreon](https://www.patreon.com/keyframers)
 
+[(top)](#table-of-contents)
+
 ---
 ### Kyle Shevlin
 #### What Kyle Streams
@@ -1089,6 +1294,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/kyleshevlin)
 - [GitHub](https://github.com/kyleshevlin)
 - [Website](https://kyleshevlin.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Lizzie Siegle
@@ -1103,6 +1310,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/elizabethsiegle)
 - [Website](https://elizabethsiegle.github.io)
 
+[(top)](#table-of-contents)
+
 ---
 ### Luke Gorrie
 #### What Luke Streams
@@ -1113,6 +1322,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/lukego)
 - [GitHub](https://github.com/lukego)
 - [Website](http://www.lukego.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Marco Bruno
@@ -1129,6 +1340,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [LinkedIn](https://www.linkedin.com/in/marcobrunobr/)
 - [Blog](https://medium.com/collabcode)
 
+[(top)](#table-of-contents)
+
 ---
 ### Mark Kraus
 #### What Mark Streams
@@ -1143,6 +1356,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/markekraus)
 - [LinkedIn](https://www.linkedin.com/in/markekraus/)
 - [Blog](http://get-powershellblog.blogspot.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Mark Mandel
@@ -1159,6 +1374,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [LinkedIn](https://www.linkedin.com/in/marksmandel/)
 - [Blog](https://www.compoundtheory.com)
 
+[(top)](#table-of-contents)
+
 ---
 ### Matt Groves
 #### What Matt streams
@@ -1172,6 +1389,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/mgroves)
 - [Blog/Podcast](https://crosscuttingconcerns.com)
 - [YouTube](http://bit.ly/grovestube)
+
+[(top)](#table-of-contents)
 
 ---
 ### Matt Layman
@@ -1187,6 +1406,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Github](https://github.com/mblayman)
 - [YouTube Playlist](https://www.youtube.com/watch?v=fNEZ_1dmVyE&list=PLFcKEo4b_n1wQA6lKtSqCq1dTMq1c2Lmw)
 
+[(top)](#table-of-contents)
+
 ---
 ### Matt Podwysocki
 #### What Matt aka BluerThanBlue Falcon aka λ Calrissian Streams
@@ -1200,6 +1421,8 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/mattpodwysocki)
 - [GitHub](https://github.com/mattpodwysocki)
 - [YouTube Channel](https://www.youtube.com/user/matthewpodwysocki)
+
+[(top)](#table-of-contents)
 
 ---
 ### Mattias Petter Johansson
@@ -1217,6 +1440,8 @@ Also known as MPJ from Fun Fun Function
 - [GitHubGist](https://gist.github.com/mpj)
 - [Website](https://about.me/mpj)
 
+[(top)](#table-of-contents)
+
 ---
 ### MechJack
 #### What MechJack Streams
@@ -1232,6 +1457,8 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/mechjacktv)
 - [YouTube](https://www.youtube.com/channel/UCYi1VMWVuFTySaJ3tOqOb_w)
 
+[(top)](#table-of-contents)
+
 ---
 ### Micah Elizabeth Scott (scanlime)
 #### What Micah Streams
@@ -1245,6 +1472,8 @@ Also known as MPJ from Fun Fun Function
 - [Website](http://scanlime.org)
 - [Patreon](https://www.patreon.com/scanlime)
 
+[(top)](#table-of-contents)
+
 ---
 ## Michael Henderson (robedcoder / leadcoder)
 #### What Michael Jolley Streams
@@ -1255,6 +1484,8 @@ Also known as MPJ from Fun Fun Function
 #### Links:
 - [GitHub](https://github.com/m-henderson)
 - [Instagram](https://instagram.com/robedcoder/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Michael Jolley
@@ -1267,6 +1498,8 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/michaeljolley)
 - [GitHub](https://github.com/michaeljolley)
 - [Website](https://michaeljolley.com)
+
+[(top)](#table-of-contents)
 
 ---
 ### Mike Conley
@@ -1283,6 +1516,8 @@ Also known as MPJ from Fun Fun Function
 - [YouTube](https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ)
 - [Website](https://www.mikeconley.ca/blog)
 
+[(top)](#table-of-contents)
+
 ---
 ### Nicholas Brochu
 #### What Nicholas Streams
@@ -1297,6 +1532,8 @@ Also known as MPJ from Fun Fun Function
 - [Discord](https://discord.gg/9D5SuxH)
 - [Patreon](https://www.patreon.com/serpent_ai)
 
+[(top)](#table-of-contents)
+
 ---
 ### Nick Busey
 #### What Nick Streams
@@ -1309,6 +1546,8 @@ Also known as MPJ from Fun Fun Function
 - [Website](http://nickbusey.com)
 - [YouTube](https://www.youtube.com/channel/UCMdTn6st3HoGkvH95IhrjbQ)
 - [Patreon](https://www.patreon.com/NickBusey)
+
+[(top)](#table-of-contents)
 
 ---
 ### Ninjabunny9000 
@@ -1324,6 +1563,8 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](www.twitter.com/ninjabunny9000)
 - [Discord](https://discord.gg/UEUFAUV)
 
+[(top)](#table-of-contents)
+
 ---
 ### nmarulo
 #### What nmarulo Streams
@@ -1335,6 +1576,8 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/nmarulo)
 - [Website](http://softn.red)
 
+[(top)](#table-of-contents)
+
 ---
 ### nullpointer128
 #### What nullpointer Streams
@@ -1344,6 +1587,8 @@ Also known as MPJ from Fun Fun Function
 #### Links:
 - [Discord](http://discord.gg/XNqfcQW)
 - [Twitter](http://twitter.com/nullpointer256)
+
+[(top)](#table-of-contents)
 
 ---
 ### Pavithra Kodmad
@@ -1355,6 +1600,8 @@ Also known as MPJ from Fun Fun Function
 - [Website](http://pavithrakodmad.com)
 - [Twitter](https://twitter.com/PKodmad)
 - [GitHub](https://github.com/pksjce)
+
+[(top)](#table-of-contents)
 
 ---
 ### Per Vognsen
@@ -1371,6 +1618,8 @@ Also known as MPJ from Fun Fun Function
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
 
+[(top)](#table-of-contents)
+
 ---
 ### PixelogicDev
 #### What PixelogicDev Streams
@@ -1380,6 +1629,8 @@ Also known as MPJ from Fun Fun Function
 #### Links:
 - [Twitter](https://twitter.com/alec_dilanchian)
 - [GitHub](https://github.com/PixelogicDev)
+
+[(top)](#table-of-contents)
 
 ---
 ### Rachael Tatman
@@ -1392,6 +1643,8 @@ Also known as MPJ from Fun Fun Function
 - [Twitter](https://twitter.com/rctatman)
 - [GitHub](https://github.com/rctatman)
 
+[(top)](#table-of-contents)
+
 ---
 ### RadicalFishGames
 #### What RadicalFishGames Streams
@@ -1403,6 +1656,8 @@ Also known as MPJ from Fun Fun Function
 - [Website](http://www.radicalfishgames.com/)
 - [Youtube](https://www.youtube.com/user/RadicalFishGames)
 
+[(top)](#table-of-contents)
+
 ---
 ### Ragnar Thor
 #### What Ragnar Thor Streams
@@ -1412,6 +1667,8 @@ Also known as MPJ from Fun Fun Function
 #### Links:
 - [Twitter](https://twitter.com/rthor)
 - [GitHub](https://github.com/rthor)
+
+[(top)](#table-of-contents)
 
 ---
 ### Randall Hunt
@@ -1424,6 +1681,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/jrhunt)
 - [GitHub](https://github.com/ranman)
 - [YouTube](https://www.youtube.com/channel/UC-yKovfbYEWyD_pXh9n7nHA)
+
+[(top)](#table-of-contents)
 
 ---
 ### Robin Pokorny
@@ -1439,6 +1698,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Website](https://robinpokorny.com/)
 - [YouTube](https://www.youtube.com/c/robinpokorny)
 
+[(top)](#table-of-contents)
+
 ---
 ### Rúben Gomes
 #### What Rúben Streams
@@ -1452,6 +1713,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Website](https://rubengomes10.github.io)
 - [Github](https://github.com/rubengomex)
 
+[(top)](#table-of-contents)
+
 ---
 ### Russell Hay
 #### What Russell Streams
@@ -1463,6 +1726,8 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/RussTheAerialist)
 - [Website](https://russellhay.com)
 - [Rust Blog](https://stainless.io)
+
+[(top)](#table-of-contents)
 
 ---
 ### Sallar Kaboli
@@ -1478,6 +1743,8 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/sallar)
 - [Website](https://sallar.me)
 
+[(top)](#table-of-contents)
+
 ---
 ### Sean Larkin
 #### What Sean Streams
@@ -1487,6 +1754,8 @@ AWS, Web Development, Python, Serverless, AI
 #### Links:
 - [Twitter](https://twitter.com/TheLarkInn)
 - [GitHub](https://github.com/TheLarkInn)
+
+[(top)](#table-of-contents)
 
 ---
 ### Sébastien Rancoud
@@ -1501,6 +1770,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/rancoud)
 - [GitHub](https://github.com/rancoud)
 
+[(top)](#table-of-contents)
+
 ---
 ### Sebastian Krzyżanowski
 #### What Sebastian Krzyżanowski streams
@@ -1512,6 +1783,8 @@ AWS, Web Development, Python, Serverless, AI
 - Polish
 #### Links:
 - [Github](https://github.com/vFujin)
+
+[(top)](#table-of-contents)
 
 ---
 ### Sergio Cinos
@@ -1526,6 +1799,8 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/scinos/)
 - [Website](https://www.youtube.com/channel/UCWWgBvd400EdnUF791ZjSeg)
 
+[(top)](#table-of-contents)
+
 ---
 ### Shinmera
 #### What Shinmera Streams
@@ -1536,6 +1811,8 @@ AWS, Web Development, Python, Serverless, AI
 #### Links:
 - [Github](https://github.com/Shinmera/)
 - [Website](http://shinmera.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Shirley Wu
@@ -1550,6 +1827,8 @@ AWS, Web Development, Python, Serverless, AI
 - [#ShirleyChats](https://twitter.com/hashtag/ShirleyChats)
 - [Website](http://sxywu.com/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Simeon Vincent
 #### What Simeon Vincent Streams
@@ -1562,6 +1841,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/dotproto)
 - [Github](https://github.com/dotproto)
 - [Website](https://dotproto.com)
+
+[(top)](#table-of-contents)
 
 ---
 ### Sir Lynix Van Frietjes
@@ -1578,6 +1859,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/SirLynix)
 - [Website](https://sirlynixvanfrietjes.be)
 
+[(top)](#table-of-contents)
+
 ---
 ### Siva
 #### What Siva Streams
@@ -1588,6 +1871,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/ksivamuthu)
 - [GitHub](https://github.com/ksivamuthu)
 - [Youtube](https://www.youtube.com/channel/UCTWEip7qMz2HP-0daYA8nvA)
+
+[(top)](#table-of-contents)
 
 ---
 ### Sorskoot
@@ -1600,6 +1885,8 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/sorskoot)
 - [Youtube](https://www.youtube.com/c/sorskoot)
 - [Website](https://timmykokke.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Stan Daniels-Roth
@@ -1616,6 +1903,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Instagram](https://www.instagram.com/stan_danielsroth)
 - [Website](https://daniels-roth-stan.fr)
 
+[(top)](#table-of-contents)
+
 ---
 ### Suz Hinton
 #### What Suz Streams
@@ -1627,6 +1916,8 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/noopkat)
 - [Website](http://noopkat.com/)
 - [Newsletter](https://tinyletter.com/noopkat)
+
+[(top)](#table-of-contents)
 
 ---
 ### Swizec Teller
@@ -1642,6 +1933,8 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/Swizec)
 - [Website](https://swizec.com/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Syanoks
 #### What Syanoks Streams
@@ -1649,6 +1942,8 @@ AWS, Web Development, Python, Serverless, AI
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/syanoks)
 - [Blog](https://www.sceen.net/blog/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Talk2MeGooseman (Erik Guzman)
@@ -1661,6 +1956,8 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/talk2megooseman)
 - [Discord](https://discord.gg/j86Rmva)
 
+[(top)](#table-of-contents)
+
 ---
 ### Tanya Janca
 #### What Tanya Streams
@@ -1671,6 +1968,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/shehackspurple)
 - [YouTube](https://aka.ms/DevSlopShow)
 - [Website](https://devslop.co/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Ted M. Young
@@ -1686,6 +1985,8 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://www.github.com/tedyoung)
 - [Newsletter](https://upscri.be/f34570/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Thomas Soerensen
 #### What Thomas Streams
@@ -1696,6 +1997,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/DOMAS_89)
 - [GitHub](https://github.com/ThomasBS)
 - [Website](https://www.thomasbs.com)
+
+[(top)](#table-of-contents)
 
 ---
 ### Thorsten Lorenz
@@ -1709,6 +2012,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Website](http://thlorenz.com/)
 - [Patreon](https://www.patreon.com/thlorenz)
 
+[(top)](#table-of-contents)
+
 ---
 ### Tierney Cyren
 #### What Tierney Streams
@@ -1721,6 +2026,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Instagram](https://instagram.com/bitandbang)
 - [Website](https://bnb.im/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Tim Ermilov
 #### What Tim Streams
@@ -1732,6 +2039,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/yamalight)
 - [Github](https://github.com/yamalight)
 - [Medium](https://medium.com/@yamalight)
+
+[(top)](#table-of-contents)
 
 ---
 ### Tsoding
@@ -1747,6 +2056,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Website](https://tsoding.github.io/)
 
 
+[(top)](#table-of-contents)
+
 ---
 ### Tyler Leonhardt
 #### What Tyler Streams
@@ -1757,6 +2068,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/TylerLeonhardt)
 - [GitHub](https://github.com/TylerLeonhardt)
 - [Website](https://TylerLeonhardt.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### WindybeardGames
@@ -1773,6 +2086,8 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://twitter.com/WindybeardGames)
 - [Website](http://windybeard.com/)
 
+[(top)](#table-of-contents)
+
 ---
 ### Yosh
 #### What Yosh Streams
@@ -1782,6 +2097,8 @@ AWS, Web Development, Python, Serverless, AI
 #### Links:
 - [Twitter](https://twitter.com/yoshuawuyts)
 - [GitHub](https://github.com/yoshuawuyts)
+
+[(top)](#table-of-contents)
 
 ---
 ### Zorchenhimer
