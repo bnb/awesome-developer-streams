@@ -29,6 +29,8 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 **PROTIP:** Search this page for subjects you'd be interested in watching live, like JavaScript, DataViz, IoT, Rust, and so on. You'll get an index of streamers relevant to your interests–be sure to follow them! ❤️
 
 ---
+NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end 
+
 ---
 ## Table of Contents
 
@@ -2109,3 +2111,27 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/zorchenhimer)
 - [Website](https://zorchenhimer.com/)
 - [Youtube](https://www.youtube.com/c/Zorchenhimer)
+
+---
+---
+
+## Twitch 
+
+As well as the awesome developers listed, there are a some team links and category links that will help you find active coders that are currently streaming on the Twitch platform.
+
+### Teams
+[Live Coders - https://www.twitch.tv/team/livecoders](https://www.twitch.tv/team/livecoders)
+
+### Categories
+[Programming](https://www.twitch.tv/directory/all/tags/a59f1e4e-257b-4bd0-90c7-189c3efbf917)
+
+[Game Development](https://www.twitch.tv/directory/all/tags/f588bd74-e496-4d11-9169-3597f38a5d25)
+
+[Mobile Development](https://www.twitch.tv/directory/all/tags/6e23d976-33ec-47e8-b22b-3727acd41862)
+
+[Software Development](https://www.twitch.tv/directory/all/tags/6f86127d-6051-4a38-94bb-f7b475dde109)
+
+[Web Development](https://www.twitch.tv/directory/all/tags/c23ce252-cf78-4b98-8c11-8769801aaf3a)
+
+[Science & Technology](https://www.twitch.tv/directory/game/Science%20%26%20Technology)
+
