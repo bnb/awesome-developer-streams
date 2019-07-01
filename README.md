@@ -1954,6 +1954,8 @@ AWS, Web Development, Python, Serverless, AI
 - [GitHub](https://github.com/talk2megooseman)
 - [Discord](https://discord.gg/j86Rmva)
 
+[(top)](#table-of-contents)
+
 ---
 ### Tanya Janca
 #### What Tanya Streams
