@@ -65,6 +65,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## C
+- [Caidan Williams](#caidan-williams) - **streaming:** Java, Python, Game Development, Game Networking, LibGDX, Digital Art
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
@@ -509,6 +510,20 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/bt0r)
 - [Website](http://btor.fr/)
 - [Discord](https://discord.gg/NDpZXN5)
+
+[(top)](#table-of-contents)
+
+---
+### Caidan Williams
+#### What Caidan Streams
+- Java, Python, Game Development, Game Networking, LibGDX, Digital Art
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/moderatemelon)
+#### Links:
+- [YouTube](https://www.youtube.com/channel/UC3_483wgxDsJIJTz8nZI-uA)
+- [GitHub](https://github.com/mildmelon)
+- [Twitter](https://twitter.com/_mildmelon)
+- [Discord](https://discord.gg/CNVSePd)
 
 [(top)](#table-of-contents)
 
