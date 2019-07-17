@@ -29,7 +29,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 **PROTIP:** Search this page for subjects you'd be interested in watching live, like JavaScript, DataViz, IoT, Rust, and so on. You'll get an index of streamers relevant to your interests–be sure to follow them! ❤️
 
 ---
-NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end 
+NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## Table of Contents
@@ -40,6 +40,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## A
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
+- [Al Sweigart](#al-sweigart) - **streaming:** Python
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
@@ -84,7 +85,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [David Poindexter](#david-poindexter) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [Developers Garage](#developers-garage) - **streaming:** C#, JavaScript, TypeScript, .NET Core, ASP.NET Core, OSS, Xamarin
-- [DJ Adams](#dj-adams) - **streaming:** SAP development topics, including Node.js, JavaScript & the Cloud Application Programming Model 
+- [DJ Adams](#dj-adams) - **streaming:** SAP development topics, including Node.js, JavaScript & the Cloud Application Programming Model
 - [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 
@@ -165,7 +166,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## L
-- [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects 
+- [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 
 [(top)](#table-of-contents)
@@ -253,7 +254,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## W
-- [WindybeardGames](#windybeardgames) - **streaming:** ClickTeam Fusion, PhotoShop, Spine, Game Art 
+- [WindybeardGames](#windybeardgames) - **streaming:** ClickTeam Fusion, PhotoShop, Spine, Game Art
 
 [(top)](#table-of-contents)
 
@@ -297,6 +298,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/adron)
 - [Discord](https://discord.gg/gASJah)
 - [Blog](https://compositecode.blog/)
+
+[(top)](#table-of-contents)
+
+---
+### Al Sweigart
+#### What Al Streams
+- Python
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/AlSweigart/)
+- [YouTube](https://www.youtube.com/albert10110)
+#### Links:
+- [Twitter](https://twitter.com/AlSweigart)
+- [GitHub](https://github.com/asweigart)
+- [Website](https://inventwithpython.com/)
+- [Website](http://alsweigart.com/)
 
 [(top)](#table-of-contents)
 
@@ -1565,7 +1581,7 @@ Also known as MPJ from Fun Fun Function
 [(top)](#table-of-contents)
 
 ---
-### Ninjabunny9000 
+### Ninjabunny9000
 #### What Ninjabunny9000 Stream
 - Python, C#, Ninja, Programming in general
 #### Languages Spoken During Stream
@@ -2130,7 +2146,7 @@ AWS, Web Development, Python, Serverless, AI
 ---
 ---
 
-## Twitch 
+## Twitch
 
 As well as the awesome developers listed, there are a some team links and category links that will help you find active coders that are currently streaming on the Twitch platform.
 
