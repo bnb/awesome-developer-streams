@@ -71,9 +71,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
+- [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** JavaScript, Vue.js, Node.js, React, Codewars problem solving
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
-- [Coding Garden with CJ](#Coding Garden with CJ) - **streaming** JavaScript, Vue.js, Node.js, React, Codewars problem solving.
 
 [(top)](#table-of-contents)
 
@@ -593,6 +593,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Coding Garden with CJ
+#### What CJ Streams
+- JavaScript, Vue.js, Node.js, React, Codewars problem solving
+#### Streaming on:
+- [Youtube](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
+#### Links:
+- [Twitter](https://twitter.com/coding_garden)
+- [GitHub](https://github.com/w3cj)
+- [Website](https://w3cj.sh/)
+
+[(top)](#table-of-contents)
+
+---
 ### Collin Henderson
 #### What Collin Streams
 - JavaScript, PHP, Laravel, Vue.js
@@ -615,19 +628,6 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/coryknox)
 - [GitHub](https://github.com/corbob)
 - [Website](https://knoxy.ca)
-
-[(top)](#table-of-contents)
-
----
-### Coding Garden with CJ
-#### What CJ Streams
-- JavaScript, Vue.js, Node.js, React, Codewars problem solving
-#### Streaming on:
-- [Youtube](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
-#### Links:
-- [Twitter](https://twitter.com/coding_garden)
-- [GitHub](https://github.com/w3cj)
-- [Website](https://w3cj.sh/)
 
 [(top)](#table-of-contents)
 
