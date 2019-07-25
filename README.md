@@ -371,7 +371,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/andy_li)
 - [GitHub](https://github.com/andyli)
 - [Blog](https://blog.onthewings.net/)
-- [Giffon](https://giffon.io/user/2PX2)
+- [Giffon](https://giffon.io/andyli)
 
 [(top)](#table-of-contents)
 
