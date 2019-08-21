@@ -557,7 +557,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://luv2.dev/github)
 - [Twitter](https://luv2.dev/twitter)
 - [LinkedIn](https://luv2.dev/linkedin)
-- [Blog](https://luv2.dev/calvin)
+- [Facebook](https://luv2.dev/facebook)
+- [Patreon](https://luv2.dev/patreon)
+- [Website](https://luv2.dev/calvin)
 
 [(top)](#table-of-contents)
 
