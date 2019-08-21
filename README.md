@@ -102,6 +102,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## F
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
+- [Frank Boucher](#frank-boucher) - **streaming:** Microsoft Azure, C#, .NET Core, DevOps, OSS Development
 - [Franziska Hinkelmann](#franziska-hinkelmann) - **streaming:** JavaScript, Node.js, Interview Training, Pair Programming
 - [Freya Holmér](#freya-holmér) - **streaming:** Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
 
@@ -828,6 +829,27 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Youtube](https://www.youtube.com/channel/UC4mpLlHn0FOekNg05yCnkzQ)
 - [Pouet](http://www.pouet.net/user.php?who=16820)
 - [Patreon](https://www.patreon.com/ferrisstreamsstuff)
+
+[(top)](#table-of-contents)
+
+---
+### Frank Boucher
+#### What Frank Boucher Streams
+- Microsoft Azure, C#, .NET Core, DevOps, OSS Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/fboucheros)
+#### Languages Spoken During Stream
+- English
+- French
+#### Links:
+- [Twitter](https://twitter.com/fboucheros)
+- [GitHub](https://github.com/fboucher)
+- [Website](http://frankysnotes.com/)
+- [Youtube](https://www.youtube.com/fboucheros)
+- [Youtube - FR](https://www.youtube.com/clouden5minutes)
+- [Blog - FR](http://www.cloudenfrancais.com/)
+- [Instagram](https://www.instagram.com/frankysnotes/)
+- [Patreon](https://www.patreon.com/fboucheros)
 
 [(top)](#table-of-contents)
 
