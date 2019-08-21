@@ -547,6 +547,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Calvin Allen / Coding with Calvin
+#### What Calvin Streams
+- Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development
+#### Streaming on:
+- [Twitch](https://luv2.dev/live)
+#### Links:
+- [YouTube](https://luv2.dev/archive)
+- [GitHub](https://luv2.dev/github)
+- [Twitter](https://luv2.dev/twitter)
+- [LinkedIn](https://luv2.dev/linkedin)
+- [Blog](https://luv2.dev/calvin)
+
+[(top)](#table-of-contents)
+
+---
 ### CaptainKraft
 #### What CaptainKraft Streams
 - C, C++, Rust
