@@ -67,6 +67,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## C
 - [Caidan Williams](#caidan-williams) - **streaming:** Java, Python, Game Development, Game Networking, LibGDX, Digital Art
+- [Calvin Allen / Coding with Calvin](#calvin-allen) - **streaming:** Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
