@@ -67,6 +67,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## C
 - [Caidan Williams](#caidan-williams) - **streaming:** Java, Python, Game Development, Game Networking, LibGDX, Digital Art
+- [Calvin Allen / Coding with Calvin](#calvin-allen--coding-with-calvin) - **streaming:** Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development, Visual Studio Extensions
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
@@ -542,6 +543,23 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/mildmelon)
 - [Twitter](https://twitter.com/_mildmelon)
 - [Discord](https://discord.gg/CNVSePd)
+
+[(top)](#table-of-contents)
+
+---
+### Calvin Allen / Coding with Calvin
+#### What Calvin Streams
+- Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development
+#### Streaming on:
+- [Twitch](https://luv2.dev/live)
+#### Links:
+- [YouTube](https://luv2.dev/archive)
+- [GitHub](https://luv2.dev/github)
+- [Twitter](https://luv2.dev/twitter)
+- [LinkedIn](https://luv2.dev/linkedin)
+- [Facebook](https://luv2.dev/facebook)
+- [Patreon](https://luv2.dev/patreon)
+- [Website](https://luv2.dev/calvin)
 
 [(top)](#table-of-contents)
 
