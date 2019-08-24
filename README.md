@@ -56,12 +56,12 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## B
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
+- [Benjamin Lannon](#benjamin-lannon) - **streaming:** Javascript, GitHub Actions, Gatsby, React
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
-- [Benjamin Lannon](#benjamin-lannon) - **streaming:** Javascript, GitHub Actions, Gatsby, React
 
 [(top)](#table-of-contents)
 
@@ -464,6 +464,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Benjamin Lannon
+#### What Benjamin Streams
+- Javascript, GitHub Actions, Gatsby, React
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/lannonbr)
+#### Links:
+- [Twitter](https://twitter.com/lannonbr)
+- [GitHub](https://github.com/lannonbr)
+- [Website](https://lannonbr.com/)
+
+[(top)](#table-of-contents)
+
+---
 ### Bobby Johnson
 #### What Bobby Streams
 - Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
@@ -530,19 +543,6 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/bt0r)
 - [Website](http://btor.fr/)
 - [Discord](https://discord.gg/NDpZXN5)
-
-[(top)](#table-of-contents)
-
----
-### Benjamin Lannon
-#### What Benjamin Streams
-- Javascript, GitHub Actions, Gatsby, React
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/lannonbr)
-#### Links:
-- [Twitter](https://twitter.com/lannonbr)
-- [GitHub](https://github.com/lannonbr)
-- [Website](https://lannonbr.com/)
 
 [(top)](#table-of-contents)
 
