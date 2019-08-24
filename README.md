@@ -170,6 +170,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## L
+- [Liz Phillips (Illuminated Space)](#liz-phillips-illuminated-space) - **streaming:** JavaScript, Gatsby, React, Web Development, Data Structures, Playing Video Games
 - [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 
@@ -1393,6 +1394,21 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/kyleshevlin)
 - [GitHub](https://github.com/kyleshevlin)
 - [Website](https://kyleshevlin.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Liz Phillips (Illuminated Space)
+#### What Liz Streams
+- JavaScript, Gatsby, React, Web Development, Data Structures, Playing Video Games
+#### Languages Spoken During Stream
+- English
+#### Streaming on:
+- [Twitch](https://twitch.tv/illuminatedspace)
+#### Links:
+- [Twitter](https://twitter.com/lizcodes)
+- [GitHub](https://github.com/illuminatedspace)
+- [Patreon](https://www.patreon.com/illuminatedspace)
 
 [(top)](#table-of-contents)
 
