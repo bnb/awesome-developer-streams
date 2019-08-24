@@ -61,6 +61,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
+- [Benjamin Lannon](#benjamin-lannon) - **streaming:** Javascript, GitHub Actions, Gatsby, React
 
 [(top)](#table-of-contents)
 
@@ -529,6 +530,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/bt0r)
 - [Website](http://btor.fr/)
 - [Discord](https://discord.gg/NDpZXN5)
+
+[(top)](#table-of-contents)
+
+---
+### Benjamin Lannon
+#### What Benjamin Streams
+- Javascript, GitHub Actions, Gatsby, React
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/lannonbr)
+#### Links:
+- [Twitter](https://twitter.com/lannonbr)
+- [GitHub](https://github.com/lannonbr)
+- [Website](https://lannonbr.com/)
 
 [(top)](#table-of-contents)
 
