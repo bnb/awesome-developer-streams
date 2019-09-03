@@ -88,6 +88,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [David Poindexter](#david-poindexter) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [Developers Garage](#developers-garage) - **streaming:** C#, JavaScript, TypeScript, .NET Core, ASP.NET Core, OSS, Xamarin
+- [DillonEA](#DillonEA) - **streaming:** OBS Development using C++. Also streams Python and JavaScript
 - [DJ Adams](#dj-adams) - **streaming:** SAP development topics, including Node.js, JavaScript & the Cloud Application Programming Model
 - [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
@@ -771,6 +772,23 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+
+### DillonEA
+#### What DillonEA Streams
+- OBS Development using C++. Also streams Python and JavaScript
+#### Streaming on:
+- [Twitch](https://twitch.tv/dillonea)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/VodBox_IO)
+- [GitHub](https://github.com/VodBox)
+- [Discord](https://discord.gg/YMAaerQ)
+
+[(top)](#table-of-contents)
+
+---
+
 ### DJ Adams
 #### What DJ Adams Streams
 - SAP development topics, including Node.js, JavaScript & the Cloud Application Programming Model
