@@ -105,6 +105,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## F
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
+- [Fletcher](#fletcher) - **streaming:** JavaScript, Node, Go
 - [Frank Boucher](#frank-boucher) - **streaming:** Microsoft Azure, C#, .NET Core, DevOps, OSS Development
 - [Franziska Hinkelmann](#franziska-hinkelmann) - **streaming:** JavaScript, Node.js, Interview Training, Pair Programming
 - [Freya Holmér](#freya-holmér) - **streaming:** Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
@@ -884,6 +885,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Fletcher
+#### What Fletcher Streams
+- JavaScript, Node, Go
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/iamfletcher_)
+#### Links:
+- [Twitter](https://twitter.com/IAmFletcher_)
+- [GitHub](https://github.com/IAmFletcher)
+- [Discord](https://discord.gg/5A3NKHJ)
+
+[(top)](#table-of-contents)
+
+----
 ### Frank Boucher
 #### What Frank Boucher Streams
 - Microsoft Azure, C#, .NET Core, DevOps, OSS Development
