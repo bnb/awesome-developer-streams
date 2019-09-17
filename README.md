@@ -98,6 +98,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## E
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
+- [Emanuele Bartolesi](#emanuele-bartolesi) - **streaming:** C#, .NET, ASP.NET, OSS, GitHub Pair Programming
 
 [(top)](#table-of-contents)
 
@@ -855,6 +856,23 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Emanuele Bartolesi
+#### What Emanuele Bartolesi
+- C#, .NET, ASP.NET, OSS, GitHub and Pair Programming
+#### Streaming on:
+- [Twitch](https://twitch.tv/kasuken)
+#### Languages Spoken During Stream
+- English/Italian
+#### Links:
+- [Twitter](https://twitter.com/kasuken)
+- [GitHub](https://github.com/kasuken)
+- [Website](http://dev.to/kasuken)
+- [YouTube](https://www.youtube.com/user/emanuelebartolesi/videos)
+
+[(top)](#table-of-contents)
+
+---
+
 ### Feross Aboukhadijeh
 #### What Feross Streams
 - JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
