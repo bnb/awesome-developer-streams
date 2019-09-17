@@ -98,7 +98,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## E
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
-- [Emanuele Bartolesi](#emanuele-bartolesi) - **streaming:** C#, .NET, ASP.NET, OSS, GitHub Pair Programming
+- [Emanuele Bartolesi](#emanuele-bartolesi) - **streaming:** C#, .NET Core, ASP.NET, OSS, GitHub, Pair Programming
 
 [(top)](#table-of-contents)
 
@@ -857,8 +857,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Emanuele Bartolesi
-#### What Emanuele Bartolesi
-- C#, .NET, ASP.NET, OSS, GitHub and Pair Programming
+#### What Emanuele streams
+- C#, .NET Core, ASP.NET, OSS, GitHub, Pair Programming
 #### Streaming on:
 - [Twitch](https://twitch.tv/kasuken)
 #### Languages Spoken During Stream
