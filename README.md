@@ -72,6 +72,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
+- [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
 - [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** JavaScript, Vue.js, Node.js, React, Codewars problem solving
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
@@ -613,6 +614,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/codebasealpha)
 - [GitHub](https://github.com/essenbee)
 - [YouTube](https://www.youtube.com/channel/UCFFtfkaWjMb9UMDpPVnC1Sg)
+
+[(top)](#table-of-contents)
+
+---
+### Codephobia
+#### What Codephobia Streams
+- Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/codephobia)
+#### Links:
+- [Twitter](https://twitter.com/codephobia)
+- [GitHub](https://github.com/codephobia)
+- [Website](https://codephobia.com/)
 
 [(top)](#table-of-contents)
 
