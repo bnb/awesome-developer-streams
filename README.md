@@ -1864,6 +1864,20 @@ AWS, Web Development, Python, Serverless, AI
 [(top)](#table-of-contents)
 
 ---
+### Ricardo Tavares
+#### What Ricardo Streams
+Angular, C, Node.js, Python, SQL, Typescript, Web Development
+#### Streaming on:
+- [Mixer](https://mixer.com/Rjgtav)
+- [Twitch](https://www.twitch.tv/rjgtav/)
+- [YouTube](https://www.youtube.com/user/rjgtav)
+#### Links:
+- [GitHub](https://github.com/rjgtav)
+- [LinkedIn](https://www.linkedin.com/in/rjgtav/)
+
+[(top)](#table-of-contents)
+
+---
 ### Robin Pokorny
 #### What Robin Pokorny Streams
 - JavaScript, Functional Programming, Node.js
