@@ -221,6 +221,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [RadicalFishGames](#radicalfishgames) - **streaming:** Game Development (JavaScript, WebGL) (Game: CrossCode)
 - [Ragnar Thor](#ragnar-thor) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 - [Randall Hunt](#randall-hunt) - **streaming:** AWS, Web Development, Hardware Hacking, Python, Serverless, AI
+- [Ricardo Tavares](#ricardo-tavares) - **streaming** Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Robin Pokorny](#robin-pokorny) - **streaming:** JavaScript, Functional Programming, Node.js
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Russell Hay](#russell-hay) - **streaming:** Rust, Functional Programming, Hardware, Generative Art
@@ -1866,7 +1867,7 @@ AWS, Web Development, Python, Serverless, AI
 ---
 ### Ricardo Tavares
 #### What Ricardo Streams
-Angular, C, Node.js, Python, SQL, Typescript, Web Development
+Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 #### Streaming on:
 - [Mixer](https://mixer.com/Rjgtav)
 - [Twitch](https://www.twitch.tv/rjgtav/)
