@@ -158,6 +158,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 - [Josh Justice](#josh-justice) - **streaming:** JavaScript, Rails, Ember, React Native
+- [Josh Wulf](#josh-wulf) - **streaming:** TypeScript, NestJS, Microservices, Zeebe, Minecraft programming in JS
 
 [(top)](#table-of-contents)
 
@@ -1377,6 +1378,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/codingitwrong)
 - [GitHub](https://github.com/codingitwrong)
 - [Website](https://codingitwrong.com)
+
+[(top)](#table-of-contents)
+
+---
+### Josh Wulf
+#### What Josh Wulf
+- TypeScript, NestJS, Microservices, Zeebe, Minecraft programming in JS
+#### Streaming on:
+- [YouTube](https://www.youtube.com/channel/UCYT0zZ9ZJnyt8cvqO7e2p-w)
+#### Links:
+- [Twitter](https://twitter.com/sitapati)
+- [GitHub](https://github.com/jwulf)
+- [Website](https://magikcraft.io)
 
 [(top)](#table-of-contents)
 
