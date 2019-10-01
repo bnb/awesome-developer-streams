@@ -77,6 +77,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** JavaScript, Vue.js, Node.js, React, Codewars problem solving
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
+- [Catalin Miron](#catalin-miron) - **streaming** React, React Native, GraphQL, Javascript, Typescript, Mobile Development, Web Development, Animations
 
 [(top)](#table-of-contents)
 
@@ -679,6 +680,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/coryknox)
 - [GitHub](https://github.com/corbob)
 - [Website](https://knoxy.ca)
+
+[(top)](#table-of-contents)
+
+
+---
+### Catalin Miron
+#### What Catalin Miron Streams
+- React, React Native, GraphQL, Javascript, Typescript, Mobile Development, Web Development, Animations
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/batmancodes)
+- [YouTube](https://www.youtube.com/c/catalinmirondev)
+#### Links:
+- [Twitter](https://twitter.com/mironcatalin)
+- [GitHub](https://github.com/catalinmiron)
+- [Website](https://batman.codes)
 
 [(top)](#table-of-contents)
 
