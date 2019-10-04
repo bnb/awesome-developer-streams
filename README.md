@@ -78,6 +78,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** JavaScript, Vue.js, Node.js, React, Codewars problem solving
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
+- [Código Falado](#codigo-falado) - **streaming:** HTML, CSS, Javascript, Laravel, Vue
 
 [(top)](#table-of-contents)
 
@@ -696,6 +697,18 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/coryknox)
 - [GitHub](https://github.com/corbob)
 - [Website](https://knoxy.ca)
+
+[(top)](#table-of-contents)
+
+---
+### Código Falado
+#### What Código Falado
+- HTML, CSS, Javascript, Laravel
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/codigofalado)
+#### Links:
+- [Twitter](https://twitter.com/codigofalado)
+- [GitHub](https://github.com/codigofalado)
 
 [(top)](#table-of-contents)
 
