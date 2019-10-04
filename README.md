@@ -75,10 +75,10 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
+- [Código Falado](#código-falado) - **streaming:** HTML, CSS, Javascript, Laravel, Vue,  Tailwind", Javascript, Typescript, Node.js, Vue.js, PHP, Laravel, Web Development, Portuguese
 - [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** JavaScript, Vue.js, Node.js, React, Codewars problem solving
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
-- [Código Falado](#codigo-falado) - **streaming:** HTML, CSS, Javascript, Laravel, Vue
 
 [(top)](#table-of-contents)
 
@@ -662,6 +662,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Código Falado
+#### What Código Falado streams
+- HTML, CSS, Javascript, Vue,  Tailwind, Javascript, Typescript, Node.js, Vue.js, PHP, Laravel, Web Development, Portuguese
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/codigofalado)
+- [YouTube](https://www.youtube.com/channel/UCtwkSRuugeCF1Bh8kxE55qQ)
+- [Twitter](https://twitter.com/codigofalado)
+
+#### Links:
+- [Twitter](https://twitter.com/codigofalado)
+- [GitHub](https://github.com/codigofalado)
+
+[(top)](#table-of-contents)
+
+---
 ### Coding Garden with CJ
 #### What CJ Streams
 - JavaScript, Vue.js, Node.js, React, Codewars problem solving
@@ -697,18 +712,6 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/coryknox)
 - [GitHub](https://github.com/corbob)
 - [Website](https://knoxy.ca)
-
-[(top)](#table-of-contents)
-
----
-### Código Falado
-#### What Código Falado
-- HTML, CSS, Javascript, Laravel
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/codigofalado)
-#### Links:
-- [Twitter](https://twitter.com/codigofalado)
-- [GitHub](https://github.com/codigofalado)
 
 [(top)](#table-of-contents)
 
