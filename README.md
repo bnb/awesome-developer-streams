@@ -61,6 +61,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
+- [Brookzerker](#brookzerker) - **streaming** Rust
 - [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 
 [(top)](#table-of-contents)
