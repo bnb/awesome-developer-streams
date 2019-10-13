@@ -62,6 +62,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
+- [Brookzerker](#brookzerker) - **streaming** Rust
 - [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 
 [(top)](#table-of-contents)
@@ -554,6 +555,18 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/puffnfresh)
 - [GitHub](https://github.com/puffnfresh)
 - [Website](https://brianmckenna.org)
+
+[(top)](#table-of-contents)
+
+---
+### Brookzerker
+#### What Brookzerker Streams
+- Rust
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/brookzerker)
+#### Links:
+- [Twitter](https://twitter.com/brooks_patton)
+- [GitHub](https://github.com/BrooksPatton)
 
 [(top)](#table-of-contents)
 
