@@ -201,6 +201,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Michael Henderson](#michael-henderson-robedcoder--leadcoder) - **streaming:** Fullstack development
 - [Michael Jolley](#michael-jolley) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
+- [Masood Sadri](#masood-sadri) - **streaming:** Web Development, JavaScript, Node.js, React
 
 [(top)](#table-of-contents)
 
@@ -1797,6 +1798,19 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](http://github.com/mikeconley/)
 - [YouTube](https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ)
 - [Website](https://www.mikeconley.ca/blog)
+
+[(top)](#table-of-contents)
+
+---
+### Masood Sadri
+#### What Masood Streams
+- Web Development, JavaScript, Node.js, React
+#### Streaming on:
+- [YouTube](https://www.youtube.com/user/masoodsadri)
+#### Links:
+- [Twitter](https://twitter.com/MasoodSadri)
+- [YouTube](https://www.youtube.com/user/masoodsadri)
+- [Website](http://frontcast.ir/)
 
 [(top)](#table-of-contents)
 
