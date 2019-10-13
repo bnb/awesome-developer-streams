@@ -542,6 +542,18 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Brookzerker
+#### What Brookzerker Streams
+- Rust
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/brookzerker)
+#### Links:
+- [Twitter](https://twitter.com/brooks_patton)
+- [GitHub](https://github.com/BrooksPatton)
+
+[(top)](#table-of-contents)
+
+---
 ### Btor
 #### What Btor Streams
 - French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc.
