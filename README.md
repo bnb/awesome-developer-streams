@@ -76,6 +76,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
+- [Código Falado](#código-falado) - **streaming:** HTML, CSS, Javascript, Laravel, Vue,  Tailwind, Javascript, Typescript, Node.js, Vue.js, PHP, Laravel, Web Development, Portuguese
 - [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** JavaScript, Vue.js, Node.js, React, Codewars problem solving
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
@@ -670,6 +671,23 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/millermark)
 - [GitHub](https://github.com/millermark)
 - [CodeRush feature of the week (YouTube)](https://www.youtube.com/playlist?list=PL8h4jt35t1wgawacCN9wmxq1EN36CNUGk)
+
+[(top)](#table-of-contents)
+
+---
+### Código Falado
+#### What Código Falado streams
+- HTML, CSS, Javascript, Vue,  Tailwind, Javascript, Typescript, Node.js, Vue.js, PHP, Laravel, Web Development, Portuguese
+#### Languages Spoken During Stream
+- Portuguese
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/codigofalado)
+- [YouTube](https://www.youtube.com/channel/UCtwkSRuugeCF1Bh8kxE55qQ)
+- [Facebook](https://www.facebook.com/codigofalado/videos/)
+
+#### Links:
+- [Twitter](https://twitter.com/codigofalado)
+- [GitHub](https://github.com/codigofalado)
 
 [(top)](#table-of-contents)
 
