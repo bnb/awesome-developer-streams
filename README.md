@@ -1465,7 +1465,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 #### Links:
 - [Twitter](https://twitter.com/sitapati)
 - [GitHub](https://github.com/jwulf)
-- [Website](https://magikcraft.io)
+- [Website](https://www.magikcraft.io)
 
 [(top)](#table-of-contents)
 
