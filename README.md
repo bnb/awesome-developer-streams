@@ -68,6 +68,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## C
 - [Caidan Williams](#caidan-williams) - **streaming:** Java, Python, Game Development, Game Networking, LibGDX, Digital Art
+- [Cailir](#cailir) - **streaming:** NodeJS, HTML, CSS, Javascript, Game Development
 - [Calvin Allen / Coding with Calvin](#calvin-allen--coding-with-calvin) - **streaming:** Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development, Visual Studio Extensions
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
@@ -569,6 +570,17 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Cailir
+#### What Cailir Streams
+- NodeJS, HTML, CSS, Javascript, Game Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/cailir)
+#### Links:
+- [GitHub](https://github.com/cailir)
+
+[(top)](#table-of-contents)
+
+--
 ### Calvin Allen / Coding with Calvin
 #### What Calvin Streams
 - Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development
