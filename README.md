@@ -85,6 +85,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## D
 - [Daniel Jenkins](#daniel-jenkins) - **streaming:** JavaScript, PHP, C#, Unity, Game Development, Web Development
+- [Daniel Reis](#daniel-reis) - **streaming:** Laravel, Lumen, PHP, Backend, Web Development
 - [Daniel Shiffman](#daniel-shiffman) - **streaming:** JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
 - [Daniel Stenberg](#daniel-stenberg) - **streaming:** C, Network Tools, Network Security
 - [David Pedersen](#david-pedersen) - **streaming:** Rust, Ruby, Vim
@@ -725,6 +726,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [itch.io](https://honestdan.itch.io/)
 - [Discord](https://discord.gg/t2ESzmr)
 - [YouTube](https://www.youtube.com/channel/UCx1TRVOz6HbgwVgXxiK7WKQ)
+
+[(top)](#table-of-contents)
+
+---
+### Daniel Reis
+#### What Daniel Reis streams
+- Laravel, Lumen, PHP, Backend, Web Development
+#### Streaming on:
+- [Twitch](https://twitch.tv/danielhe4rt)
+#### Languages Spoken During Stream
+- Portuguese
+- English
+#### Links:
+- [Twitter](https://www.twitter.com/danielhe4rt)
+- [Discord](https://discord.gg/NUbMSb4)
 
 [(top)](#table-of-contents)
 
