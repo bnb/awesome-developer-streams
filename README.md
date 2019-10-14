@@ -2242,6 +2242,20 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 [(top)](#table-of-contents)
 
 ---
+### SkillVid
+#### What SkillVid Streams
+- javascript, Adobe Illustrator
+#### Languages Spoken During Stream
+- Persian
+#### Streaming on:
+- [Youtube](https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A)
+#### Links:
+- [Twitter](https://twitter.com/skillvid)
+- [Website](https://skillvid.com/)
+
+[(top)](#table-of-contents)
+
+---
 ### Talk2MeGooseman (Erik Guzman)
 #### What Talk2MeGooseman Streams
 - JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
