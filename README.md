@@ -1805,6 +1805,8 @@ Also known as MPJ from Fun Fun Function
 ### Masood Sadri
 #### What Masood Streams
 - Web Development, JavaScript, Node.js, React
+#### Languages Spoken During Stream
+- Persian
 #### Streaming on:
 - [YouTube](https://www.youtube.com/user/masoodsadri)
 #### Links:
