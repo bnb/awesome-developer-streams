@@ -252,6 +252,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
+- [SkillVid](#skillvid) - **streaming:** Javascript, Adobe Illustrator
 
 [(top)](#table-of-contents)
 
@@ -2244,7 +2245,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 ---
 ### SkillVid
 #### What SkillVid Streams
-- javascript, Adobe Illustrator
+- Javascript, Adobe Illustrator
 #### Languages Spoken During Stream
 - Persian
 #### Streaming on:
