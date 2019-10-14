@@ -192,6 +192,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Marco Bruno](#marco-bruno) - **streaming** Programming, Javascript, Web Development, React, CSS, HTML
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Mark Mandel](#mark-mandel) - **streaming** Game Development, Kubernetes, Go, OSS
+- [Masood Sadri](#masood-sadri) - **streaming:** Web Development, JavaScript, Node.js, React
 - [Matt Groves](#matt-groves) - **streaming** Databases, Couchbase, SQL/NoSQL/SQL++, .NET, C#, ASP.NET, soldering kits, VR, podcasting
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 - [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
@@ -201,7 +202,6 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Michael Henderson](#michael-henderson-robedcoder--leadcoder) - **streaming:** Fullstack development
 - [Michael Jolley](#michael-jolley) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
-- [Masood Sadri](#masood-sadri) - **streaming:** Web Development, JavaScript, Node.js, React
 
 [(top)](#table-of-contents)
 
@@ -1660,6 +1660,21 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 [(top)](#table-of-contents)
 
 ---
+### Masood Sadri
+#### What Masood Streams
+- Web Development, JavaScript, Node.js, React
+#### Languages Spoken During Stream
+- Persian
+#### Streaming on:
+- [YouTube](https://www.youtube.com/user/masoodsadri)
+#### Links:
+- [Twitter](https://twitter.com/MasoodSadri)
+- [YouTube](https://www.youtube.com/user/masoodsadri)
+- [Website](http://frontcast.ir/)
+
+[(top)](#table-of-contents)
+
+---
 ### Matt Groves
 #### What Matt streams
 - Databases, Couchbase, SQL/NoSQL/SQL++, .NET, C#, ASP.NET, soldering kits, VR, podcasting
@@ -1798,21 +1813,6 @@ Also known as MPJ from Fun Fun Function
 - [GitHub](http://github.com/mikeconley/)
 - [YouTube](https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ)
 - [Website](https://www.mikeconley.ca/blog)
-
-[(top)](#table-of-contents)
-
----
-### Masood Sadri
-#### What Masood Streams
-- Web Development, JavaScript, Node.js, React
-#### Languages Spoken During Stream
-- Persian
-#### Streaming on:
-- [YouTube](https://www.youtube.com/user/masoodsadri)
-#### Links:
-- [Twitter](https://twitter.com/MasoodSadri)
-- [YouTube](https://www.youtube.com/user/masoodsadri)
-- [Website](http://frontcast.ir/)
 
 [(top)](#table-of-contents)
 
