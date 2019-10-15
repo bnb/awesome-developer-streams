@@ -61,8 +61,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
-- [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 - [britocoding](#britocoding) - **streaming:** Node.js, JavaScript, TypeScript, React, ReactJS, Web Development
+- [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 
 [(top)](#table-of-contents)
 
@@ -542,6 +542,18 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### britocoding
+#### What britocoding
+- Brazilian streamer who streams JavaScript, TypeScript, React and listen some weird musics.
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/britocoding)
+#### Links:
+- [Twitter](https://twitter.com/edusantosbrito)
+- [GitHub](https://github.com/EduSantosBrito)
+
+[(top)](#table-of-contents)
+
+---
 ### Btor
 #### What Btor Streams
 - French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc.
@@ -554,19 +566,6 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Discord](https://discord.gg/NDpZXN5)
 
 [(top)](#table-of-contents)
-
----
-### britocoding
-#### What britocoding
-- Brazilian streamer who streams JavaScript, TypeScript, React and listen some weird musics.
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/britocoding)
-#### Links:
-- [Twitter](https://twitter.com/edusantosbrito)
-- [GitHub](https://github.com/EduSantosBrito)
-
-[(top)](#table-of-contents)
-
 
 ---
 ### Caidan Williams
