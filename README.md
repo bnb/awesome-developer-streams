@@ -41,6 +41,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 - [Al Sweigart](#al-sweigart) - **streaming:** Python
+- [Albérico Dias Barreto Filho](#albérico-dias-barreto-filho) - **streaming:** Twitch Extension Development, Streams Tools Development, Alexa Skills, IRL, JavaScript
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
@@ -62,6 +63,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [britocoding](#britocoding) - **streaming:** Node.js, JavaScript, TypeScript, React, ReactJS, Web Development
+- [Brookzerker](#brookzerker) - **streaming** Rust
 - [btor](#btor) - **streaming:** PHP (Symfony), Javascript, Java (Swing), Python ... Language: FRA,ENG
 
 [(top)](#table-of-contents)
@@ -69,6 +71,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## C
 - [Caidan Williams](#caidan-williams) - **streaming:** Java, Python, Game Development, Game Networking, LibGDX, Digital Art
+- [Cailir](#cailir) - **streaming:** NodeJS, HTML, CSS, Javascript, Game Development
 - [Calvin Allen / Coding with Calvin](#calvin-allen--coding-with-calvin) - **streaming:** Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development, Visual Studio Extensions
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
@@ -76,6 +79,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
+- [Código Falado](#código-falado) - **streaming:** HTML, CSS, Javascript, Laravel, Vue,  Tailwind, Javascript, Typescript, Node.js, Vue.js, PHP, Laravel, Web Development, Portuguese
 - [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** JavaScript, Vue.js, Node.js, React, Codewars problem solving
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
@@ -85,6 +89,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## D
 - [Daniel Jenkins](#daniel-jenkins) - **streaming:** JavaScript, PHP, C#, Unity, Game Development, Web Development
+- [Daniel Reis](#daniel-reis) - **streaming:** Laravel, Lumen, PHP, Backend, Web Development
 - [Daniel Shiffman](#daniel-shiffman) - **streaming:** JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
 - [Daniel Stenberg](#daniel-stenberg) - **streaming:** C, Network Tools, Network Security
 - [David Pedersen](#david-pedersen) - **streaming:** Rust, Ruby, Vim
@@ -330,6 +335,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Albérico Dias Barreto Filho
+#### What Albérico Streams
+- Twitch Extension Development, Streams Tools Development, Alexa Skills, IRL, JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/albericod)
+#### Links:
+- [Twitter](https://twitter.com/bekoslove)
+- [GitHub](https://github.com/AlbericoD)
+- [Website](https://albericod.github.io/project/#/)
+
+[(top)](#table-of-contents)
+
+---
 ### Alexander Simovic
 #### What Alex Streams
 - Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
@@ -542,6 +560,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+
 ### britocoding
 #### What britocoding
 - Brazilian streamer who streams JavaScript, TypeScript, React and listen some weird musics.
@@ -550,6 +569,17 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 #### Links:
 - [Twitter](https://twitter.com/edusantosbrito)
 - [GitHub](https://github.com/EduSantosBrito)
+
+[(top)](#table-of-contents)
+
+### Brookzerker
+#### What Brookzerker Streams
+- Rust
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/brookzerker)
+#### Links:
+- [Twitter](https://twitter.com/brooks_patton)
+- [GitHub](https://github.com/BrooksPatton)
 
 [(top)](#table-of-contents)
 
@@ -582,6 +612,17 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Cailir
+#### What Cailir Streams
+- NodeJS, HTML, CSS, Javascript, Game Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/cailir)
+#### Links:
+- [GitHub](https://github.com/cailir)
+
+[(top)](#table-of-contents)
+
+--
 ### Calvin Allen / Coding with Calvin
 #### What Calvin Streams
 - Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development
@@ -674,6 +715,23 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Código Falado
+#### What Código Falado streams
+- HTML, CSS, Javascript, Vue,  Tailwind, Javascript, Typescript, Node.js, Vue.js, PHP, Laravel, Web Development, Portuguese
+#### Languages Spoken During Stream
+- Portuguese
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/codigofalado)
+- [YouTube](https://www.youtube.com/channel/UCtwkSRuugeCF1Bh8kxE55qQ)
+- [Facebook](https://www.facebook.com/codigofalado/videos/)
+
+#### Links:
+- [Twitter](https://twitter.com/codigofalado)
+- [GitHub](https://github.com/codigofalado)
+
+[(top)](#table-of-contents)
+
+---
 ### Coding Garden with CJ
 #### What CJ Streams
 - JavaScript, Vue.js, Node.js, React, Codewars problem solving
@@ -726,6 +784,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [itch.io](https://honestdan.itch.io/)
 - [Discord](https://discord.gg/t2ESzmr)
 - [YouTube](https://www.youtube.com/channel/UCx1TRVOz6HbgwVgXxiK7WKQ)
+
+[(top)](#table-of-contents)
+
+---
+### Daniel Reis
+#### What Daniel Reis streams
+- Laravel, Lumen, PHP, Backend, Web Development
+#### Streaming on:
+- [Twitch](https://twitch.tv/danielhe4rt)
+#### Languages Spoken During Stream
+- Portuguese
+- English
+#### Links:
+- [Twitter](https://www.twitter.com/danielhe4rt)
+- [Discord](https://discord.gg/NUbMSb4)
 
 [(top)](#table-of-contents)
 
@@ -1418,7 +1491,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 #### Links:
 - [Twitter](https://twitter.com/sitapati)
 - [GitHub](https://github.com/jwulf)
-- [Website](https://magikcraft.io)
+- [Website](https://www.magikcraft.io)
 
 [(top)](#table-of-contents)
 
