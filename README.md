@@ -248,6 +248,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Simeon Vincent](#simeon-vincent) - **streaming:** JavaScript, CSS, Web Development, Twitch extensions
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming:** C++, Lua, Game Development (in french)
 - [Siva](#siva) - **streaming:** ML, IoT, Node.js, JavaScript, GraphQL
+- [SkillVid](#skillvid) - **streaming:** Javascript, Adobe Illustrator
 - [Sorskoot](#sorskoot) - **streaming:** JavaScript, Node.js, WebVR/WebAR/WebXR, Progressive web apps, IoT, Microsoft Azure
 - [Stan Daniels-Roth](#stan-daniels-roth) - **streaming:** Web Development, AdminSys, JavaScript, CSS, PHP (Laravel), 3D Printing
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
@@ -2184,6 +2185,20 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Twitter](https://twitter.com/ksivamuthu)
 - [GitHub](https://github.com/ksivamuthu)
 - [Youtube](https://www.youtube.com/channel/UCTWEip7qMz2HP-0daYA8nvA)
+
+[(top)](#table-of-contents)
+
+---
+### SkillVid
+#### What SkillVid Streams
+- Javascript, Adobe Illustrator
+#### Languages Spoken During Stream
+- Persian
+#### Streaming on:
+- [Youtube](https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A)
+#### Links:
+- [Twitter](https://twitter.com/skillvid)
+- [Website](https://skillvid.com/)
 
 [(top)](#table-of-contents)
 
