@@ -192,6 +192,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Marco Bruno](#marco-bruno) - **streaming** Programming, Javascript, Web Development, React, CSS, HTML
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Mark Mandel](#mark-mandel) - **streaming** Game Development, Kubernetes, Go, OSS
+- [Masood Sadri](#masood-sadri) - **streaming:** Web Development, JavaScript, Node.js, React
 - [Matt Groves](#matt-groves) - **streaming** Databases, Couchbase, SQL/NoSQL/SQL++, .NET, C#, ASP.NET, soldering kits, VR, podcasting
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 - [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
@@ -1657,6 +1658,21 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/markmandel)
 - [LinkedIn](https://www.linkedin.com/in/marksmandel/)
 - [Blog](https://www.compoundtheory.com)
+
+[(top)](#table-of-contents)
+
+---
+### Masood Sadri
+#### What Masood Streams
+- Web Development, JavaScript, Node.js, React
+#### Languages Spoken During Stream
+- Persian
+#### Streaming on:
+- [YouTube](https://www.youtube.com/user/masoodsadri)
+#### Links:
+- [Twitter](https://twitter.com/MasoodSadri)
+- [YouTube](https://www.youtube.com/user/masoodsadri)
+- [Website](http://frontcast.ir/)
 
 [(top)](#table-of-contents)
 
