@@ -171,6 +171,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## K
+- [KalleHallden](#kallehallden) - **streaming:** Python, Flutter, Dart, Java
 - [KensoDev](#kensodev) - **streaming:** Advanced Devops - Python, Terraform, React
 - [Kent C. Dodds](#kent-c-dodds) - **streaming:** JavaScript, React, Web Development, Open Source, Node.js
 - [Keraf](#keraf) - **streaming:** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
@@ -1497,6 +1498,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/sitapati)
 - [GitHub](https://github.com/jwulf)
 - [Website](https://www.magikcraft.io)
+
+[(top)](#table-of-contents)
+
+---
+### KalleHallden 
+#### What KalleHallden Streams
+- Python, Flutter, Dart, Java 
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/kallehallden)
+- [YouTube](https://www.youtube.com/kallehallden)
+#### Links:
+- [Twitter](https://twitter.com/KalleHallden)
+- [Instagram](https://instagram.com/kallehallden)
 
 [(top)](#table-of-contents)
 
