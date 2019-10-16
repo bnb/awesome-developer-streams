@@ -198,6 +198,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
 - [MechJack](#mechjack) - **streaming:** Java, JavaScript, React, Framework development, Programming in general
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
+- [Michael Crump](#michael-crump) - **streaming:** Azure, Software Development, C#, .NET Core
 - [Michael Henderson](#michael-henderson-robedcoder--leadcoder) - **streaming:** Fullstack development
 - [Michael Jolley](#michael-jolley) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
@@ -1756,6 +1757,22 @@ Also known as MPJ from Fun Fun Function
 
 [(top)](#table-of-contents)
 
+---
+## Michael Crump
+#### What Michael Crump Streams
+- Azure, Software Development, C#, .NET Core
+#### Streaming on:
+- [Twitch](https://twitch.tv/mbcrump)
+- [YouTube](https://www.youtube.com/mbcrump)
+#### Links:
+- [Blog](http://azuredev.tips)
+- [Twitter](https://twitter.com/mbcrump)
+- [GitHub](https://github.com/mbcrump)
+- [Instagram](https://instagram.com/mbcrump/)
+
+[(top)](#table-of-contents)
+
+---
 ---
 ## Michael Henderson (robedcoder / leadcoder)
 #### What Michael Jolley Streams
