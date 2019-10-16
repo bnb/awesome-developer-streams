@@ -1597,7 +1597,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 [(top)](#table-of-contents)
 
 ---
-### Leomendesm (Leomendesm)
+### Leomendesm
 #### What Leo Streams
 - Javascript, Web Development, React, Elixir
 #### Languages Spoken During Stream
