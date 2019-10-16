@@ -572,6 +572,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 [(top)](#table-of-contents)
 
+---
 ### Brookzerker
 #### What Brookzerker Streams
 - Rust
