@@ -243,6 +243,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## S
 - [Sallar Kaboli](#sallar-kaboli) - **streaming:** JavaScript, Node.js, Electron, React, OSS Projects, APIs
+- [Sch3lpSC2](#sch3lpsc2) - **streaming:** Kotlin, VueJS, CQRS, Web Development
 - [Sean Larkin](#sean-larkin) - **streaming:** Webpack, OSS, JavaScript, Gaming
 - [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming:** JavaScript, React, Redux + redux-saga, Firebase, Node.js
 - [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
@@ -2117,6 +2118,19 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Twitter](https://twitter.com/sallar)
 - [GitHub](https://github.com/sallar)
 - [Website](https://sallar.me)
+
+[(top)](#table-of-contents)
+
+
+---
+### Sch3lpSC2
+#### What Sch3lpSC2 Streams
+- Kotlin, VueJS, CQRS, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/sch3lpsc2)
+#### Links:
+- [Twitter](https://twitter.com/TimSchraepen)
+- [GitHub](https://github.com/sch3lp)
 
 [(top)](#table-of-contents)
 
