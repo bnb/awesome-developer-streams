@@ -138,7 +138,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## H
 - [HardlyDifficult](#hardlydifficult) - **streaming:** Game Development (Unity3D, C#), C# Programming, Cryptocurrency
 - [Holden Karau](#holden-karau) - **streaming:** Scala, Python, Spark, PySpark, Open Source
-- [HowToCodeWell](#howtocodewell--peter-fisher) - **streaming:** PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScript, HTML, CSS Full Stack
+- [HowToCodeWell (Peter Fisher)](#howtocodewell-peter-fisher) - **streaming:** PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScript, HTML, CSS Full Stack
 
 [(top)](#table-of-contents)
 
