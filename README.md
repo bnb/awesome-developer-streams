@@ -138,6 +138,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## H
 - [HardlyDifficult](#hardlydifficult) - **streaming:** Game Development (Unity3D, C#), C# Programming, Cryptocurrency
 - [Holden Karau](#holden-karau) - **streaming:** Scala, Python, Spark, PySpark, Open Source
+- [HowToCodeWell](#howtocodewell--peter-fisher) - **streaming:** PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScript, HTML, CSS Full Stack
 
 [(top)](#table-of-contents)
 
@@ -1243,6 +1244,24 @@ Scala, Python, Spark, PySpark, Open Source
 - [Twitter](https://twitter.com/holdenkarau)
 - [Github](https://github.com/holdenk)
 - [YouTube](https://www.youtube.com/channel/UCSrCrNswosZaD7-IufFp2AA)
+
+[(top)](#table-of-contents)
+
+---
+### HowToCodeWell (Peter Fisher) 
+#### What HowToCodeWell streams
+PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScript, HTML, CSS Full Stack
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/howtocodewell)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/HowToCodeWell)
+- [Website](http://www.howtocodewell.net)
+- [Podcast](http://howtocodewell.fm)
+- [YouTube](https://www.youtube.com/howtocodewell)
+- [Facebook](https://www.facebook.com/howtocodewell)
+- [Instagram](http://instagram.com/howtocodewell)
 
 [(top)](#table-of-contents)
 
