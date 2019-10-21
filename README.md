@@ -1258,7 +1258,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 #### Links:
 - [GitHub](https://github.com/howToCodeWell)
 - [Twitter](https://twitter.com/HowToCodeWell)
-- [Website](http://www.howtocodewell.net)
+- [Website](https://howtocodewell.net)
 - [Podcast](http://howtocodewell.fm)
 - [YouTube](https://www.youtube.com/howtocodewell)
 - [Facebook](https://www.facebook.com/howtocodewell)
