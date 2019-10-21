@@ -1256,6 +1256,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 #### Languages Spoken During Stream
 - English
 #### Links:
+- [GitHub](https://github.com/howToCodeWell)
 - [Twitter](https://twitter.com/HowToCodeWell)
 - [Website](http://www.howtocodewell.net)
 - [Podcast](http://howtocodewell.fm)
