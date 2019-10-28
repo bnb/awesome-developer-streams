@@ -268,6 +268,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Talk2MeGooseman (Erik Guzman)](#Talk2MeGooseman-erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 - [Tanya Janca](#tanya-janca) - **streaming** Web Security, Azure, Cloud Security
 - [Ted M. Young](#ted-m-young) - **streaming:** Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
+- [ThePrimeagen](#theprimeagen) - **streaming:** Golang, JavaScript, ReactJS, Memes, Amazingness.
 - [Thomas Soerensen](#thomas-soerensen) - **streaming:** Golang, PHP (Laravel), JavaScript
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
@@ -1249,7 +1250,7 @@ Scala, Python, Spark, PySpark, Open Source
 [(top)](#table-of-contents)
 
 ---
-### HowToCodeWell (Peter Fisher) 
+### HowToCodeWell (Peter Fisher)
 #### What HowToCodeWell streams
 PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScript, HTML, CSS Full Stack
 #### Streaming on:
@@ -1523,9 +1524,9 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 [(top)](#table-of-contents)
 
 ---
-### KalleHallden 
+### KalleHallden
 #### What KalleHallden Streams
-- Python, Flutter, Dart, Java 
+- Python, Flutter, Dart, Java
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/kallehallden)
 - [YouTube](https://www.youtube.com/kallehallden)
@@ -2407,6 +2408,19 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Patreon](https://www.patreon.com/jitterted)
 - [GitHub](https://www.github.com/tedyoung)
 - [Newsletter](https://upscri.be/f34570/)
+
+[(top)](#table-of-contents)
+
+---
+### ThePrimeagen
+#### What ThePrimeagen Streams
+- Golang, JavaScript, ReactJS, Memes, Amazingness
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/ThePrimeagen)
+#### Links:
+- [Twitter](https://twitter.com/ThePrimeagen)
+- [GitHub](https://github.com/ThePrimeagen)
+- [Insta](https://instagram.com/ThePrimeagen)
 
 [(top)](#table-of-contents)
 
