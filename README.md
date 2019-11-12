@@ -56,6 +56,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## B
+- [Baggers](#baggers) - **streaming:**: GPU programming, Game Development, Common Lisp tutorials
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
 - [Benjamin Lannon](#benjamin-lannon) - **streaming:** Javascript, GitHub Actions, Gatsby, React
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
@@ -480,6 +481,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 #### Links:
 - [Twitter](https://twitter.com/mitsuhiko)
 - [GitHub](https://github.com/mitsuhiko)
+
+[(top)](#table-of-contents)
+
+---
+### Baggers
+#### What Baggers Streams
+- Graphics Programming (GPU, OpenGL), Game Development, Common Lisp tutorials
+#### Streaming on:
+- [Twitch](https://twitch.tv/baggers___)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/TheBaggers)
+- [GitHub](https://github.com/cbaggers/)
+- [Youtube](https://www.youtube.com/channel/UCMV8p6Lb-bd6UZtTc_QD4zA)
 
 [(top)](#table-of-contents)
 
