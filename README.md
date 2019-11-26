@@ -552,7 +552,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/bradgarropy)
 - [GitHub](https://github.com/bradgarropy)
 - [Website](https://bradgarropy.com)
-- [Instagram](https://www.instagram.com/bradgarropy)
+- [Instagram](https://instagram.com/bradgarropy)
 
 [(top)](#table-of-contents)
 
