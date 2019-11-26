@@ -60,6 +60,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
 - [Benjamin Lannon](#benjamin-lannon) - **streaming:** Javascript, GitHub Actions, Gatsby, React
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
+- [Brad Garropy](#brad-garropy) - **streaming:** JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
@@ -537,6 +538,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/NotMyself)
 - [GitHub](https://github.com/NotMyself)
 - [Website](https://iamnotmyself.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Brad Garropy
+#### What Brad Streams
+- JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
+#### Streaming on:
+- [YouTube](https://youtube.com/bradgarropy)
+#### Links:
+- [AMA](https://bradgarropy.com/ama)
+- [Twitter](https://twitter.com/bradgarropy)
+- [GitHub](https://github.com/bradgarropy)
+- [Website](https://bradgarropy.com)
+- [Instagram](https://www.instagram.com/bradgarropy)
 
 [(top)](#table-of-contents)
 
