@@ -109,6 +109,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## E
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Emanuele Bartolesi](#emanuele-bartolesi) - **streaming:** C#, .NET Core, ASP.NET, OSS, GitHub, Pair Programming
+- [Eser Ozvataf](#eser-ozvataf) - **streaming:** JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
 
 [(top)](#table-of-contents)
 
@@ -1026,6 +1027,23 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/kasuken)
 - [Website](http://dev.to/kasuken)
 - [YouTube](https://www.youtube.com/user/emanuelebartolesi/videos)
+
+[(top)](#table-of-contents)
+
+---
+
+### Eser Ozvataf
+#### What Eser streams
+- JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
+#### Streaming on:
+- [Twitch](https://twitch.tv/laroux)
+#### Languages Spoken During Stream
+- Turkish
+#### Links:
+- [Twitter](https://twitter.com/eserozvataf)
+- [GitHub](https://github.com/eserozvataf)
+- [Website](https://eser.ozvataf.com)
+- [YouTube](https://www.youtube.com/c/EserOzvataf)
 
 [(top)](#table-of-contents)
 
