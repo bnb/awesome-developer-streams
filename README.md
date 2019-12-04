@@ -718,6 +718,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 [(top)](#table-of-contents)
 
+---
 ### ChaelCodes
 #### What ChaelCodes Streams
 - React, Ruby on Rails, Coding Games
