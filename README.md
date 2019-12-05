@@ -56,9 +56,11 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## B
+- [Baggers](#baggers) - **streaming:**: GPU programming, Game Development, Common Lisp tutorials
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
 - [Benjamin Lannon](#benjamin-lannon) - **streaming:** Javascript, GitHub Actions, Gatsby, React
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
+- [Brad Garropy](#brad-garropy) - **streaming:** JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
@@ -76,6 +78,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [CaptainKraft](#captainkraft) - **streaming:** C, C++, Rust
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Catalin Miron](#catalin-miron) - **streaming** React, React Native, GraphQL, Javascript, Typescript, Mobile Development, Web Development, Animations
+- [ChaelCodes](#chaelcodes) - **streaming** React, Ruby on Rails, Coding Games
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
@@ -107,6 +110,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## E
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Emanuele Bartolesi](#emanuele-bartolesi) - **streaming:** C#, .NET Core, ASP.NET, OSS, GitHub, Pair Programming
+- [Eser Ozvataf](#eser-ozvataf) - **streaming:** JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
 
 [(top)](#table-of-contents)
 
@@ -484,6 +488,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Baggers
+#### What Baggers Streams
+- Graphics Programming (GPU, OpenGL), Game Development, Common Lisp tutorials
+#### Streaming on:
+- [Twitch](https://twitch.tv/baggers___)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/TheBaggers)
+- [GitHub](https://github.com/cbaggers/)
+- [Youtube](https://www.youtube.com/channel/UCMV8p6Lb-bd6UZtTc_QD4zA)
+
+[(top)](#table-of-contents)
+
+---
 ### Ben Greenier
 #### What Ben Streams
 - Game development with C#/Unity3D, web and service development with JavaScript/Node.js
@@ -521,6 +540,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/NotMyself)
 - [GitHub](https://github.com/NotMyself)
 - [Website](https://iamnotmyself.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Brad Garropy
+#### What Brad Streams
+- JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
+#### Streaming on:
+- [YouTube](https://youtube.com/bradgarropy)
+#### Links:
+- [AMA](https://bradgarropy.com/ama)
+- [Twitter](https://twitter.com/bradgarropy)
+- [GitHub](https://github.com/bradgarropy)
+- [Website](https://bradgarropy.com)
+- [Instagram](https://instagram.com/bradgarropy)
 
 [(top)](#table-of-contents)
 
@@ -681,6 +715,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/mironcatalin)
 - [GitHub](https://github.com/catalinmiron)
 - [Website](https://batman.codes)
+
+[(top)](#table-of-contents)
+
+---
+### ChaelCodes
+#### What ChaelCodes Streams
+- React, Ruby on Rails, Coding Games
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/chaelcodes)
+#### Links:
+- [Twitter](https://twitter.com/ChaelCodes)
+- [GitHub](https://github.com/ChaelCodes)
+- [YouTube](https://www.youtube.com/channel/UCTO-84Lb1C18XmQ2AWMN3Kg)
 
 [(top)](#table-of-contents)
 
@@ -994,6 +1041,23 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/kasuken)
 - [Website](http://dev.to/kasuken)
 - [YouTube](https://www.youtube.com/user/emanuelebartolesi/videos)
+
+[(top)](#table-of-contents)
+
+---
+
+### Eser Ozvataf
+#### What Eser streams
+- JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
+#### Streaming on:
+- [Twitch](https://twitch.tv/laroux)
+#### Languages Spoken During Stream
+- Turkish
+#### Links:
+- [Twitter](https://twitter.com/eserozvataf)
+- [GitHub](https://github.com/eserozvataf)
+- [Website](https://eser.ozvataf.com)
+- [YouTube](https://www.youtube.com/c/EserOzvataf)
 
 [(top)](#table-of-contents)
 
