@@ -205,7 +205,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
 - [Michael Crump](#michael-crump) - **streaming:** Azure, Software Development, C#, .NET Core
 - [Michael Henderson](#michael-henderson-robedcoder--leadcoder) - **streaming:** Fullstack development
-- [Michael Jolley](#michael-jolley) - **streaming:** C#, JavaScript, .Net Core, IoT
+- [Michael Jolley](#michael-jolley-baldbeardedbuilder) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 
 [(top)](#table-of-contents)
@@ -1859,7 +1859,7 @@ Also known as MPJ from Fun Fun Function
 ---
 ---
 ## Michael Henderson (robedcoder / leadcoder)
-#### What Michael Jolley Streams
+#### What Michael Henderson Streams
 - Full stack development
 #### Streaming on:
 - [Twitch](https://twitch.tv/leadcoder)
@@ -1871,11 +1871,11 @@ Also known as MPJ from Fun Fun Function
 [(top)](#table-of-contents)
 
 ---
-### Michael Jolley
+### Michael Jolley (BaldBeardedBuilder)
 #### What Michael Jolley Streams
 - C#, JavaScript, .Net Core, IoT
 #### Streaming on:
-- [Twitch](https://twitch.tv/themichaeljolley)
+- [Twitch](https://twitch.tv/baldbeardedbuilder)
 - [YouTube](https://www.youtube.com/channel/UCn2FoDbv_veJB_UbrF93_jw)
 #### Links:
 - [Twitter](https://twitter.com/michaeljolley)
