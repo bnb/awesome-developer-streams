@@ -79,6 +79,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Casey Muratori](#casey-muratori) - **streaming:** C, C++, Game Development, Algorithms
 - [Catalin Miron](#catalin-miron) - **streaming** React, React Native, GraphQL, Javascript, Typescript, Mobile Development, Web Development, Animations
 - [ChaelCodes](#chaelcodes) - **streaming** React, Ruby on Rails, Coding Games
+- [Chiroptical](#chiroptical) - **streaming** Haskell, Elm
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
@@ -728,6 +729,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/ChaelCodes)
 - [GitHub](https://github.com/ChaelCodes)
 - [YouTube](https://www.youtube.com/channel/UCTO-84Lb1C18XmQ2AWMN3Kg)
+
+[(top)](#table-of-contents)
+
+---
+### Chiroptical
+#### What Chiroptical Streams
+- Haskell, Elm
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/chiroptical)
+#### Links:
+- [Twitter](https://twitter.com/BarryMooreII)
+- [GitHub](https://github.com/barrymoo)
+- [YouTube](https://www.youtube.com/channel/UCndlCtPeYygdGZ9UUKdehbw)
 
 [(top)](#table-of-contents)
 
