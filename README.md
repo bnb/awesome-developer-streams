@@ -201,7 +201,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Marco Bruno](#marco-bruno) - **streaming** Programming, Javascript, Web Development, React, CSS, HTML
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Mark Mandel](#mark-mandel) - **streaming** Game Development, Kubernetes, Go, OSS
-- [Marko Pavlovic](#marko8137) - **streaming** Python, C++, C#, Game Development, Android, OSS
+- [Marko Pavlovic](#marko-pavlovic) - **streaming** Python, C++, C#, Game Development, Android, OSS
 - [Masood Sadri](#masood-sadri) - **streaming:** Web Development, JavaScript, Node.js, React
 - [Matt Groves](#matt-groves) - **streaming** Databases, Couchbase, SQL/NoSQL/SQL++, .NET, C#, ASP.NET, soldering kits, VR, podcasting
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
