@@ -1813,7 +1813,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - Web Development. Python, C++, C#, Unity, Game Development, Android Development, OSS - Open Source Software
 #### Languages Spoken During Stream
 - English
-- Ocassional swear(Serbian)
+- Ocassionaly spoken Serbian
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/marko8137)
 - [YouTube](https://www.youtube.com/channel/UCTHyi8Fgd_Dim7uirpPHybA)
