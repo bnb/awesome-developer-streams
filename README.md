@@ -270,6 +270,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## T
+- [Tae'lur Alexis](#taelur-alexis) - **streaming:** JavaScript, Web Development
 - [Talk2MeGooseman (Erik Guzman)](#Talk2MeGooseman-erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 - [Tanya Janca](#tanya-janca) - **streaming** Web Security, Azure, Cloud Security
 - [Ted M. Young](#ted-m-young) - **streaming:** Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
@@ -2446,6 +2447,18 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Blog](https://www.sceen.net/blog/)
 
 [(top)](#table-of-contents)
+
+---
+### Tae'lur Alexis
+#### What Tae'lur Streams
+- JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/cyberbarbie)
+#### Links:
+- [Twitter](https://twitter.com/TaelurAlexis)
+- [GitHub](https://github.com/cyberbarbie)
+- [YouTube](https://www.youtube.com/taelur-alexis)
+- [Dev.to](https://dev.to/taeluralexis)
 
 ---
 ### Talk2MeGooseman (Erik Guzman)
