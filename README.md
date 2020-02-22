@@ -220,6 +220,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## N
 - [Nicholas Brochu](#nicholas-brochu) - **streaming:** Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
 - [Nick Busey](#nick-busey) - **streaming:** PHP, NodeJS, Docker, Ansible, DevOps, React, MeteorJS and occasionally I'll brew a beer!
+- [Nicolai Parlog](#nicolai-parlog) - **streaming:** Java, occasionally JavaScript, Kotlin, or even weirder stuff
 - [Ninjabunny9000](#ninjabunny9000) - **streaming:** Python, C#, Ninja, Programming in general
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 - [nullpointer128](#nullpointer128) - **streaming:** Javascript, flutter, Dart, Spring, Vue.js, Web development, App development
@@ -2026,6 +2027,21 @@ Also known as MPJ from Fun Fun Function
 - [Website](http://nickbusey.com)
 - [YouTube](https://www.youtube.com/channel/UCMdTn6st3HoGkvH95IhrjbQ)
 - [Patreon](https://www.patreon.com/NickBusey)
+
+[(top)](#table-of-contents)
+
+---
+### Nicolai Parlog
+#### What Nicolai Streams
+- Java, occasionally JavaScript, Kotlin, or even weirder stuff
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/nipafx)
+#### Links:
+- [Twitter](https://twitter.com/nipafx)
+- [GitHub](https://github.com/CodeFX-org)
+- [YouTube](https://www.youtube.com/c/codefx)
+- [Medium](https://medium.com/codefx-weekly)
+- [Website](https://blog.codefx.org/)
 
 [(top)](#table-of-contents)
 
