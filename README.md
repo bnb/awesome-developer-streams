@@ -282,7 +282,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
 - [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
+- [TutorExilius](#TutorExilius) - **streaming:** C++, Python, Java, JavaScript, PHP 
 - [Tyler Leonhardt](#tyler-leonhardt) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
+
 
 [(top)](#table-of-contents)
 
@@ -2617,6 +2619,25 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Patreon](https://www.patreon.com/tsoding)
 - [Website](https://tsoding.github.io/)
 
+
+[(top)](#table-of-contents)
+
+---
+### TutorExilius 
+#### What TutorExilius streams
+- C++, Python, Java, JavaScript, PHP 
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/TutorExilius)
+- [YouTube](https://www.youtube.com/c/TutorExilius/live) sometimes
+#### Links:
+- [Twitter](https://twitter.com/tutorexilius)
+- [GitHub](https://github.com/tutorexilius)
+- [Facebook](https://facebook.com/tutorexilius)
+- [Instagram](https://www.instagram.com/tutorexilius)
+- [Website](https://www.exilius.de)
+- [Website](https://www.tutorexilius.de)
+- [Website](https://www.cplusplus-aufgaben.de) German C++ Exercises
+- [YouTube](https://www.youtube.com/user/TutorExilius)
 
 [(top)](#table-of-contents)
 
