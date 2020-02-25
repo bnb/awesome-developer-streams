@@ -2629,7 +2629,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/TutorExilius)
 - [YouTube](https://www.youtube.com/c/TutorExilius/live) sometimes
-### Languages spoken on stream
+#### Languages spoken on stream
 - German
 - English is understood, and English is used for variable names
 #### Links:
