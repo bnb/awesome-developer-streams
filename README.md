@@ -62,7 +62,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
 - [Brad Garropy](#brad-garropy) - **streaming:** JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
-- [Brent Schooley/ChefBrent] (#brent-schooley) - **streaming:** Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development
+- [Brent Schooley](#brent-schooley) - **streaming:** Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [britocoding](#britocoding) - **streaming:** Node.js, JavaScript, TypeScript, React, ReactJS, Web Development
@@ -81,7 +81,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Catalin Miron](#catalin-miron) - **streaming** React, React Native, GraphQL, Javascript, Typescript, Mobile Development, Web Development, Animations
 - [ChaelCodes](#chaelcodes) - **streaming** React, Ruby on Rails, Coding Games
 - [Chiroptical](#chiroptical) - **streaming** Haskell, Elm
-- [Corey Weathers](#cldubya) - **streaming:** C#, .NET Core, ASP.NET Core, Azure, Twilio, Hackerrank, Codewars, TwilioQuest
+- [Corey Weathers](#corey-weathers) - **streaming:** C#, .NET Core, ASP.NET Core, Azure, Twilio, Hackerrank, Codewars, TwilioQuest
 - [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
@@ -132,7 +132,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## G
 - [Gareth Hubball](#gareth-hubball) - **streaming:** F#, .NET, .NET Core, Functional Programming, Rust, Xamarin
 - [Gary Ewan Park](#gary-ewan-park) - **streaming:** C#, .NET, .NET Core, Cake, Chocolatey, DevOps
-- [Gary Hockin/Spabby] (#gary-hockin) - **streaming:** PHP, Twilio, TwilioQuest
+- [Gary Hockin](#gary-hockin) - **streaming:** PHP, Twilio, TwilioQuest
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
 - [Gavin Barron](#gavin-barron) - **streaming:** Web Development, C#, TypeScript, Azure, DevOps
 - [Geoffrey Huntley](#geoffrey-huntley) - **streaming:** Haskell, Reactive Extensions, NixOS, OSS Development, C#, .NET, Xamarin, DevOps
@@ -192,7 +192,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## L
-- [Layla Porter/Laylacodesit] (#layla-porter) - **streaming:** C#, Javascript, .NET Core, ASP.NET Core, Azure, Twilio
+- [Layla Porter](#layla-porter) - **streaming:** C#, Javascript, .NET Core, ASP.NET Core, Azure, Twilio
 - [Leomendesm](#leomendesm) - **streaming** Javascript, Web Development, React, Elixir
 - [Liz Phillips (Illuminated Space)](#liz-phillips-illuminated-space) - **streaming:** JavaScript, Gatsby, React, Web Development, Data Structures, Playing Video Games
 - [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects
@@ -578,6 +578,20 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Brent Schooley
+#### What Brent Schooley Streams
+- Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
+#### Streaming on:
+- [Twitch](https://twitch.tv/chefbrent)
+#### Links:
+- [Twitter:Brent Schooley](https://twitter.com/brentschooley) or [Twitter:ChefBrent](https://twitter.com/chefbrent)
+- [GitHub](https://github.com/chefbrent)
+- [YouTube:Twilio TV](https://www.youtube.com/twilio) or [YouTube:ChefBrent](https://www.youtube.com/chefbrent)
+- [Instagram:ChefBrent](https://www.instagram.com/chefbrenttv/)
+
+[(top)](#table-of-contents)
+
+---
 ### Brian Clark
 #### What Brian Streams
 - Node.js, JavaScript, IoT, Web Development, Swift
@@ -828,6 +842,18 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/syropian)
 - [GitHub](https://github.com/syropian)
 - [Website](https://syropia.net/)
+
+[(top)](#table-of-contents)
+
+---
+### Corey Weathers
+#### What Corey Weathers Streams
+-  C#, .NET Core, ASP.NET Core, Azure, Twilio, Hackerrank, Codewars, TwilioQuest
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/cldubya)
+#### Links:
+- [Twitter](https://twitter.com/coreylweathers)
+- [GitHub](https://github.com/clw895)
 
 [(top)](#table-of-contents)
 
@@ -1202,6 +1228,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/gep13)
 - [Blog](https://gep13.co.uk)
 - [YouTube](https://www.youtube.com/channel/UCO72yJoksHHEDfFJyxTDnqQ)
+
+[(top)](#table-of-contents)
+
+---
+### Gary Hockin
+#### What Gary Streams
+- PHP, Twilio, TwilioQuest
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/spabby)
+#### Links:
+- [Twitter](https://twitter.com/geeh)
+- [GitHub](https://github.com/geeh)
+- [Blog](https://blog.hock.in/)
 
 [(top)](#table-of-contents)
 
@@ -1697,6 +1736,18 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/kyleshevlin)
 - [GitHub](https://github.com/kyleshevlin)
 - [Website](https://kyleshevlin.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Layla Porter
+#### What Layla Streams
+- C#, Javascript, .NET Core, ASP.NET Core, Azure, Twilio
+#### Streaming on:
+- [Twitch](https://twitch.tv/laylacodesit)
+#### Links:
+- [Twitter](https://twitter.com/laylacodesit)
+- [GitHub](https://github.com/laylacodesit)
 
 [(top)](#table-of-contents)
 
