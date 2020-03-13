@@ -595,7 +595,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 [(top)](#table-of-contents)
 
-----
+---
 ### Brian Lagunas 
 #### What Brian Streams
 - Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things.  
@@ -608,7 +608,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 [(top)](#table-of-contents)
 
---
+---
 ### Brian McKenna
 #### What Brian Streams
 - Haskell, Functional Programming
