@@ -63,6 +63,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Brad Garropy](#brad-garropy) - **streaming:** JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
+- [Brian Lagunas](#brian-lagunas) - **streaming:** Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things. 
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [britocoding](#britocoding) - **streaming:** Node.js, JavaScript, TypeScript, React, ReactJS, Web Development
 - [Brookzerker](#brookzerker) - **streaming** Rust
@@ -591,6 +592,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [YouTube](https://www.youtube.com/channel/UCID02LhTNYYhWbok3zyggOw)
 - [Instagram](https://www.instagram.com/_clarkio/)
 - [Website](https://www.clarkio.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Brian Lagunas 
+#### What Brian Streams
+- Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things.  
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/brianlagunas)
+#### Links:
+- [Twitter](https://twitter.com/brianlagunas)
+- [GitHub](https://github.com/brianlagunas)
+- [YouTube](https://youtube.com/brianlagunas)
 
 [(top)](#table-of-contents)
 
