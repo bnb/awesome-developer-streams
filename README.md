@@ -584,10 +584,10 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 #### Streaming on:
 - [Twitch](https://twitch.tv/chefbrent)
 #### Links:
-- [Twitter:Brent Schooley](https://twitter.com/brentschooley) or [Twitter:ChefBrent](https://twitter.com/chefbrent)
+- [Twitter:Brent Schooley](https://twitter.com/brentschooley) or [Twitter:ChefBrent](https://twitter.com/chefbrenttv)
 - [GitHub](https://github.com/chefbrent)
-- [YouTube:Twilio TV](https://www.youtube.com/twilio) or [YouTube:ChefBrent](https://www.youtube.com/chefbrent)
-- [Instagram:ChefBrent](https://www.instagram.com/chefbrenttv/)
+- [YouTube:Twilio](https://www.youtube.com/twilio) or [YouTube:ChefBrent](https://www.youtube.com/chefbrenttv)
+- [Instagram](https://www.instagram.com/chefbrenttv/)
 
 [(top)](#table-of-contents)
 
