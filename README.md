@@ -236,6 +236,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## P
 - [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
+- [Phil Nash](#Phil-Nash) - **streaming:** JavaScript, Ruby, Twilio, Open Source, Web Development
 - [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
 
 [(top)](#table-of-contents)
@@ -2184,6 +2185,21 @@ Also known as MPJ from Fun Fun Function
 - [Discord](https://discord.gg/7TSA6ZF)
 - [YouTube](https://youtube.com/pervognsen)
 - [Forum](https://bitwise.handmade.network/forums)
+
+[(top)](#table-of-contents)
+
+---
+### Phil Nash
+#### What Phil Nash streams
+- IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/phil_nash/)
+#### Links:
+- [Twitter](https://twitter.com/philnash)
+- [GitHub](https://github.com/philnash/)
+- [Website](https://philna.sh/)
+- [Blog](https://philna.sh/blog/)
+- [DEV](https://dev.to/philnash)
 
 [(top)](#table-of-contents)
 
