@@ -187,6 +187,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Keraf](#keraf) - **streaming:** JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
 - [Kevin Griffin](#kevin-griffin) - **streaming:** C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
 - [KeyFramers](#KeyFramers) - **streaming:** CSS, Javascript, UI Animation, Web Development
+- [Krzysztof Cieslak](#Krzysztof-Chris-Cieslak) - **streaming:** F#, .Net, Functional Programming, Web Development
 - [Kyle Shevlin](#kyle-shevlin) - **streaming:** React, JavaScript, Functional Programming, Web Development
 
 [(top)](#table-of-contents)
@@ -1743,6 +1744,21 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter(@davidkpiano)](https://twitter.com/davidkpiano)
 - [Twitter(@shshaw)](https://twitter.com/shshaw)
 - [Patreon](https://www.patreon.com/keyframers)
+
+[(top)](#table-of-contents)
+
+---
+### Krzysztof 'Chris' Cieslak
+#### What Chris Streams
+- F#, .Net, Functional Programming, WebDevelopment
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/k_cieslak)
+#### Links:
+- [Twitter](https://twitter.com/k_cieslak)
+- [GitHub](https://github.com/Krzysztof-Cieslak)
+- [Website](http://kcieslak.io/)
+- [Website - Ionide](https://ionide.io/)
+- [OpenCollective](https://opencollective.com/ionide)
 
 [(top)](#table-of-contents)
 
