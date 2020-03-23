@@ -176,6 +176,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 - [Josh Justice](#josh-justice) - **streaming:** JavaScript, Rails, Ember, React Native
+- [Josh Kupka](#josh-kupka) - **streaming:** JavaScript, Building custom streaming service
 - [Josh Wulf](#josh-wulf) - **streaming:** TypeScript, NestJS, Microservices, Zeebe, Minecraft programming in JS
 
 [(top)](#table-of-contents)
@@ -1652,6 +1653,20 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/hawkinjs)
 - [GitHub](https://github.com/hawkins)
 - [Website](https://hawkins.is)
+
+[(top)](#table-of-contents)
+
+---
+### Josh Kupka
+#### What Josh Streams
+- JavaScript, Building a custom streaming service
+#### Streaming on:
+- [Twitch](https://twitch.tv/joshkupka)
+#### Links:
+- [Twitter](https://twitter.com/joshkupka)
+- [GitHub](https://github.com/JoshKupka)
+- [Facebook](https://facebook.com/JoshKupkaTTV)
+- [Discord](https://discord.gg/ZqmVHsr)
 
 [(top)](#table-of-contents)
 
