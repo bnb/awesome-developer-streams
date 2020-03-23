@@ -291,6 +291,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
 - [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
+- [Trezy](#trezy) **streaming:** JavaScript, Node.js, React.js, Next.js, Game Development, Web Development
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
 - [TutorExilius](#TutorExilius) - **streaming:** C++, Python, Java, JavaScript, PHP 
 - [Tyler Leonhardt](#tyler-leonhardt) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
@@ -2754,6 +2755,18 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Medium](https://medium.com/@yamalight)
 
 [(top)](#table-of-contents)
+
+---
+### Trezy
+#### What Trezy Streams
+- JavaScript, Node.js, React.js, Next.js, Game Development, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/TrezyCodes)
+#### Links
+- [Twitter](https://twitter.com/TrezyCodes)
+- [Github](https://github.com/trezy)
+- [Website](https://trezy.com)
+- [Discord](https://discord.gg/UCJfEVN)
 
 ---
 ### Tsoding
