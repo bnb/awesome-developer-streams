@@ -1116,14 +1116,14 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 #### What Eddie streams
 - Open Source, JavaScript, Angular, AWS, Serverless, TypeScript, GitHub, Cucumber
 #### Streaming on:
-- [Twitch](https://twitch.tv/eddiejaoude)
+- [YouTube](http://youtube.com/eddiejaoude)
 #### Languages Spoken During Stream
 - English
 #### Links:
 - [Twitter](https://twitter.com/eddiejaoude)
 - [Github](https://github.com/eddiejaoude)
 - [Discord](https://discordapp.com/invite/jVwPDFd)
-- [YouTube](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA?view_as=subscriber)
+- [YouTube](http://youtube.com/eddiejaoude)
 - [Instagram](https://www.instagram.com/eddiejaoude/)
 
 [(top)](#table-of-contents)
