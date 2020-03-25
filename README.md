@@ -987,6 +987,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Darko Meszaros
+#### What (Name || Pref Handle) Streams
+- AWS, Cloud, Developer Tools, Architecture, Python, Vim, Linux
+#### Streaming on:
+- [Twitch](https://twitch.tv/ruptwelve)
+#### Links:
+- [Twitter](https://twitter.com/darkosubotica)
+- [GitHub](https://github.com/darko-mesaros)
+- [Website](https://www.rup12.net/)
+
+[(top)](#table-of-contents)
+
+---
 ### David Pedersen
 #### What David Streams
 - Rust, Ruby, Vim
