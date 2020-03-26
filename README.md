@@ -64,8 +64,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
 - [Brad Garropy](#brad-garropy) - **streaming:** JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
-- [Brent Schooley](#brent-schooley) - **streaming:** Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
-- [Brian Clark](#brian-clark) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
+- [Brent Schooley (Chef Brent)](#brent-schooley-chef-brent) - **streaming:** Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
+- [Brian Clark (Clarkio)](#brian-clark-clarkio) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian Lagunas](#brian-lagunas) - **streaming:** Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things. 
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [britocoding](#britocoding) - **streaming:** Node.js, JavaScript, TypeScript, React, ReactJS, Web Development
@@ -85,7 +85,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [ChaelCodes](#chaelcodes) - **streaming** React, Ruby on Rails, Coding Games
 - [Chiroptical](#chiroptical) - **streaming** Haskell, Elm
 - [Corey Weathers](#corey-weathers) - **streaming:** C#, .NET Core, ASP.NET Core, Azure, Twilio, Hackerrank, Codewars, TwilioQuest
-- [Codebase Alpha](#codebase-alpha) - **streaming:** C#, .Net Core, ASP.Net Core
+- [Codebase Alpha (essenbee)](#codebase-alpha-essenbee) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
 - [Código Falado](#código-falado) - **streaming:** HTML, CSS, Javascript, Laravel, Vue,  Tailwind, Javascript, Typescript, Node.js, Vue.js, PHP, Laravel, Web Development, Portuguese
@@ -103,7 +103,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Daniel Stenberg](#daniel-stenberg) - **streaming:** C, Network Tools, Network Security
 - [Darko Meszaros](#darko-meszaros) - **streaming:** AWS, Cloud, Developer Tools, Architecture, Python, Vim, Linux
 - [David Pedersen](#david-pedersen) - **streaming:** Rust, Ruby, Vim
-- [David Poindexter](#david-poindexter) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
+- [David Poindexter (roberttables)](#david-poindexter-roberttables) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [Developers Garage](#developers-garage) - **streaming:** C#, JavaScript, TypeScript, .NET Core, ASP.NET Core, OSS, Xamarin
 - [Dillon Pentz](#dillon-pentz-dillonea) - **streaming:** OBS Development using C++. Also streams Python and JavaScript
@@ -622,7 +622,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
-### Brent Schooley
+### Brent Schooley (Chef Brent)
 #### What Brent Schooley Streams
 - Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
 #### Streaming on:
@@ -636,7 +636,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
-### Brian Clark
+### Brian Clark (Clarkio)
 #### What Brian Streams
 - Node.js, JavaScript, IoT, Web Development, Swift
 #### Streaming on:
@@ -821,7 +821,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
-### Codebase Alpha
+### Codebase Alpha (Essenbee)
 #### What Codebase Alpha Streams
 - C#, .Net Core, ASP.Net Core
 #### Streaming on:
@@ -1014,7 +1014,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
-### David Poindexter
+### David Poindexter (roberttables)
 #### What David Streams
 - Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 #### Streaming On:
