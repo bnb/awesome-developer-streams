@@ -101,6 +101,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Daniel Reis](#daniel-reis) - **streaming:** Laravel, Lumen, PHP, Backend, Web Development
 - [Daniel Shiffman](#daniel-shiffman) - **streaming:** JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
 - [Daniel Stenberg](#daniel-stenberg) - **streaming:** C, Network Tools, Network Security
+- [Darko Meszaros](#darko-meszaros) - **streaming:** AWS, Cloud, Developer Tools, Architecture, Python, Vim, Linux
 - [David Pedersen](#david-pedersen) - **streaming:** Rust, Ruby, Vim
 - [David Poindexter](#david-poindexter) - **streaming:** Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
@@ -983,6 +984,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/bagder)
 - [GitHub](https://github.com/bagder)
 - [Website](https://daniel.haxx.se/)
+
+[(top)](#table-of-contents)
+
+---
+### Darko Meszaros
+#### What (Name || Pref Handle) Streams
+- AWS, Cloud, Developer Tools, Architecture, Python, Vim, Linux
+#### Streaming on:
+- [Twitch](https://twitch.tv/ruptwelve)
+#### Links:
+- [Twitter](https://twitter.com/darkosubotica)
+- [GitHub](https://github.com/darko-mesaros)
+- [Website](https://www.rup12.net/)
 
 [(top)](#table-of-contents)
 
