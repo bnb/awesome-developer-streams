@@ -256,6 +256,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Robin Pokorny](#robin-pokorny) - **streaming:** JavaScript, Functional Programming, Node.js
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Russell Hay](#russell-hay) - **streaming:** Rust, Functional Programming, Hardware, Generative Art
+- [Ryan Warner](#ryan-warner) - **streaming:** Web design and development, JavaScript, Gatsby, React, Firebase, Node, CSS, UI/UX Design
 
 [(top)](#table-of-contents)
 
@@ -2404,6 +2405,20 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Rust Blog](https://stainless.io)
 
 [(top)](#table-of-contents)
+
+---
+### RyanWarnerCodes
+#### What Ryan Streams
+- Web design and development, JavaScript, Gatsby, React, Firebase, Node, CSS, UI/UX Design
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/RyanWarnerCodes)
+#### Links:
+- [Twitter](https://twitter.com/RyanWarnerCodes)
+- [YouTube](https://www.youtube.com/channel/UCBvvmLr-oLl2gnG8mdtY6aA)
+- [Website](https://rw.codes)
+- [Dribbble](https://dribbble.com/RyanWarnerCodes)
+- [Figma](https://figma.com/@RyanWarner)
+- [GitHub](https://github.com/RyanWarner)
 
 ---
 ### Sallar Kaboli
