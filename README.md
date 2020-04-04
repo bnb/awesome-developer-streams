@@ -15,7 +15,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 
 ---
 ### Streamer Name OR Preferred Handle
-#### What (Name || Pref Handle) Streams
+#### What (Name || Pref Handle) streams:
 - IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 #### Streaming on:
 - [Twitch]()
@@ -323,7 +323,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 # Developers That Stream
 
 ### Adam13531
-#### What Adam Streams
+#### What Adam streams:
 - Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/adam13531)
@@ -338,7 +338,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Adron Hall
-#### What Adron Streams
+#### What Adron streams:
 - Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/adronhall/)
@@ -352,7 +352,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Al Sweigart
-#### What Al Streams
+#### What Al streams:
 - Python
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/AlSweigart/)
@@ -367,7 +367,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Albérico Dias Barreto Filho
-#### What Albérico Streams
+#### What Albérico streams:
 - Twitch Extension Development, Streams Tools Development, Alexa Skills, IRL, JavaScript
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/albericod)
@@ -380,7 +380,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Alexander Simovic
-#### What Alex Streams
+#### What Alex streams:
 - Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/simalexan)
@@ -394,7 +394,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Amorelandra
-#### What Amorelandra Streams
+#### What Amorelandra streams:
 - Twitch Extension Development, IRL, JavaScript
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/Amorelandra)
@@ -408,7 +408,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Andrew Kelley
-#### What Andrew Kelley Streams
+#### What Andrew Kelley streams:
 - Zig programming language, Compiler, LLVM, ASM
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/andrewrok)
@@ -424,7 +424,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Andy Li
-#### What Andy Li Streams
+#### What Andy Li streams:
 - Haxe, Web Development, Linux packaging
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/andyonthewings)
@@ -438,7 +438,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Anthony Sottile
-#### What Anthony Streams
+#### What Anthony streams:
 - Python, linting, code formatting, testing, refactoring
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/anthonywritescode)
@@ -451,7 +451,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Antonio Maiorano
-#### What Antonio Streams
+#### What Antonio streams:
 - Emulator Development, C++
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/daroou2)
@@ -481,7 +481,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Ardalis - Steve Smith
-#### What Ardalis Streams
+#### What Ardalis streams:
 - C#, ASP.NET Core, Clean Architecture, DDD, Design Patterns, TDD
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/ardalis)
@@ -496,7 +496,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Armin Ronacher
-#### What Armin Streams
+#### What Armin streams:
 - Rust, maybe Python
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/themitsuhiko)
@@ -508,7 +508,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Baggers
-#### What Baggers Streams
+#### What Baggers streams:
 - Graphics Programming (GPU, OpenGL), Game Development, Common Lisp tutorials
 #### Streaming on:
 - [Twitch](https://twitch.tv/baggers___)
@@ -523,7 +523,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### BarRaider
-#### What BarRaider Streams
+#### What BarRaider streams:
 - C#, Stream Deck plugins development, Game Development
 #### Streaming on:
 - [Twitch](https://twitch.tv/barraider)
@@ -538,7 +538,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Beachcasts
-#### What Beachcasts Streams
+#### What Beachcasts streams:
 - Web Development with PHP, Python, and adjecent technologies. Also, AWS and Nexmo/Vonage content.
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/beachcasts)
@@ -554,7 +554,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Ben Greenier
-#### What Ben Streams
+#### What Ben streams:
 - Game development with C#/Unity3D, web and service development with JavaScript/Node.js
 #### Streaming on:
 - [Twitch](https://twitch.tv/ben_greenier)
@@ -569,7 +569,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Benjamin Lannon
-#### What Benjamin Streams
+#### What Benjamin streams:
 - Javascript, GitHub Actions, Gatsby, React
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/lannonbr)
@@ -582,7 +582,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Bobby Johnson
-#### What Bobby Streams
+#### What Bobby streams:
 - Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/auth0bobby)
@@ -595,7 +595,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Brad Garropy
-#### What Brad Streams
+#### What Brad streams:
 - JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
 #### Streaming on:
 - [YouTube](https://youtube.com/bradgarropy)
@@ -610,7 +610,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Brandon Satrom
-#### What Brandon Streams
+#### What Brandon streams:
 - IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 #### Streaming on:
 - [Twitch](https://twitch.tv/brandonsatrom)
@@ -624,7 +624,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Brent Schooley (Chef Brent)
-#### What Brent Schooley Streams
+#### What Brent Schooley streams:
 - Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
 #### Streaming on:
 - [Twitch](https://twitch.tv/chefbrent)
@@ -638,7 +638,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Brian Clark (Clarkio)
-#### What Brian Streams
+#### What Brian streams:
 - Node.js, JavaScript, IoT, Web Development, Swift
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/clarkio)
@@ -654,7 +654,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Brian Lagunas 
-#### What Brian Streams
+#### What Brian streams:
 - Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things.  
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/brianlagunas)
@@ -667,7 +667,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Brian McKenna
-#### What Brian Streams
+#### What Brian streams:
 - Haskell, Functional Programming
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/puffnfresh)
@@ -693,7 +693,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Brookzerker
-#### What Brookzerker Streams
+#### What Brookzerker streams:
 - Rust
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/brookzerker)
@@ -705,7 +705,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Btor
-#### What Btor Streams
+#### What Btor streams:
 - French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc.
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/bt0r)
@@ -719,7 +719,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Caidan Williams
-#### What Caidan Streams
+#### What Caidan streams:
 - Java, Python, Game Development, Game Networking, LibGDX, Digital Art
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/moderatemelon)
@@ -733,7 +733,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Cailir
-#### What Cailir Streams
+#### What Cailir streams:
 - NodeJS, HTML, CSS, Javascript, Game Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/cailir)
@@ -744,7 +744,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 --
 ### Calvin Allen / Coding with Calvin
-#### What Calvin Streams
+#### What Calvin streams:
 - Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development
 #### Streaming on:
 - [Twitch](https://luv2.dev/live)
@@ -761,7 +761,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### CaptainKraft
-#### What CaptainKraft Streams
+#### What CaptainKraft streams:
 - C, C++, Rust
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/captainkraft)
@@ -770,7 +770,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Casey Muratori
-#### What Casey Streams
+#### What Casey streams:
 - C, C++, Game Development, Algorithms
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/handmade_hero)
@@ -783,7 +783,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Catalin Miron
-#### What Catalin Miron Streams
+#### What Catalin Miron streams:
 - React, React Native, GraphQL, Javascript, Typescript, Mobile Development, Web Development, Animations
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/batmancodes)
@@ -797,7 +797,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### ChaelCodes
-#### What ChaelCodes Streams
+#### What ChaelCodes streams:
 - React, Ruby on Rails, Coding Games
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/chaelcodes)
@@ -810,7 +810,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Chiroptical
-#### What Chiroptical Streams
+#### What Chiroptical streams:
 - Haskell, Elm
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/chiroptical)
@@ -823,7 +823,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Codebase Alpha (Essenbee)
-#### What Codebase Alpha Streams
+#### What Codebase Alpha streams:
 - C#, .Net Core, ASP.Net Core
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/codebasealpha)
@@ -836,7 +836,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Codephobia
-#### What Codephobia Streams
+#### What Codephobia streams:
 - Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/codephobia)
@@ -849,7 +849,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### CodeRushed (Mark Miller)
-#### What CodeRushed Streams
+#### What CodeRushed streams:
 - C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, D&D Game development, CodeRush dog-fooding
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/coderushed)
@@ -862,7 +862,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Código Falado
-#### What Código Falado streams
+#### What Código Falado streams:
 - HTML, CSS, Javascript, Vue,  Tailwind, Javascript, Typescript, Node.js, Vue.js, PHP, Laravel, Web Development, Portuguese
 #### Languages Spoken During Stream
 - Portuguese
@@ -879,7 +879,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Coding Garden with CJ
-#### What CJ Streams
+#### What CJ streams:
 - JavaScript, Vue.js, Node.js, React, Codewars problem solving
 #### Streaming on:
 - [Youtube](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
@@ -892,7 +892,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Collin Henderson
-#### What Collin Streams
+#### What Collin streams:
 - JavaScript, PHP, Laravel, Vue.js
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/syropian)
@@ -905,7 +905,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Corey Weathers
-#### What Corey Weathers Streams
+#### What Corey Weathers streams:
 -  C#, .NET Core, ASP.NET Core, Azure, Twilio, Hackerrank, Codewars, TwilioQuest
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/cldubya)
@@ -917,7 +917,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Cory knox
-#### What Cory Streams
+#### What Cory streams:
 - PowerShell, C#, TypeScript, VSCode extension development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/corbob)
@@ -930,7 +930,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Daniel Jenkins
-#### What Daniel (HonestDan) streams
+#### What Daniel (HonestDan) streams:
 - JavasSript, PHP, C#, Unity, Game Development, Web Development; Often takes part in Ludum Dare
 #### Streaming on:
 - [Twitch](https://twitch.tv/honestdangames)
@@ -947,7 +947,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Daniel Reis
-#### What Daniel Reis streams
+#### What Daniel Reis streams:
 - Laravel, Lumen, PHP, Backend, Web Development
 #### Streaming on:
 - [Twitch](https://twitch.tv/danielhe4rt)
@@ -962,7 +962,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Daniel Shiffman
-#### What Daniel Streams
+#### What Daniel streams:
 - JavaScript, Processing, P5.js, WebGL, Machine Learning, Algorithms
 #### Streaming on:
 - [Youtube](https://www.youtube.com/user/shiffman)
@@ -975,7 +975,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Daniel Stenberg
-#### What Daniel Streams
+#### What Daniel streams:
 - C, Network Tools, Network Security
 - Primarily focuses on cURL, WolfSSH, WolfSSL, etc.
 #### Streaming on:
@@ -990,7 +990,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Darko Meszaros
-#### What (Name || Pref Handle) Streams
+#### What (Name || Pref Handle) streams:
 - AWS, Cloud, Developer Tools, Architecture, Python, Vim, Linux
 #### Streaming on:
 - [Twitch](https://twitch.tv/ruptwelve)
@@ -1003,7 +1003,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### David Pedersen
-#### What David Streams
+#### What David streams:
 - Rust, Ruby, Vim
 #### Streaming On:
 - [Twitch](https://twitch.tv/davidpdrsn)
@@ -1016,7 +1016,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### David Poindexter (roberttables)
-#### What David Streams
+#### What David streams:
 - Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 #### Streaming On:
 - [Twitch](https://twitch.tv/roberttables)
@@ -1032,7 +1032,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### DevChatter
-#### What DevChatter Streams
+#### What DevChatter streams:
 - C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 #### Streaming on:
 - [Twitch](https://twitch.tv/devchatter)
@@ -1047,7 +1047,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Developers Garage
-#### What Developers Garage Streams
+#### What Developers Garage streams:
 - C#, JavaScript, TypeScript, .NET Core, ASP.NET Core, OSS, Xamarin
 #### Streaming on:
 - [Twitch](https://twitch.tv/developersgarage)
@@ -1064,7 +1064,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 
 ### Dillon Pentz (DillonEA)
-#### What Dillon Pentz Streams
+#### What Dillon Pentz streams:
 - OBS Development using C++. Also streams Python and JavaScript
 #### Streaming on:
 - [Twitch](https://twitch.tv/dillonea)
@@ -1080,7 +1080,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 
 ### DJ Adams
-#### What DJ Adams Streams
+#### What DJ Adams streams:
 - SAP development topics, including Node.js, the SAP Cloud Platform, CAP, Cloud Foundry and more
 #### Streaming on:
 - [YouTube](https://youtube.com/djadams-qmacro)
@@ -1097,7 +1097,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Dmitry Figol
-#### What Dmitry Streams
+#### What Dmitry streams:
 - Network programmability, Network automation, Python, NetDevOps, DevOps
 #### Streaming on:
 - [Twitch](https://twitch.tv/dmfigol)
@@ -1114,7 +1114,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### DrunkDevs
-#### What DrunkDevs Streams
+#### What DrunkDevs streams:
 - Game Development, Game Maker: Studio, Aseprite
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/drunkdevs)
@@ -1128,7 +1128,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Eddie Jaoude
-#### What Eddie streams
+#### What Eddie streams:
 - Open Source, JavaScript, Angular, AWS, Serverless, TypeScript, GitHub, Cucumber
 #### Streaming on:
 - [YouTube](http://youtube.com/eddiejaoude)
@@ -1145,7 +1145,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Emanuele Bartolesi
-#### What Emanuele streams
+#### What Emanuele streams:
 - C#, .NET Core, ASP.NET, OSS, GitHub, Pair Programming
 #### Streaming on:
 - [Twitch](https://twitch.tv/kasuken)
@@ -1162,7 +1162,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 
 ### Eser Ozvataf
-#### What Eser streams
+#### What Eser streams:
 - JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
 #### Streaming on:
 - [Twitch](https://twitch.tv/laroux)
@@ -1179,7 +1179,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 
 ### Feross Aboukhadijeh
-#### What Feross Streams
+#### What Feross streams:
 - JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/ferossity)
@@ -1193,7 +1193,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Ferris
-#### What Ferris Streams
+#### What Ferris streams:
 - Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/ferrisstreamsstuff)
@@ -1209,7 +1209,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Fletcher (IAmFletcher)
-#### What Fletcher (IAmFletcher) Streams
+#### What Fletcher (IAmFletcher) streams:
 - JavaScript, Node, Go
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/iamfletcher_)
@@ -1222,7 +1222,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ----
 ### Frank Boucher
-#### What Frank Boucher Streams
+#### What Frank Boucher streams:
 - Microsoft Azure, C#, .NET Core, DevOps, OSS Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/fboucheros)
@@ -1243,7 +1243,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Franziska Hinkelmann
-#### What Franziska (fhinkel) Streams
+#### What Franziska (fhinkel) streams:
 - JavaScript, Node.js, Interview Training, Pair Programming
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/fhinkel)
@@ -1257,7 +1257,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Freya Holmér
-#### What Freya (Acegikmo) Streams
+#### What Freya (Acegikmo) streams:
 - Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/acegikmo)
@@ -1275,7 +1275,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Gareth Hubball
-#### What Gareth Streams
+#### What Gareth streams:
 - F#, .NET, .NET Core, Functional Programming, Rust, Xamarin
 #### Streaming on:
 - [Twitch](https://twitch.tv/garethhubball)
@@ -1290,7 +1290,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Gary Ewan Park
-#### What Gary Streams
+#### What Gary streams:
 - C#, .NET, .NET Core, Cake, Chocolatey, DevOps
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/gep13)
@@ -1304,7 +1304,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Gary Hockin
-#### What Gary Streams
+#### What Gary streams:
 - PHP, Twilio, TwilioQuest
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/spabby)
@@ -1317,7 +1317,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Gary Kramlich
-#### What Grim Streams
+#### What Grim streams:
 - Pidgin Development, Convey Development, Open Source Development, C, Golang, Python, JavaScript, Docker, Containers
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/rw_grim)
@@ -1337,7 +1337,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Gavin Barron
-#### What Gavin Streams
+#### What Gavin streams:
 - Web Development, C#, TypeScript, Azure, DevOps
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/gavinbarron)
@@ -1350,7 +1350,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Geoffrey Huntley
-#### What Geoff Streams
+#### What Geoff streams:
 - Haskell, Reactive Extensions, NixOS, OSS Development, C#, .NET, Xamarin, DevOps
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/geoffreyhuntley)
@@ -1365,7 +1365,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Go_Maestro_Go
-#### What Go_Maestro_Go (Christian) Streams
+#### What Go_Maestro_Go (Christian) streams:
 - JavaScript, Node.js, ReactJS, React Native, External APIs, GraphQL, Web Assembly, Oracle JavaScript Extension Toolkit (OJET), Native Apps, Docker, Kubernetes, Cloud Infrastructure, OCI, GCP, AWS, Azure, Heroku, PostgresQL, Open-Source, Full-Stack, DevOps, Machine Learning, Relational Database Design, Google Sheets Automations, Raspberry Pi, IoT, Integrations, BoseAR, Elgato Stream Deck, Trello, Scrum Management
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/go_maestro_go)
@@ -1385,7 +1385,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Gwen Frey
-#### What Gwen Streams
+#### What Gwen streams:
 - Game Development, Unreal Blueprint, Animation
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/diregoldfish)
@@ -1396,7 +1396,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Gynvael Coldwind
-#### What Gynvael Coldwind Streams
+#### What Gynvael Coldwind streams:
 - Software development - Python, C, C++, ASM
 - Reverse engineering
 - Hacking
@@ -1414,7 +1414,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### HardlyDifficult
-#### What HardlyDifficult Streams
+#### What HardlyDifficult streams:
 - Game Development (Unity3D, C#), C# Programming, Cryptocurrency
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/hardlydifficult)
@@ -1428,7 +1428,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Holden Karau
-#### What Holden Karau streams
+#### What Holden Karau streams:
 Scala, Python, Spark, PySpark, Open Source
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/holdenkarau)
@@ -1443,7 +1443,7 @@ Scala, Python, Spark, PySpark, Open Source
 
 ---
 ### HowToCodeWell (Peter Fisher)
-#### What HowToCodeWell streams
+#### What HowToCodeWell streams:
 PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScript, HTML, CSS Full Stack
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/howtocodewell)
@@ -1462,7 +1462,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ---
 ### Ian Lovett
-#### What Ian Lovett streams
+#### What Ian Lovett streams:
 - JavaScript UI - Angular, React, React Native, Redux
 - JavaScript API - Node.js, Express
 - Elastic Search
@@ -1480,7 +1480,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ---
 ### iDevelopThings
-#### What iDevelopThings Streams
+#### What iDevelopThings streams:
 - PHP, JavaScript, Node.js, Full stack development, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
@@ -1490,7 +1490,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ---
 ### Jack Mott
-#### What Jack Streams
+#### What Jack streams:
 - Teaching programming basics, data structures, algorithms, fun gamedev projects, Golang, SDL2, OpenGL
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/jackmott42)
@@ -1500,7 +1500,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ---
 ### Jason Lengstorf
-#### What Jason Lengstorf Streams
+#### What Jason Lengstorf streams:
 - GatsbyJS (React) development
 #### Streaming on:
 - [Twitch](https://twitch.tv/jlengstorf)
@@ -1514,7 +1514,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ---
 ### Jeff Fritz
-#### What Jeff Streams
+#### What Jeff streams:
 - C#, .NET, ASP.NET, OSS and Pair Programming
 #### Streaming on:
 - [Twitch](https://twitch.tv/csharpfritz)
@@ -1531,7 +1531,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ---
 ### Jeff Lindsay
-#### What Jeff Streams
+#### What Jeff streams:
 - Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/progrium)
@@ -1543,7 +1543,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ---
 ### Jeff Panici
-#### What Jeff Streams
+#### What Jeff streams:
 - C, C++, Assembly, C#, Rust, JavaScript, Basecode, Programming Language Development, Compiler Development, Web Development, Game Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/nybblesio)
@@ -1560,7 +1560,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ---
 ### Jen Tong
-#### What Jen Streams
+#### What Jen streams:
 - Python, JavaScript, NodeBots, Astronomy
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/MimmingCodes)
@@ -1574,7 +1574,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ---
 ### Jesse Skinner
-#### What Jesse Skinner Streams
+#### What Jesse Skinner streams:
 - Full stack web development, JavaScript, CSS, HTML, React, Node.js, PHP, Lua
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/jesseskinner)
@@ -1590,7 +1590,7 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ---
 ### Jesse Weigel
-#### What Jesse Streams
+#### What Jesse streams:
 Web Development, React, Node.js, CSS, Next.js, Wordpress
 #### Streaming on:
 - [YouTube (FreeCodeCamp)](https://www.youtube.com/playlist?list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r)
@@ -1606,7 +1606,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Jessica Mak
-#### What Jessica Streams
+#### What Jessica streams:
 - C++, OpenGL, Game Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/jessicamak)
@@ -1621,7 +1621,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Jochen Lillich
-#### What Jochen Lillich streams
+#### What Jochen Lillich streams:
 - DevOps/SRE - Chef, Docker, Kubernetes
 - Ruby programming
 #### Streaming on:
@@ -1638,7 +1638,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Joe Bew
-#### What Joe Streams
+#### What Joe streams:
 - Test-Driven Development, Clean Code, Refactoring, Open Source projects
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/joebew42)
@@ -1651,7 +1651,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Jon Gjengset
-#### What Jon Gjenset Streams
+#### What Jon Gjenset streams:
 - Rust
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/jonfrg)
@@ -1665,7 +1665,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Jonathan Blow
-#### What Jonathan Blow Streams
+#### What Jonathan Blow streams:
 - Game Development, Language Developement, Jai, C++, OpenGL
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/naysayer88)
@@ -1678,7 +1678,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Josh Hawkins
-#### What Hawkins Streams
+#### What Hawkins streams:
 - JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 #### Streaming on:
 - [Twitch](https://twitch.tv/hawkinjs)
@@ -1691,7 +1691,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Josh Kupka
-#### What Josh Streams
+#### What Josh streams:
 - JavaScript, Building a custom streaming service
 #### Streaming on:
 - [Twitch](https://twitch.tv/joshkupka)
@@ -1705,7 +1705,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Josh Justice
-#### What Josh (codingitwrong) Streams
+#### What Josh (codingitwrong) streams:
 - JavaScript, Rails, Ember, React Native
 #### Streaming on:
 - [Twitch](https://twitch.tv/codingitwrong)
@@ -1731,7 +1731,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### KalleHallden
-#### What KalleHallden Streams
+#### What KalleHallden streams:
 - Python, Flutter, Dart, Java
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/kallehallden)
@@ -1744,7 +1744,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### KensoDev
-#### What KensoDev Streams
+#### What KensoDev streams:
 - Advanced Devops - Python, Terraform, React
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/kensodev)
@@ -1757,7 +1757,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Kent C. Dodds
-#### What Kent Streams
+#### What Kent streams:
 - JavaScript, React, Web Development, Open Source, Node.js
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/kentcdodds)
@@ -1773,7 +1773,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Keraf
-#### What Keraf Streams
+#### What Keraf streams:
 - JavaScript, C#, Node.js, .NET Core, React, Web Development, Browser Extension Dev
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/iamkeraf)
@@ -1786,7 +1786,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Kevin Griffin
-#### What Kevin Streams
+#### What Kevin streams:
 - C#, .NET, ASP.NET, 3D Printing, Conference Planning, and more!
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/1kevgriff)
@@ -1813,7 +1813,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Krzysztof 'Chris' Cieslak
-#### What Chris Streams
+#### What Chris streams:
 - F#, .Net, Functional Programming, WebDevelopment
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/k_cieslak)
@@ -1828,7 +1828,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Kyle Shevlin
-#### What Kyle Streams
+#### What Kyle streams:
 - React, JavaScript, Functional Programming, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/kyleshevlin)
@@ -1841,7 +1841,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Layla Porter
-#### What Layla Streams
+#### What Layla streams:
 - C#, Javascript, .NET Core, ASP.NET Core, Azure, Twilio
 #### Streaming on:
 - [Twitch](https://twitch.tv/laylacodesit)
@@ -1853,7 +1853,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Leomendesm
-#### What Leo Streams
+#### What Leo streams:
 - Javascript, Web Development, React, Elixir
 #### Languages Spoken During Stream
 - Portuguese
@@ -1869,7 +1869,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Liz Phillips (Illuminated Space)
-#### What Liz Streams
+#### What Liz streams:
 - JavaScript, Gatsby, React, Web Development, Data Structures, Playing Video Games
 #### Languages Spoken During Stream
 - English
@@ -1884,7 +1884,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Lizzie Siegle
-#### What Lizzie Streams
+#### What Lizzie streams:
 - JavaScript, Swift, Web Development, Node.js, cool libraries and projects
 #### Languages Spoken During Stream
 - English
@@ -1899,7 +1899,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Luke Gorrie
-#### What Luke Streams
+#### What Luke streams:
 - C, Lua, RaptorJIT, R, Nix, Network drivers
 #### Streaming on:
 - [YouTube](https://www.youtube.com/channel/UC-ATWoBhU7ae5w7s5Rc0sSA/)
@@ -1912,7 +1912,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Marco Bruno
-#### What Mark Streams
+#### What Mark streams:
 - Programming, Javascript, Web Development, React, CSS, HTML
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/marcobrunobr/)
@@ -1929,7 +1929,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Mark Kraus
-#### What Mark Streams
+#### What Mark streams:
 - PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/markekraus)
@@ -1946,7 +1946,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Mark Mandel
-#### What Mark Streams
+#### What Mark streams:
 - Game Development, Kubernetes, Golang, mostly working on [Agones](https://agones.dev)
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/markmandel/)
@@ -1963,7 +1963,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Marko Pavlovic
-#### What Marko Streams
+#### What Marko streams:
 - Web Development. Python, C++, C#, Unity, Game Development, Android Development, OSS - Open Source Software
 #### Languages Spoken During Stream
 - English
@@ -1980,7 +1980,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Masood Sadri
-#### What Masood Streams
+#### What Masood streams:
 - Web Development, JavaScript, Node.js, React
 #### Languages Spoken During Stream
 - Persian
@@ -1995,7 +1995,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Matt Groves
-#### What Matt streams
+#### What Matt streams:
 - Databases, Couchbase, SQL/NoSQL/SQL++, .NET, C#, ASP.NET, soldering kits, VR, podcasting
 #### Streaming on:
 - [Twitch](https://twitch.tv/matthewdgroves)
@@ -2011,7 +2011,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Matt Layman
-#### What Matt streams
+#### What Matt streams:
 - Building Software as a Service (SaaS) with Python and Django
 #### Streaming on:
 - [Twitch](https://twitch.tv/mblayman)
@@ -2027,7 +2027,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Matt Podwysocki
-#### What Matt aka BluerThanBlue Falcon aka λ Calrissian Streams
+#### What Matt aka BluerThanBlue Falcon aka λ Calrissian streams:
 - JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/bluerthanbluefalcon)
@@ -2044,7 +2044,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 ---
 ### Mattias Petter Johansson
 Also known as MPJ from Fun Fun Function
-#### What MPJ Streams
+#### What MPJ streams:
 - JavaScript, Node.js, Programming in general
 #### Streaming on:
 - [Youtube](https://youtube.com/funfunfunction)
@@ -2061,7 +2061,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### MechJack
-#### What MechJack Streams
+#### What MechJack streams:
 - Java, JavaScript, React, Framework development, Programming in general
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/mechjack)
@@ -2078,7 +2078,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Micah Elizabeth Scott (scanlime)
-#### What Micah Streams
+#### What Micah streams:
 - Reverse Engineering, Rust, C++, Hardware
 #### Streaming on:
 - [YouTube](https://www.youtube.com/user/micahjd)
@@ -2093,7 +2093,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ## Michael Crump
-#### What Michael Crump Streams
+#### What Michael Crump streams:
 - Azure, Software Development, C#, .NET Core
 #### Streaming on:
 - [Twitch](https://twitch.tv/mbcrump)
@@ -2109,7 +2109,7 @@ Also known as MPJ from Fun Fun Function
 ---
 ---
 ## Michael Henderson (robedcoder / leadcoder)
-#### What Michael Henderson Streams
+#### What Michael Henderson streams:
 - Full stack development
 #### Streaming on:
 - [Twitch](https://twitch.tv/leadcoder)
@@ -2122,7 +2122,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Michael Jolley (BaldBeardedBuilder)
-#### What Michael Jolley Streams
+#### What Michael Jolley streams:
 - C#, JavaScript, .Net Core, IoT
 #### Streaming on:
 - [Twitch](https://twitch.tv/baldbeardedbuilder)
@@ -2136,7 +2136,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Mike Conley
-#### What Mike Streams
+#### What Mike streams:
 - Firefox Development, JavaScript, C++, CSS, Rust
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/mikeconley_dot_ca)
@@ -2153,7 +2153,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Nicholas Brochu
-#### What Nicholas Streams
+#### What Nicholas streams:
 - Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/serpent_ai)
@@ -2169,7 +2169,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Nick Busey
-#### What Nick Streams
+#### What Nick streams:
 - PHP, NodeJS, Docker, Ansible, DevOps, React, MeteorJS and occasionally I'll brew a beer!
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/nickbusey)
@@ -2184,7 +2184,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Nicolai Parlog
-#### What Nicolai Streams
+#### What Nicolai streams:
 - Java, occasionally JavaScript, Kotlin, or even weirder stuff
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/nipafx)
@@ -2215,7 +2215,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### nmarulo
-#### What nmarulo Streams
+#### What nmarulo streams:
 - JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/nmarulo)
@@ -2228,7 +2228,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### nullpointer128
-#### What nullpointer Streams
+#### What nullpointer streams:
 - Javascript, flutter, Dart, Spring, Vue.js, Web development, App development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/nullpointer128)
@@ -2240,7 +2240,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Pavithra Kodmad
-#### What PK Streams
+#### What PK streams:
 - JavaScript, CSS, Open Source Stuff
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/pavithrakodmad)
@@ -2253,7 +2253,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Per Vognsen
-#### What Per Vognsen streams
+#### What Per Vognsen streams:
 - Building system from scratch, C, Python, HDL, Ion
 #### Streaming on:
 - [Twitch](https://twitch.tv/pervognsen)
@@ -2270,7 +2270,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Phil Nash
-#### What Phil Nash streams
+#### What Phil Nash streams:
 - IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/phil_nash/)
@@ -2285,7 +2285,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### PixelogicDev
-#### What PixelogicDev Streams
+#### What PixelogicDev streams:
 - iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/pixelogicdev)
@@ -2297,7 +2297,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Rachael Tatman
-#### What rachaeltatman streams
+#### What rachaeltatman streams:
 - data science
 - journal club
 #### Streaming on:
@@ -2310,7 +2310,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### RadicalFishGames
-#### What RadicalFishGames Streams
+#### What RadicalFishGames streams:
 - Game Development (JavaScript, WebGL) (Game: CrossCode)
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/radicalfishgames)
@@ -2323,7 +2323,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Ragnar Thor
-#### What Ragnar Thor Streams
+#### What Ragnar Thor streams:
 - JavaScript, React, Web Development, Open Source, Node.js
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/rthor)
@@ -2335,7 +2335,7 @@ Also known as MPJ from Fun Fun Function
 
 ---
 ### Randall Hunt
-#### What Randall Streams
+#### What Randall streams:
 AWS, Web Development, Python, Serverless, AI
 #### Streaming on:
 - [Twitch (AWS)](https://www.twitch.tv/aws)
@@ -2349,7 +2349,7 @@ AWS, Web Development, Python, Serverless, AI
 
 ---
 ### Ricardo Tavares
-#### What Ricardo Streams
+#### What Ricardo streams:
 Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 #### Streaming on:
 - [Mixer](https://mixer.com/Rjgtav)
@@ -2363,7 +2363,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Robin Pokorny
-#### What Robin Pokorny Streams
+#### What Robin Pokorny streams:
 - JavaScript, Functional Programming, Node.js
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/robinpokorny)
@@ -2379,7 +2379,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Rúben Gomes
-#### What Rúben Streams
+#### What Rúben streams:
 - Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/rgomex)
@@ -2394,7 +2394,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Russell Hay
-#### What Russell Streams
+#### What Russell streams:
 - Rust, Functional Programming, Hardware, Generative Art
 #### Streaming on:
 - [Twitch](https://twitch.tv/stainlessio)
@@ -2408,7 +2408,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### RyanWarnerCodes
-#### What Ryan Streams
+#### What Ryan streams:
 - Web design and development, JavaScript, Gatsby, React, Firebase, Node, CSS, UI/UX Design
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/RyanWarnerCodes)
@@ -2422,7 +2422,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Sallar Kaboli
-#### What Sallar Streams
+#### What Sallar streams:
 - JavaScript, Node.js, Electron, React, OSS Projects, APIs
 #### Streaming on:
 - [Youtube](https://www.youtube.com/user/sallarkaboli)
@@ -2439,7 +2439,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Sch3lpSC2
-#### What Sch3lpSC2 Streams
+#### What Sch3lpSC2 streams:
 - Kotlin, VueJS, CQRS, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/sch3lpsc2)
@@ -2451,7 +2451,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Sean Larkin
-#### What Sean Streams
+#### What Sean streams:
 - Webpack, OSS, JavaScript, Gaming
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/thelarkinn)
@@ -2463,7 +2463,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Sébastien Rancoud
-#### What Sébastien Streams
+#### What Sébastien streams:
 - JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/megadamage)
@@ -2478,7 +2478,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Sebastian Krzyżanowski
-#### What Sebastian Krzyżanowski streams
+#### What Sebastian Krzyżanowski streams:
 - JavaScript, React, Redux + redux-saga, Firebase, Node.js
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/vfujin)
@@ -2492,7 +2492,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Sergio Cinos
-#### What Sergio Cinos Streams
+#### What Sergio Cinos streams:
 - Node.js, React, MobX, Docker, DevOps, Full Stack Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/scinos)
@@ -2507,7 +2507,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Shinmera
-#### What Shinmera Streams
+#### What Shinmera streams:
 - Game Development, Common Lisp, Lisp projects demos
 #### Streaming On:
 - [Twitch](http://twitch.tv/Shinmera)
@@ -2520,7 +2520,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Shirley Wu
-#### What Shirley Streams
+#### What Shirley streams:
 - Data Visualisation (DataViz), JavaScript, React
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/sxywu)
@@ -2535,7 +2535,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Simeon Vincent
-#### What Simeon Vincent Streams
+#### What Simeon Vincent streams:
 - JavaScript, CSS, Web Development, Twitch extensions
 #### Streaming on:
 - [Twitch](https://twitch.tv/dotproto)
@@ -2550,7 +2550,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Sir Lynix Van Frietjes
-#### What Sir Lynix van Friejtes Streams
+#### What Sir Lynix van Friejtes streams:
 - C++, Lua, Game Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/sirlynixvanfrietjes)
@@ -2567,7 +2567,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Siva
-#### What Siva Streams
+#### What Siva streams:
 - ML, IoT, Node.js, JavaScript, GraphQL
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/ksivamuthu)
@@ -2580,7 +2580,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### SkillVid
-#### What SkillVid Streams
+#### What SkillVid streams:
 - Javascript, Adobe Illustrator
 #### Languages Spoken During Stream
 - Persian
@@ -2594,7 +2594,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Sorskoot
-#### What Sorskoot Streams
+#### What Sorskoot streams:
 - JavaScript, Node.js, WebVR/WebAR/WebXR, Progressive web apps, IoT, Microsoft Azure
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/sorskoot)
@@ -2608,7 +2608,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Stan Daniels-Roth
-#### What Stan Streams
+#### What Stan streams:
 - Web Development, JavaScript, CSS, PHP (Laravel)
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/mrstandu33)
@@ -2625,7 +2625,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Suz Hinton
-#### What Suz Streams
+#### What Suz streams:
 - IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/noopkat)
@@ -2639,7 +2639,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Swizec Teller
-#### What  Swizec Streams
+#### What  Swizec streams:
 - JavaScript, React, D3
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/swizec)
@@ -2655,7 +2655,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Syanoks
-#### What Syanoks Streams
+#### What Syanoks streams:
 - Operating System Development, C, Assembly, Shell, Python
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/syanoks)
@@ -2665,7 +2665,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Tae'lur Alexis
-#### What Tae'lur Streams
+#### What Tae'lur streams:
 - JavaScript
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/cyberbarbie)
@@ -2677,7 +2677,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Talk2MeGooseman (Erik Guzman)
-#### What Talk2MeGooseman Streams
+#### What Talk2MeGooseman streams:
 - JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/talk2megooseman)
@@ -2690,7 +2690,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Tanya Janca
-#### What Tanya Streams
+#### What Tanya streams:
 - Web Security, Azure, Cloud Security
 #### Streaming on:
 - [Twitch](https://aka.ms/DevSlopTwitch)
@@ -2703,7 +2703,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Ted M. Young
-#### What Ted (Jitterted) Streams
+#### What Ted (Jitterted) streams:
 - Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
 #### Streaming on:
 - [Twitch](https://twitch.tv/jitterted)
@@ -2719,7 +2719,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### ThePrimeagen
-#### What ThePrimeagen Streams
+#### What ThePrimeagen streams:
 - Golang, JavaScript, ReactJS, Memes, Amazingness
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/ThePrimeagen)
@@ -2732,7 +2732,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Thomas Soerensen
-#### What Thomas Streams
+#### What Thomas streams:
 - Golang, PHP (Laravel), JavaScript
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/thomasbs_)
@@ -2745,7 +2745,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Thorsten Lorenz
-#### What Thorsten Streams
+#### What Thorsten streams:
 - Node.js, Module Development, Developer Tooling, Web Development, JavaScript
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/thlorenz)
@@ -2759,7 +2759,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Tierney Cyren
-#### What Tierney Streams
+#### What Tierney streams:
 - Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/bitandbang)
@@ -2773,7 +2773,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Tim Ermilov
-#### What Tim Streams
+#### What Tim streams:
 - OSS, building things with JavaScript, React
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/yamalight)
@@ -2787,7 +2787,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Trezy
-#### What Trezy Streams
+#### What Trezy streams:
 - JavaScript, Node.js, React.js, Next.js, Game Development, Web Development
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/TrezyCodes)
@@ -2799,7 +2799,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Tsoding
-#### What Tsoding Streams
+#### What Tsoding streams:
 - Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/tsoding)
@@ -2815,7 +2815,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### TutorExilius 
-#### What TutorExilius streams
+#### What TutorExilius streams:
 - C++, Python, Java, JavaScript, PHP 
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/TutorExilius)
@@ -2837,7 +2837,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Tyler Leonhardt
-#### What Tyler Streams
+#### What Tyler streams:
 - PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/tylerleonhardt)
@@ -2850,7 +2850,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### WindybeardGames
-#### What Windy Streams
+#### What Windy streams:
 - ClickTeam Fusion, PhotoShop, Spine, Game Art
 #### Languages Spoken During Stream
 - English
@@ -2867,7 +2867,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Yosh
-#### What Yosh Streams
+#### What Yosh streams:
 - OSS maintenance, Tooling Development, JavaScript, Node.js, Choo
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/yoshuawuyts)
@@ -2879,7 +2879,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Zorchenhimer
-#### What Zorchenhimer Streams
+#### What Zorchenhimer streams:
 - 6502 NES Assembly, Golang
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/zorchenhimer)
