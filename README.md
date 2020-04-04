@@ -624,7 +624,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Brent Schooley (Chef Brent)
-#### What Brent Schooley Streams
+#### What Brent Schooley streams
 - Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
 #### Streaming on:
 - [Twitch](https://twitch.tv/chefbrent)
@@ -638,7 +638,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Brian Clark (Clarkio)
-#### What Brian Streams
+#### What Brian streams
 - Node.js, JavaScript, IoT, Web Development, Swift
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/clarkio)
@@ -823,7 +823,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Codebase Alpha (Essenbee)
-#### What Codebase Alpha Streams
+#### What Codebase Alpha streams
 - C#, .Net Core, ASP.Net Core
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/codebasealpha)
@@ -1016,7 +1016,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### David Poindexter (roberttables)
-#### What David Streams
+#### What David streams
 - Node.js, JavaScript, React, Docker, AWS, Terraform, DevOps, Developer Tooling
 #### Streaming On:
 - [Twitch](https://twitch.tv/roberttables)
@@ -2408,7 +2408,7 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### RyanWarnerCodes
-#### What Ryan Streams
+#### What Ryan streams
 - Web design and development, JavaScript, Gatsby, React, Firebase, Node, CSS, UI/UX Design
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/RyanWarnerCodes)
