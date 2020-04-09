@@ -176,6 +176,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Joe Bew](#joe-bew) - **streaming:** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
 - [Jon Gjengset](#jon-gjengset) - **streaming:** Rust
 - [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
+- [Jorge Cano](#jorge-cano) - **streaming:** Angular, Javascript, Programming, Web development
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 - [Josh Justice](#josh-justice) - **streaming:** JavaScript, Rails, Ember, React Native
 - [Josh Kupka](#josh-kupka) - **streaming:** JavaScript, Building custom streaming service
@@ -1673,6 +1674,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
 - [Twitter](https://twitter.com/Jonathan_Blow)
 - [Google+](https://plus.google.com/u/0/102153353283805950802)
+
+[(top)](#table-of-contents)
+
+---
+### Jorge Cano
+#### What Jorge Cano streams:
+- Angular, Javascript, Programming, Web development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jorgeucano)
+#### Links:
+- [Youtube](https://www.youtube.com/channel/UCdp9sM22GW5uIOaU9eZ7n6w)
+- [Twitter](https://twitter.com/jorgeucano)
+- [Medium](https://medium.com/@jorgeucano)
 
 [(top)](#table-of-contents)
 
