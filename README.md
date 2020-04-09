@@ -175,6 +175,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Jochen Lillich](#jochen-lillich) - **streaming:** Ruby, Chef, DevOps, SRE, Docker, Kubernetes
 - [Joe Bew](#joe-bew) - **streaming:** Practices of computer programming, Clean Code, TDD, Refactoring, Open Source projects
 - [Jon Gjengset](#jon-gjengset) - **streaming:** Rust
+- [Jonatas "Jojo" Baldin](#jonatas-jojo-baldin) - **streaming:** Programming, Infrastructure, Serverless, Golang, Python, Knative, OpenFaaS, AWS, GCP, Azure
 - [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
 - [Jorge Cano](#jorge-cano) - **streaming:** Angular, Javascript, Programming, Web development
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
@@ -1661,6 +1662,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Github](https://github.com/jonhoo)
 - [Twitter](https://twitter.com/jonhoo)
 - [Website](https://thesquareplanet.com)
+
+[(top)](#table-of-contents)
+
+---
+### Jonatas "Jojo" Baldin
+#### What Jojo streams:
+- Programming, Infrastructure, Serverless, Golang, Python, Knative, OpenFaaS, AWS, GCP, Azure
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/deployeveryday)
+#### Links:
+- [Twitter](https://twitter.com/jonatasbaldin)
+- [Youtube](https://www.youtube.com/channel/UCSckSM5vayBNNTl4nKuAUPg)
+- [Blog](https://deployeveryday.com/)
 
 [(top)](#table-of-contents)
 
