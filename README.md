@@ -1667,7 +1667,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Jonatas "Jojo" Baldin
-#### What Jojo:
+#### What Jojo streams:
 - Programming, Infrastructure, Serverless, Golang, Python, Knative, OpenFaaS, AWS, GCP, Azure
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/deployeveryday)
