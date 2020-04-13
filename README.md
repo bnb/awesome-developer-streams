@@ -302,6 +302,12 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+## V
+- [Vogue and Code (April Speight)](#vogue-and-code-april-speight) - **streaming:** Mixed Reality Toolkit, Mixed Reality, Virtual Reality, Augmented Reality, Basic programming concepts
+
+[(top)](#table-of-contents)
+
+---
 ## W
 - [WindybeardGames](#windybeardgames) - **streaming:** ClickTeam Fusion, PhotoShop, Spine, Game Art
 
@@ -2845,6 +2851,21 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Twitter](https://twitter.com/TylerLeonhardt)
 - [GitHub](https://github.com/TylerLeonhardt)
 - [Website](https://TylerLeonhardt.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Vogue and Code (April Speight) 
+#### What April streams:
+- Mixed Reality Toolkit, Mixed Reality, Virtual Reality, Augmented Reality, Basic programming concepts 
+#### Languages Spoken During Stream
+- English
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/vogueandcode)
+#### Links:
+- [Twitter](https://twitter.com/VogueandCode)
+- [GitHub](http://github.com/aprilspeight)
+- [Website](http://www.vogueandcode.com/)
 
 [(top)](#table-of-contents)
 
