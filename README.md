@@ -140,6 +140,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
 - [Gavin Barron](#gavin-barron) - **streaming:** Web Development, C#, TypeScript, Azure, DevOps
 - [Geoffrey Huntley](#geoffrey-huntley) - **streaming:** Haskell, Reactive Extensions, NixOS, OSS Development, C#, .NET, Xamarin, DevOps
+- [Giovanny Gongora](#giovanny-gongora) - **streaming:** JavaScript, Node.js, Rust, C++, Performance, OS Development
 - [Go_Maestro_Go](#go_maestro_go) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, GraphQL, Web Development, Native Apps, Docker, Kubernetes, AWS, Oracle, Heroku, PostgresQL, Angular, Vue, Flutter, Dart, Open-Source, Full-Stack, DevOps
 - [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
@@ -182,6 +183,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Josh Justice](#josh-justice) - **streaming:** JavaScript, Rails, Ember, React Native
 - [Josh Kupka](#josh-kupka) - **streaming:** JavaScript, Building custom streaming service
 - [Josh Wulf](#josh-wulf) - **streaming:** TypeScript, NestJS, Microservices, Zeebe, Minecraft programming in JS
+- [Julian Duque](#julian-duque) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 
 [(top)](#table-of-contents)
 
@@ -1372,6 +1374,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Giovanny Gongora
+#### What Giovanny Gongora streams:
+- JavaScript, Node.js, Rust, C++
+- Performance
+- OS Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/gioyik)
+#### Links:
+- [Twitter](https://twitter.com/gioyik)
+- [GitHub](https://github.com/gioyik)
+- [Website](https://gioyik.com)
+
+[(top)](#table-of-contents)
+
+---
 ### Go_Maestro_Go
 #### What Go_Maestro_Go (Christian) streams:
 - JavaScript, Node.js, ReactJS, React Native, External APIs, GraphQL, Web Assembly, Oracle JavaScript Extension Toolkit (OJET), Native Apps, Docker, Kubernetes, Cloud Infrastructure, OCI, GCP, AWS, Azure, Heroku, PostgresQL, Open-Source, Full-Stack, DevOps, Machine Learning, Relational Database Design, Google Sheets Automations, Raspberry Pi, IoT, Integrations, BoseAR, Elgato Stream Deck, Trello, Scrum Management
@@ -1760,6 +1777,20 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/sitapati)
 - [GitHub](https://github.com/jwulf)
 - [Website](https://www.magikcraft.io)
+
+[(top)](#table-of-contents)
+
+---
+### Julian Duque
+#### What Julian Duque streams:
+- JavaScript, Node.js, Frameworks
+- Developer Tooling
+- Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/julianduque/)
+#### Links:
+- [Twitter](https://twitter.com/julian_duque/)
+- [GitHub](https://github.com/julianduque/)
 
 [(top)](#table-of-contents)
 
