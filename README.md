@@ -204,6 +204,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Leomendesm](#leomendesm) - **streaming** Javascript, Web Development, React, Elixir
 - [Liz Phillips (Illuminated Space)](#liz-phillips-illuminated-space) - **streaming:** JavaScript, Gatsby, React, Web Development, Data Structures, Playing Video Games
 - [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects
+- [Lucas Montano](#lucas-montano) - **streaming:** - Android, Node.js, Twitch extensions, Typescript, Open Source, Flutter, React.
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 
 [(top)](#table-of-contents)
@@ -1927,6 +1928,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/lizziepika)
 - [GitHub](https://github.com/elizabethsiegle)
 - [Website](https://elizabethsiegle.github.io)
+
+[(top)](#table-of-contents)
+
+---
+### Lucas Montano
+#### What Lucas streams:
+- Android, Node.js, Twitch extensions, Typescript, Open Source, Flutter, React.
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/lucas_montano)
+#### Links:
+- [GitHub](https://github.com/lucasmontano)
+- [Twitter](https://twitter.com/lucas_montano)
+- [YouTube](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
 
 [(top)](#table-of-contents)
 
