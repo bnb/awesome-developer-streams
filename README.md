@@ -38,7 +38,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## A
-- [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
+- [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, Full Stack Development, Game Development
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 - [Al Sweigart](#al-sweigart) - **streaming:** Python
 - [Albérico Dias Barreto Filho](#albérico-dias-barreto-filho) - **streaming:** Twitch Extension Development, Streams Tools Development, Alexa Skills, IRL, JavaScript
@@ -332,15 +332,14 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ### Adam13531
 #### What Adam streams:
-- Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
+- Node.js, JavaScript, React, Full Stack Development, Game Development
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/adam13531)
+- [Twitch](https://www.twitch.tv/Adam13531)
 #### Links:
-- [Discord](https://discord.gg/botland)
-- [Twitter](https://twitter.com/Xtonomous)
-- [YouTube](https://www.youtube.com/channel/UCJFxRNHar-c_lKYxFMIPg_g)
-- [Website](https://bot.land)
-- [Blog](https://blog.bot.land)
+- [Discord](https://discord.gg/AdamLearns)
+- [Twitter](https://twitter.com/AdamLearnsLive)
+- [YouTube](https://youtube.com/c/AdamLearns)
+- [Website](https://adamlearns.com)
 
 [(top)](#table-of-contents)
 
