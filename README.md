@@ -180,6 +180,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Jonatas "Jojo" Baldin](#jonatas-jojo-baldin) - **streaming:** Programming, Infrastructure, Serverless, Golang, Python, Knative, OpenFaaS, AWS, GCP, Azure
 - [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
 - [Jorge Cano](#jorge-cano) - **streaming:** Angular, Javascript, Programming, Web development
+- [Joseph Guadagno](#joseph-guadagno) - **streaming:** C#, .NET, ASP.NET, OSS, Azure, Ionic, and React
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 - [Josh Justice](#josh-justice) - **streaming:** JavaScript, Rails, Ember, React Native
 - [Josh Kupka](#josh-kupka) - **streaming:** JavaScript, Building custom streaming service
@@ -1738,6 +1739,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 [(top)](#table-of-contents)
 
+---
+### Joseph Guadagno
+#### What Joseph Guadagno streams:
+- C#, .NET, ASP.NET, OSS, Azure, Ionic, and React
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jguadagno)
+#### Links:
+- [Youtube](https://jjg.me/youtube)
+- [Twitter](https://twitter.com/jguadagno)
+- [Website](https://www.josephguadagno.net)
+- [GitHub](https://www.github.com/jguadagno)
+
+[(top)](#table-of-contents)
 ---
 ### Josh Hawkins
 #### What Hawkins streams:
