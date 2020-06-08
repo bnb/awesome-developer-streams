@@ -65,6 +65,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Brad Garropy](#brad-garropy) - **streaming:** JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brent Schooley (Chef Brent)](#brent-schooley-chef-brent) - **streaming:** Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
+- [Brent Ozar](#brent-ozar) - **streaming:** SQL Server, SQL Server optimisation and performance, Database concepts and best practices
 - [Brian Clark (Clarkio)](#brian-clark-clarkio) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian Lagunas](#brian-lagunas) - **streaming:** Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things. 
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
@@ -645,6 +646,20 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/chefbrent)
 - [YouTube:Twilio](https://www.youtube.com/twilio) or [YouTube:ChefBrent](https://www.youtube.com/chefbrenttv)
 - [Instagram](https://www.instagram.com/chefbrenttv/)
+
+[(top)](#table-of-contents)
+
+---
+### Brent Ozar
+#### What Brent Schooley streams:
+- SQL Server, SQL Server optimisation and performance, Database concepts and best practices
+#### Streaming on:
+- [Twitch](https://twitch.tv/BrentOzar)
+- [YouTube](https://youtube.com/user/BrentOzar)
+- [Facebook](https://www.facebook.com/BrentOzar)
+#### Links:
+- [Twitter](https://twitter.com/BrentOzarULTD)
+- [GitHub](https://github.com/brentozar)
 
 [(top)](#table-of-contents)
 
