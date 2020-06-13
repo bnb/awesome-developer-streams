@@ -651,7 +651,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ### Brent Ozar
-#### What Brent Schooley streams:
+#### What Brent Ozar streams:
 - SQL Server, SQL Server optimisation and performance, Database concepts and best practices
 #### Streaming on:
 - [Twitch](https://twitch.tv/BrentOzar)
