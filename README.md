@@ -143,6 +143,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Geoffrey Huntley](#geoffrey-huntley) - **streaming:** Haskell, Reactive Extensions, NixOS, OSS Development, C#, .NET, Xamarin, DevOps
 - [Giovanny Gongora](#giovanny-gongora) - **streaming:** JavaScript, Node.js, Rust, C++, Performance, OS Development
 - [Go_Maestro_Go](#go_maestro_go) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, GraphQL, Web Development, Native Apps, Docker, Kubernetes, AWS, Oracle, Heroku, PostgresQL, Angular, Vue, Flutter, Dart, Open-Source, Full-Stack, DevOps
+- [Guy Royse](#guy-royse) - **streaming:** Redis, JavaScript, Software Development, Test Driven Development
 - [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
 
@@ -1435,6 +1436,16 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/diregoldfish)
 
 [(top)](#table-of-contents)
+
+---
+### Guy Royse
+#### What Guy Royse streams:
+- Redis, JavaScript, Software Development, Test Driven Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/guyroyse)
+#### Links:
+- [Twitter](https://twitter.com/guyroyse)
+- [GitHub](https://github.com/guyroyse)
 
 ---
 ### Gynvael Coldwind
