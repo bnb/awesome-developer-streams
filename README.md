@@ -1427,6 +1427,16 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Guy Royse
+#### What Guy Royse streams:
+- Redis, JavaScript, Software Development, Test Driven Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/guyroyse)
+#### Links:
+- [Twitter](https://twitter.com/guyroyse)
+- [GitHub](https://github.com/guyroyse)
+
+---
 ### Gwen Frey
 #### What Gwen streams:
 - Game Development, Unreal Blueprint, Animation
@@ -1436,16 +1446,6 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/diregoldfish)
 
 [(top)](#table-of-contents)
-
----
-### Guy Royse
-#### What Guy Royse streams:
-- Redis, JavaScript, Software Development, Test Driven Development
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/guyroyse)
-#### Links:
-- [Twitter](https://twitter.com/guyroyse)
-- [GitHub](https://github.com/guyroyse)
 
 ---
 ### Gynvael Coldwind
