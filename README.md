@@ -276,7 +276,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming:** JavaScript, React, Redux + redux-saga, Firebase, Node.js
 - [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
 - [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
-- [Silent_Coyote](#silent-coyote) - **streaming:** C++, Node.js, PHP, JavaScript, Angular, Full Stack Web Development
+- [Silent_Coyote](#silent_coyote) - **streaming:** C++, Node.js, PHP, JavaScript, Angular, Full Stack Web Development
 - [Shinmera](#shinmera) - **streaming:**: Game Development, Common Lisp
 - [Shirley Wu](#shirley-wu) - **streaming:** Data Visualisation (DataViz), JavaScript, React
 - [Simeon Vincent](#simeon-vincent) - **streaming:** JavaScript, CSS, Web Development, Twitch extensions
