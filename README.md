@@ -1354,7 +1354,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/grimmy)
 - [Website](https://www.reaperworld.com)
 - [Blog](https://garykramlich.blogspot.com/)
-- [YouTube](https://www.youtube.com/garykramlich)
+- [YouTube](https://www.youtube.com/c/garykramlich)
 - [Discord](https://discord.gg/gqWBRDW)
 - [Patreon](https://www.patreon.com/rw_grim)
 - [Pidgin](https://www.pidgin.im)
