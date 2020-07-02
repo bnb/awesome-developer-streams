@@ -221,6 +221,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Mark Mandel](#mark-mandel) - **streaming** Game Development, Kubernetes, Go, OSS
 - [Marko Pavlovic](#marko-pavlovic) - **streaming** Python, C++, C#, Game Development, Android, OSS
 - [Masood Sadri](#masood-sadri) - **streaming:** Web Development, JavaScript, Node.js, React
+- [Matt Cowley](#matt-cowley) - **streaming** Maintaing Open Source Projects, Node.js, JavaScript, CSS, HTML, Vue, Web Development
 - [Matt Groves](#matt-groves) - **streaming** Databases, Couchbase, SQL/NoSQL/SQL++, .NET, C#, ASP.NET, soldering kits, VR, podcasting
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 - [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
@@ -2108,6 +2109,21 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/MasoodSadri)
 - [YouTube](https://www.youtube.com/user/masoodsadri)
 - [Website](http://frontcast.ir/)
+
+[(top)](#table-of-contents)
+
+---
+### Matt Cowley
+#### What Matt streams:
+- Maintaing Open Source Projects, Node.js, JavaScript, CSS, HTML, Vue, Web Development
+#### Streaming on:
+- [Twitch](https://twitch.tv/mattipv4)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/MattIPv4)
+- [GitHub](https://github.com/MattIPv4)
+- [Website](https://mattcowley.co.uk/)
 
 [(top)](#table-of-contents)
 
