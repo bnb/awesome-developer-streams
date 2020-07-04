@@ -277,6 +277,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming:** JavaScript, React, Redux + redux-saga, Firebase, Node.js
 - [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
 - [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
+- [Silent_Coyote](#silent_coyote) - **streaming:** C++, Node.js, PHP, JavaScript, Angular, Full Stack Web Development
 - [Shinmera](#shinmera) - **streaming:**: Game Development, Common Lisp
 - [Shirley Wu](#shirley-wu) - **streaming:** Data Visualisation (DataViz), JavaScript, React
 - [Simeon Vincent](#simeon-vincent) - **streaming:** JavaScript, CSS, Web Development, Twitch extensions
@@ -2631,6 +2632,21 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Twitter](https://twitter.com/scinos)
 - [GitHub](https://github.com/scinos/)
 - [Website](https://www.youtube.com/channel/UCWWgBvd400EdnUF791ZjSeg)
+
+[(top)](#table-of-contents)
+
+---
+### Silent_Coyote
+#### What Silent "Ky" Coyote streams:
+- C++, Game Development, Node.js, PHP, JavaScript, Angular, Docker, DevOps, Full Stack Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/silent_coyote)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/HelloKyYT)
+- [GitHub](https://github.com/RedactedProfile/)
+- [Website](https://redacteddevworks.ca)
 
 [(top)](#table-of-contents)
 
