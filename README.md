@@ -34,7 +34,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## Table of Contents
 
-[A](#A) - [B](#B) - [C](#C) - [D](#D) - [E](#E) - [F](#F) - [G](#G) - [H](#H) - [I](#I) - [J](#J) - [K](#K) - [L](#L) - [M](#M) - [N](#N) - [O](#O) - [P](#P) - [R](#R) - [S](#S) - [T](#T) - [V](#V) - [W](#W) - [X](#X) - [Y](#Y) - [Z](#Z)
+[A](#A) - [B](#B) - [C](#C) - [D](#D) - [E](#E) - [F](#F) - [G](#G) - [H](#H) - [I](#I) - [J](#J) - [K](#K) - [L](#L) - [M](#M) - [N](#N) - [O](#O) - [P](#P) - [R](#R) - [S](#S) - [T](#T) - [U](#U) - [V](#V) - [W](#W) - [X](#X) - [Y](#Y) - [Z](#Z)
 
 ---
 ## A
@@ -311,6 +311,10 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 
 [(top)](#table-of-contents)
+
+---
+## U
+- [Unspecified (Clark Sell)](#unspecified-clark-sell) - **streaming** Svelte, React Node.js, GraphQL, Tailwind, Javascript, Web Development, Live Code Reviews
 
 ---
 ## V
@@ -3006,6 +3010,18 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Twitter](https://twitter.com/TylerLeonhardt)
 - [GitHub](https://github.com/TylerLeonhardt)
 - [Website](https://TylerLeonhardt.com/)
+
+[(top)](#table-of-contents)
+
+---
+###  Unspecified (Clark Sell)
+#### What Unspecified streams:
+- Svelte, React Node.js, GraphQL, Tailwind, Javascript, Web Development, Live Code Reviews
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/unspecifiedsoftware)
+#### Links:
+- [Twitter](https://twitter.com/csell5)
+- [GitHub](https://github.com/hellounspecified)
 
 [(top)](#table-of-contents)
 
