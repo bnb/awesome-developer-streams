@@ -231,7 +231,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Michael Henderson](#michael-henderson-robedcoder--leadcoder) - **streaming:** Fullstack development
 - [Michael Jolley](#michael-jolley-baldbeardedbuilder) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
-- [MishManners](Mish-Manners) - **streaming:** Game dev, Python, JavaScript, C#, programming, other random coding things (ie. AWS Deep Racer), Ruby, DevOps, GitHub
+- [MishManners](MishManners) - **streaming:** Game dev, Python, JavaScript, C#, programming, other random coding things (ie. AWS Deep Racer), Ruby, DevOps, GitHub
 
 [(top)](#table-of-contents)
 
@@ -2271,16 +2271,17 @@ Also known as MPJ from Fun Fun Function
 [(top)](#table-of-contents)
 
 ---
-### MishManners
+### 
+MishManners
 #### What Mish streams:
 - Hackathons, conference news, C#, Unity, Twilio Quest, JavaScript, GitHub, Python, Ruby, Machine Learning, AWS, DevOps
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/MishManners/)
 #### Links:
 - [Twitter](https://twitter.com/MishManners)
-- [LinkedIn](https://www.linkedin/in/MishManners)
+- [LinkedIn](https://www.linkedin.com/in/mishmanners/)
 - [Instagram](https://instagram.com/MishManners_)
-- [YouTube](https://www.youtube.com/channel/MishManners)
+- [YouTube](https://www.youtube.com/c/MishManners)
 - [Discord](https://discordapp.com/invite/f4NFzFt)
 - [Website](http://mishmanners.com) + [Blog](https://hackathonqueen.com)
 
