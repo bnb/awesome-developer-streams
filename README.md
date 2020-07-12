@@ -2864,17 +2864,16 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Ted M. Young
-#### What Ted (Jitterted) streams:
+#### What Ted (JitterTed) streams:
 - Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
 #### Streaming on:
 - [Twitch](https://twitch.tv/jitterted)
 #### Links:
 - [Twitter](https://twitter.com/jitterted)
-- [YouTube](https://www.youtube.com/channel/UCx8qMdZ6JoZgOcOQxWlyV8A)
-- [Website](https://www.tedmyoung.com)
+- [YouTube](https://JitterTed.TV)
+- [Website](https://ted.dev)
 - [Patreon](https://www.patreon.com/jitterted)
 - [GitHub](https://www.github.com/tedyoung)
-- [Newsletter](https://upscri.be/f34570/)
 
 [(top)](#table-of-contents)
 
