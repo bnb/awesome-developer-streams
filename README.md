@@ -118,6 +118,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## E
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Emanuele Bartolesi](#emanuele-bartolesi) - **streaming:** C#, .NET Core, ASP.NET, OSS, GitHub, Pair Programming
+- [Eralp Karaduman](#eralp-karaduman) - **streaming:** iOS, Swift, Flutter, Dart, React Native, React, TypeScript, JavaScript, C#, Unity3D, Pixel Art, Aseprite
 - [Eser Ozvataf](#eser-ozvataf) - **streaming:** JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
 
 [(top)](#table-of-contents)
@@ -1187,6 +1188,25 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/kasuken)
 - [Website](http://dev.to/kasuken)
 - [YouTube](https://www.youtube.com/user/emanuelebartolesi/videos)
+
+[(top)](#table-of-contents)
+
+---
+
+### Eralp Karaduman
+#### What Eralp streams:
+- Mobile App Development: iOS, Swift, Flutter, Dart, React Native, TypeScript
+- Web Development: React, JavaScript
+- Game Development: C#, Unity3D, Pixel Art, Aseprite
+#### Streaming on:
+- [Twitch](https://twitch.tv/eralpkaraduman)
+#### Languages Spoken During Stream
+- English / Turkish
+#### Links
+- [Twitch](https://twitch.tv/eralpkaraduman)
+- [GitHub](https://github.com/eralpkaraduman)
+- [Website](https://eralpkaraduman.com)
+- [Youtube](https://youtube.com/user/eralpkaraduman)
 
 [(top)](#table-of-contents)
 
