@@ -252,6 +252,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## P
 - [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
+- [Pearly_Owl](#Pearly_Owl) - **streaming:** iOS, Swift, Uni Assignments
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
 - [Phil Nash](#Phil-Nash) - **streaming:** JavaScript, Ruby, Twilio, Open Source, Web Development
 - [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
@@ -2436,6 +2437,18 @@ MishManners
 - [Website](http://pavithrakodmad.com)
 - [Twitter](https://twitter.com/PKodmad)
 - [GitHub](https://github.com/pksjce)
+
+[(top)](#table-of-contents)
+
+---
+### Pearly Owl
+#### What PK streams:
+- iOS, Swift, Sometimes Uni Assignments
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/pearly_owl)
+#### Links:
+- [Twitter](https://twitter.com/Pearly_Owl)
+- [GitHub](https://github.com/NadzeyaD)
 
 [(top)](#table-of-contents)
 
