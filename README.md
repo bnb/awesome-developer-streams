@@ -811,7 +811,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/handmade_hero)
 #### Links:
-- [YouTube](https://www.youtube.com/HandmadeHero)
+- [YouTube](https://www.youtube.com/c/MollyRocket)
 - [Twitter](https://twitter.com/cmuratori)
 - [Website](https://handmadehero.org/)
 
