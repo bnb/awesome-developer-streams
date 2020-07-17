@@ -46,6 +46,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
 - [Andy Li](#andy-li) - **streaming:** Haxe, Web Development, Linux packaging
+- [Angie Jones](#angie-jones) - **streaming:** Java, Web Development, Test Automation
 - [Anthony Sottile](#anthony-sottile) - **streaming:** Python, linting, code formatting, testing, refactoring
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Anton Kuzmenko](#anton-kuzmenko) - **streaming:** Go/Golang, Ruby on Rails, Node.js, JavaScript, Terraform, Docker, Kubernetes, Helm, Bash, Vim.
@@ -456,6 +457,20 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/andyli)
 - [Blog](https://blog.onthewings.net/)
 - [Giffon](https://giffon.io/andyli)
+
+[(top)](#table-of-contents)
+
+---
+### Angie Jones
+#### What Angie Jones streams:
+- Java, Web Development, Test Automation
+#### Streaming on:
+- [Youtube](https://www.youtube.com/user/angieluvboo)
+#### Links:
+- [Twitter](https://twitter.com/techgirl1908)
+- [GitHub](https://github.com/angiejones)
+- [LinkedIn](https://www.linkedin.com/in/angiejones)
+- [Website](https://angiejones.tech)
 
 [(top)](#table-of-contents)
 
