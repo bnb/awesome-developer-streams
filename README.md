@@ -743,14 +743,13 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ### Btor
 #### What Btor streams:
-- French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc.
+- French streamer who streams PHP (Symfony 2/3/4), Javascript (React, ReactNative) , Java, Python etc.
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/bt0r)
 #### Links:
 - [Twitter](https://twitter.com/biiitor)
 - [GitHub](https://github.com/bt0r)
 - [Website](http://btor.fr/)
-- [Discord](https://discord.gg/NDpZXN5)
 
 [(top)](#table-of-contents)
 
