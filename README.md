@@ -91,7 +91,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
 - [CodeRushed](#coderushed-mark-miller) - **streaming:** C#, .Net Core, ASP.Net Core, TypeScript, JavaScript, CodeRush dog-fooding
 - [Código Falado](#código-falado) - **streaming:** HTML, CSS, Javascript, Laravel, Vue,  Tailwind, Javascript, Typescript, Node.js, Vue.js, PHP, Laravel, Web Development, Portuguese
-- [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** JavaScript, Vue.js, Node.js, React, Codewars problem solving
+- [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** Full Stack Web Development, JavaScript, Node.js, Vue.js, React, Codewars
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
 
@@ -931,13 +931,14 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ### Coding Garden with CJ
 #### What CJ streams:
-- JavaScript, Vue.js, Node.js, React, Codewars problem solving
+- Full Stack Web Development, JavaScript, Node.js, Vue.js, React, Codewars
 #### Streaming on:
-- [Youtube](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
+- [Twitch](https://www.twitch.tv/codinggarden)
 #### Links:
 - [Twitter](https://twitter.com/coding_garden)
-- [GitHub](https://github.com/w3cj)
-- [Website](https://w3cj.sh/)
+- [GitHub](https://github.com/CodingGarden)
+- [Youtube](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
+- [Website](https://coding.garden)
 
 [(top)](#table-of-contents)
 
