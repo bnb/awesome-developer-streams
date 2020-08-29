@@ -94,6 +94,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** JavaScript, Vue.js, Node.js, React, Codewars problem solving
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
+- [Code Sphagetti](#code-Sphagetti) - **streaming:** JavaScript, Next.JS, React.js, Node.js, Azure, Serverless
 
 [(top)](#table-of-contents)
 
@@ -976,6 +977,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/coryknox)
 - [GitHub](https://github.com/corbob)
 - [Website](https://knoxy.ca)
+
+[(top)](#table-of-contents)
+
+---
+### CodeSphagetti (Ayush Chauhan)
+#### What Ayush streams:
+- JavaScript, Next.JS, React.js, Node.js, Azure, Serverless
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/codeSphagetti)
+#### Links:
+- [Twitter](https://twitter.com/heyayushh)
+- [GitHub](https://github.com/heyayushh)
+- [Website](https://heyayush.live)
 
 [(top)](#table-of-contents)
 
