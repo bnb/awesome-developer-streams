@@ -42,6 +42,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 - [Al Sweigart](#al-sweigart) - **streaming:** Python
 - [Albérico Dias Barreto Filho](#albérico-dias-barreto-filho) - **streaming:** Twitch Extension Development, Streams Tools Development, Alexa Skills, IRL, JavaScript
+- [Alemayhu](#alemayhu) - **streaming:** Web Development, Imba, JavaScript
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
@@ -400,6 +401,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/bekoslove)
 - [GitHub](https://github.com/AlbericoD)
 - [Website](https://albericod.github.io/project/#/)
+
+[(top)](#table-of-contents)
+
+---
+### Alemayhu
+#### What Alemayhu streams:
+- Web Development, Imba, JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/alemayhu)
+#### Links:
+- [Twitter](https://twitter.com/AAlemayhu)
+- [GitHub](https://github.com/aalemayhu)
+- [Website](https://alemayhu.com)
 
 [(top)](#table-of-contents)
 
