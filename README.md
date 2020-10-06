@@ -2623,6 +2623,19 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 [(top)](#table-of-contents)
 
 ---
+### Robin Thomas
+#### What Robin Pokorny streams:
+- FOSS, JavaScript Frameworks, Linux, Arduino, Raspberry Pi
+#### Streaming on:
+- [YouTube](https://www.youtube.com/c/JumpStarts)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [LinkTree](https://bit.ly/JS-links)
+
+[(top)](#table-of-contents)
+
+---
 ### Rúben Gomes
 #### What Rúben streams:
 - Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
