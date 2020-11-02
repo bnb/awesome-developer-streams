@@ -38,6 +38,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## A
+
+- [Aaron Schlesiner](#aaron-schlesinger) - **streaming** Go/Golang, Python, Javascript, Kubernetes, Helm, Cloud Native
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, Full Stack Development, Game Development
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 - [Al Sweigart](#al-sweigart) - **streaming:** Python
@@ -123,6 +125,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Emanuele Bartolesi](#emanuele-bartolesi) - **streaming:** C#, .NET Core, ASP.NET, OSS, GitHub, Pair Programming
 - [Eralp Karaduman](#eralp-karaduman) - **streaming:** iOS, Swift, Flutter, Dart, React Native, React, TypeScript, JavaScript, C#, Unity3D, Pixel Art, Aseprite
+- [Erik St. Martin](#erik-st-martin) - **streaming** Rust, Go/Golang, Video Encoding, Kubernetes
 - [Eser Ozvataf](#eser-ozvataf) - **streaming:** JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
 
 [(top)](#table-of-contents)
@@ -351,6 +354,16 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ----
 # Developers That Stream
+
+### Arschles
+#### What Aaron streams:
+- Go/Golang, Python, Javascript, Kubernetes, Helm, Cloud Native
+#### Streaming on:
+- [Twitch](https://twitch.tv/arschles)
+#### Links:
+- [Twitter](https://twitter.com/arschles)
+- [GitHub](https://github.com/arschles)
+- [Website](https://arschles.com)
 
 ### Adam13531
 #### What Adam streams:
@@ -1268,6 +1281,17 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/eralpkaraduman)
 - [Website](https://eralpkaraduman.com)
 - [Youtube](https://youtube.com/user/eralpkaraduman)
+
+### Erik St. Martin
+#### What Erik streams:
+- Rust, Go/Golang, Video Encoding, Kubernetes, Helm, Cloud Native
+#### Streaming on:
+- [Twitch](https://twitch.tv/erikdotdev)
+#### Links:
+- [Twitter](https://twitter.com/erikstmartin)
+- [GitHub](https://github.com/erikstmartin)
+- [Website](https://erik.dev/)
+
 
 [(top)](#table-of-contents)
 
