@@ -270,6 +270,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Randall Hunt](#randall-hunt) - **streaming:** AWS, Web Development, Hardware Hacking, Python, Serverless, AI
 - [Ricardo Tavares](#ricardo-tavares) - **streaming** Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Robin Pokorny](#robin-pokorny) - **streaming:** JavaScript, Functional Programming, Node.js
+- [Robin Thomas](#teknicus) - **streaming:** FOSS, JavaScript Frameworks, Linux, Arduino, Raspberry Pi
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Russell Hay](#russell-hay) - **streaming:** Rust, Functional Programming, Hardware, Generative Art
 - [Ryan Warner](#ryan-warner) - **streaming:** Web design and development, JavaScript, Gatsby, React, Firebase, Node, CSS, UI/UX Design
@@ -2618,6 +2619,19 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [GitHub](https://github.com/robinpokorny)
 - [Website](https://robinpokorny.com/)
 - [YouTube](https://www.youtube.com/c/robinpokorny)
+
+[(top)](#table-of-contents)
+
+---
+### Robin Thomas
+#### What Robin Pokorny streams:
+- FOSS, JavaScript Frameworks, Linux, Arduino, Raspberry Pi
+#### Streaming on:
+- [YouTube](https://www.youtube.com/c/JumpStarts)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [LinkTree](https://bit.ly/JS-links)
 
 [(top)](#table-of-contents)
 
