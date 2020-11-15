@@ -220,6 +220,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects
 - [Lucas Montano](#lucas-montano) - **streaming:** - Android, Node.js, Twitch extensions, Typescript, Open Source, Flutter, React.
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
+- [Lazar Nikolov](#lazar-nikolov) - **streaming:** JavaScript, TypeScript, Blitz JS, Next JS, Chakra UI
 
 [(top)](#table-of-contents)
 
@@ -2144,6 +2145,18 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/lukego)
 - [GitHub](https://github.com/lukego)
 - [Website](http://www.lukego.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Lazar Nikolov
+#### What Lazar streams:
+- JavaScript, TypeScript, Blitz JS, Next JS, Chakra UI
+#### Streaming on:
+- [Twitch](https://twitch.tv/nikolovlazar)
+#### Links:
+- [Twitter](https://twitter.com/nikolovlazar)
+- [Website](https://www.nikolovlazar.com/)
 
 [(top)](#table-of-contents)
 
