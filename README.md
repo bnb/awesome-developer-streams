@@ -117,7 +117,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [DJ Adams](#dj-adams) - **streaming:** SAP development topics, including Node.js, the SAP Cloud Platform, CAP, Cloud Foundry and more
 - [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
-- [Dylan Beattie](#dylanbeattie) - **streaming**: C#, .NET, JavaScript, Rockstar, SonicPi, live music
+- [Dylan Beattie](#dylan-beattie) - **streaming**: C#, .NET, JavaScript, Rockstar, SonicPi, live music
 
 [(top)](#table-of-contents)
 
