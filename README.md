@@ -117,6 +117,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [DJ Adams](#dj-adams) - **streaming:** SAP development topics, including Node.js, the SAP Cloud Platform, CAP, Cloud Foundry and more
 - [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
+- [Dylan Beattie](#dylan-beattie) - **streaming**: C#, .NET, JavaScript, Rockstar, SonicPi, live music
 
 [(top)](#table-of-contents)
 
@@ -1229,6 +1230,20 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Game Jolt](https://gamejolt.com/@Ink/games)
 - [Facebook](www.facebook.com/DrunkDevs)
 - [Website](http://www.drunkdevs.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Dylan Beattie
+#### What Dylan Beattie streams:
+- C#, .NET, JavaScript, Rockstar, Sonic Pi, music, SQL
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/dylanbeattie)
+#### Links:
+- [Facebook](https://facebook.com/dylanbeattie)
+- [Twitter](https://twitter.com/dylanbeattie)
+- [Website](https://dylanbeattie.net/)
+- [YouTube](https://youtube.com/dylanbeattie/)
 
 [(top)](#table-of-contents)
 
