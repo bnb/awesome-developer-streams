@@ -65,6 +65,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Beachcasts](#beachcasts) - **streaming:**: Web Development with PHP, Python, and adjecent technologies. Also, AWS and Nexmo/Vonage content.
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
 - [Benjamin Lannon](#benjamin-lannon) - **streaming:** Javascript, GitHub Actions, Gatsby, React
+- [Binary Solo](#binary-solo) - **streaming** Game Development, C++
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
 - [Brad Garropy](#brad-garropy) - **streaming:** JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
@@ -647,6 +648,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/lannonbr)
 - [GitHub](https://github.com/lannonbr)
 - [Website](https://lannonbr.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Binary Solo
+#### What Binary Solo streams:
+- Game Development, C++
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/binarysologames)
+#### Links:
+- [Twitter](https://twitter.com/binarysologames)
+- [Facebook](https://facebook.com/binarysologames)
+- [Website](http://www.binarysolo.com/)
 
 [(top)](#table-of-contents)
 
