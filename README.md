@@ -215,12 +215,12 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## L
 - [Layla Porter](#layla-porter) - **streaming:** C#, Javascript, .NET Core, ASP.NET Core, Azure, Twilio
+- [Lazar Nikolov](#lazar-nikolov) - **streaming:** JavaScript, TypeScript, Blitz JS, Next JS, Chakra UI
 - [Leomendesm](#leomendesm) - **streaming** Javascript, Web Development, React, Elixir
 - [Liz Phillips (Illuminated Space)](#liz-phillips-illuminated-space) - **streaming:** JavaScript, Gatsby, React, Web Development, Data Structures, Playing Video Games
 - [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects
 - [Lucas Montano](#lucas-montano) - **streaming:** - Android, Node.js, Twitch extensions, Typescript, Open Source, Flutter, React.
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
-- [Lazar Nikolov](#lazar-nikolov) - **streaming:** JavaScript, TypeScript, Blitz JS, Next JS, Chakra UI
 
 [(top)](#table-of-contents)
 
@@ -2077,6 +2077,18 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 [(top)](#table-of-contents)
 
 ---
+### Lazar Nikolov
+#### What Lazar streams:
+- JavaScript, TypeScript, Blitz JS, Next JS, Chakra UI
+#### Streaming on:
+- [Twitch](https://twitch.tv/nikolovlazar)
+#### Links:
+- [Twitter](https://twitter.com/nikolovlazar)
+- [Website](https://www.nikolovlazar.com/)
+
+[(top)](#table-of-contents)
+
+---
 ### Leomendesm
 #### What Leo streams:
 - Javascript, Web Development, React, Elixir
@@ -2148,19 +2160,6 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 [(top)](#table-of-contents)
 
----
-### Lazar Nikolov
-#### What Lazar streams:
-- JavaScript, TypeScript, Blitz JS, Next JS, Chakra UI
-#### Streaming on:
-- [Twitch](https://twitch.tv/nikolovlazar)
-#### Links:
-- [Twitter](https://twitter.com/nikolovlazar)
-- [Website](https://www.nikolovlazar.com/)
-
-[(top)](#table-of-contents)
-
----
 ### Marco Bruno
 #### What Mark streams:
 - Programming, Javascript, Web Development, React, CSS, HTML
