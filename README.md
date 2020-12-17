@@ -244,6 +244,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Michael Jolley](#michael-jolley-baldbeardedbuilder) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [MishManners](MishManners) - **streaming:** Game dev, Python, JavaScript, C#, programming, other random coding things (ie. AWS Deep Racer), Ruby, DevOps, GitHub
+- [mmatt](#mmatt) - **streaming:** Python, Discord bots, programming in general.
 
 [(top)](#table-of-contents)
 
@@ -2462,6 +2463,19 @@ MishManners
 - [YouTube](https://www.youtube.com/c/SerpentAI)
 - [Discord](https://discord.gg/9D5SuxH)
 - [Patreon](https://www.patreon.com/serpent_ai)
+
+[(top)](#table-of-contents)
+
+---
+### mmatt
+#### What mmatt streams:
+- Python, Discord bots, Discord.py, general programming.
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/mmattbtw)
+#### Links:
+- [GitHub](https://github.com/mmattbtw)
+- [Project Website](http://doobbot.com) + [Blog](http://doobdev.github.io)
+- [Patreon](https://www.patreon.com/doobdev)
 
 [(top)](#table-of-contents)
 
