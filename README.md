@@ -34,7 +34,11 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## Table of Contents
 
-[A](#A) - [B](#B) - [C](#C) - [D](#D) - [E](#E) - [F](#F) - [G](#G) - [H](#H) - [I](#I) - [J](#J) - [K](#K) - [L](#L) - [M](#M) - [N](#N) - [O](#O) - [P](#P) - [R](#R) - [S](#S) - [T](#T) - [U](#U) - [V](#V) - [W](#W) - [X](#X) - [Y](#Y) - [Z](#Z)
+[#](#Numbers) - [A](#A) - [B](#B) - [C](#C) - [D](#D) - [E](#E) - [F](#F) - [G](#G) - [H](#H) - [I](#I) - [J](#J) - [K](#K) - [L](#L) - [M](#M) - [N](#N) - [O](#O) - [P](#P) - [R](#R) - [S](#S) - [T](#T) - [U](#U) - [V](#V) - [W](#W) - [X](#X) - [Y](#Y) - [Z](#Z)
+
+---
+## Numbers
+- [The 6 Figure Developer](#john-callaway) - **streaming** Podcast by [John Callway](#john-callaway), [Clayton Hunt](#clayton-hunt) and [Jon Ash](#jon-ash), .NET, C#, Blazor
 
 ---
 ## A
@@ -360,6 +364,18 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ----
 # Developers That Stream
 
+### The 6 Figure Developer
+#### What The 6 Figure Developer streams:
+- The 6 Figure Developer podcast is a podcast by [John Callway](#john-callaway), [Clayton Hunt](#clayton-hunt) and [Jon Ash](#jon-ash) and in addition to streaming coding with .NET, C# and Blazor, they freqently stream their interviews with notable .NET advocates.
+#### Links:
+- [Twitch](https://twitch.tv/6figuredev)
+Presenters:-
+- [John Callway](#john-callaway)
+- [Clayton Hunt](#clayton-hunt)
+- [Jon Ash](#jon-ash)
+
+---
+
 ### Arschles
 #### What Aaron streams:
 - Go/Golang, Python, Javascript, Kubernetes, Helm, Cloud Native
@@ -370,6 +386,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/arschles)
 - [Website](https://arschles.com)
 
+[(top)](#table-of-contents)
+
+---
 ### Adam13531
 #### What Adam streams:
 - Node.js, JavaScript, React, Full Stack Development, Game Development
@@ -931,6 +950,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/cdaringe)
 - [Website](https://cdaringe.com)
 - [YouTube](https://www.youtube.com/cdaringe)
+
+[(top)](#table-of-contents)
+
+---
+### Clayton Hunt
+#### What Clayton streams:
+- Podcast, Blazor, Test-Driven Development, Clean Code, Open Source projects
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/6figuredev)
+#### Links:
+- [Twitter](https://twitter.com/ClaytonHunt_104)
+- [GitHub](https://github.com/ClaytonHunt)
+- [Website](https://6figuredev.com/)
+
+[(top)](#table-of-contents)
 
 ---
 ### Codebase Alpha (Essenbee)
@@ -1849,6 +1883,32 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/joebew42)
 - [GitHub](https://github.com/joebew42)
 - [Website](https://joebew42.github.io/twitch/)
+
+[(top)](#table-of-contents)
+
+---
+### John Callaway
+#### What John streams:
+- Podcast, Test-Driven Development, Clean Code, Open Source projects
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/6figuredev)
+#### Links:
+- [Twitter](https://twitter.com/matsubonsai)
+- [GitHub](https://github.com/ovation22)
+- [Website](https://6figuredev.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Jon Ash
+#### What Jon streams:
+- Podcast, Kubernetes, Blazor, Test-Driven Development, Clean Code, Open Source projects
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/6figuredev)
+#### Links:
+- [Twitter](https://twitter.com/ashjonm)
+- [GitHub](https://github.com/ashjonm)
+- [Website](https://6figuredev.com/)
 
 [(top)](#table-of-contents)
 
