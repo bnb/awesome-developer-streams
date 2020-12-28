@@ -333,6 +333,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## V
+- [Velopman](#velopman) - **streaming:** Game development, Godot
 - [Vogue and Code (April Speight)](#vogue-and-code-april-speight) - **streaming:** Mixed Reality Toolkit, Mixed Reality, Virtual Reality, Augmented Reality, Basic programming concepts
 
 [(top)](#table-of-contents)
@@ -3218,6 +3219,21 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 #### Links:
 - [Twitter](https://twitter.com/csell5)
 - [GitHub](https://github.com/hellounspecified)
+
+[(top)](#table-of-contents)
+
+---
+### Velopman
+#### What Velopman streams:
+- Game development, Godot
+#### Languages Spoken During Stream
+- English
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/velopman)
+#### Links:
+- [Twitter](https://twitter.com/velopman)
+- [GitHub](https://github.com/velopman)
+- [YouTube](https://www.youtube.com/channel/UCxaLVTBMdTZBZsQYCK4MKEg)
 
 [(top)](#table-of-contents)
 
