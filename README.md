@@ -217,6 +217,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## L
 - [Layla Porter](#layla-porter) - **streaming:** C#, Javascript, .NET Core, ASP.NET Core, Azure, Twilio
+- [Lazar Nikolov](#lazar-nikolov) - **streaming:** JavaScript, TypeScript, Blitz JS, Next JS, Chakra UI
 - [Leomendesm](#leomendesm) - **streaming** Javascript, Web Development, React, Elixir
 - [Liz Phillips (Illuminated Space)](#liz-phillips-illuminated-space) - **streaming:** JavaScript, Gatsby, React, Web Development, Data Structures, Playing Video Games
 - [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects
@@ -2101,6 +2102,18 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 #### Links:
 - [Twitter](https://twitter.com/laylacodesit)
 - [GitHub](https://github.com/laylacodesit)
+
+[(top)](#table-of-contents)
+
+---
+### Lazar Nikolov
+#### What Lazar streams:
+- JavaScript, TypeScript, Blitz JS, Next JS, Chakra UI
+#### Streaming on:
+- [Twitch](https://twitch.tv/nikolovlazar)
+#### Links:
+- [Twitter](https://twitter.com/nikolovlazar)
+- [Website](https://www.nikolovlazar.com/)
 
 [(top)](#table-of-contents)
 
