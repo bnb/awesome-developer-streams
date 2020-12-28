@@ -38,7 +38,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## Numbers
-- [The 6 Figure Developer](#john-callaway) - **streaming** Podcast, .NET, C#, Blazor
+- [The 6 Figure Developer](#john-callaway) - **streaming** Podcast by [John Callway](#john-callaway), [Clayton Hunt](#clayton-hunt) and [Jon Ash](#jon-ash), .NET, C#, Blazor
 
 ---
 ## A
@@ -358,6 +358,18 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ----
 # Developers That Stream
+
+### The 6 Figure Developer
+#### What The 6 Figure Developer streams:
+- The 6 Figure Developer podcast is a podcast by [John Callway](#john-callaway), [Clayton Hunt](#clayton-hunt) and [Jon Ash](#jon-ash) and in addition to streaming coding with .NET, C# and Blazor, they freqently stream their interviews with notable .NET advocates.
+#### Links:
+- [Twitch](https://twitch.tv/6figuredev)
+Presenters:-
+- [John Callway](#john-callaway)
+- [Clayton Hunt](#clayton-hunt)
+- [Jon Ash](#jon-ash)
+
+---
 
 ### Arschles
 #### What Aaron streams:
