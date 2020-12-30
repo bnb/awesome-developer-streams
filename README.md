@@ -175,6 +175,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## I
 - [Ian Lovett](#ian-lovett) - **streaming:** JavaScript, React, Redux, Node.js, Express, ElasticSearch, CryptoCurrency Apps, Gaming
 - [iDevelopThings](#idevelopthings) - **streaming:** PHP, JavaScript, Node.js, Full stack development, Web Development
+- [incompetent_ian](#incompetent_ian) - **streaming:**: Python, JavaScript, React, FastAPI, Full Stack Development, Web Development
 
 [(top)](#table-of-contents)
 
@@ -1712,6 +1713,21 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/idevelopthings)
 - [YouTube](https://youtube.com/idevelopthings)
+
+[(top)](#table-of-contents)
+
+---
+### incompetent_ian
+#### What incompetent_ian streams:
+- Python, JavaScript, React, FastAPI, Full Stack Development, Web Development
+#### Languages Spoken During Stream
+- English
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/incompetent_ian)
+#### Links:
+- [Twitter](https://twitter.com/ianrufus)
+- [GitHub](https://github.com/ianrufus)
+- [YouTube](https://www.youtube.com/channel/UCmRJyLjnQ035ng6XP295zXg)
 
 [(top)](#table-of-contents)
 
