@@ -95,6 +95,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [ChaelCodes](#chaelcodes) - **streaming** React, Ruby on Rails, Coding Games
 - [Chiroptical](#chiroptical) - **streaming** Haskell, Elm
 - [Chris Dieringer (cdaringe)](#chris-dieringer-cdaringe) - **streaming** OCaml, Typescript, React, Node
+- [Chrissy Lemaire](#Chrissy Lemaire) - **streaming:** PowerShell, SQL
 - [Corey Weathers](#corey-weathers) - **streaming:** C#, .NET Core, ASP.NET Core, Azure, Twilio, Hackerrank, Codewars, TwilioQuest
 - [Codebase Alpha (essenbee)](#codebase-alpha-essenbee) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
@@ -951,6 +952,18 @@ Presenters:-
 - [GitHub](https://github.com/cdaringe)
 - [Website](https://cdaringe.com)
 - [YouTube](https://www.youtube.com/cdaringe)
+
+[(top)](#table-of-contents)
+
+---
+### Chrissy Lemaire
+#### What Chrisy Lemaire streams:
+- PowerShell, SQL
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/potatoqualitee)
+#### Links:
+- [Twitter](https://twitter.com/cl)
+- [GitHub](https://github.com/potatoqualitee)
 
 [(top)](#table-of-contents)
 
