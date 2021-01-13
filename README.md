@@ -957,7 +957,7 @@ Presenters:-
 
 ---
 ### Chrissy Lemaire
-#### What Chrisy Lemaire streams:
+#### What Chrissy Lemaire streams:
 - PowerShell, SQL
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/potatoqualitee)
