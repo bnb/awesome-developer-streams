@@ -1240,17 +1240,18 @@ Presenters:-
 
 ### DJ Adams
 #### What DJ Adams streams:
-- SAP development topics, including Node.js, the SAP Cloud Platform, CAP, Cloud Foundry and more
+- SAP development - including integration and extension topics on SAP Business Technology Platform
 #### Streaming on:
 - [YouTube](https://youtube.com/djadams-qmacro)
 #### Languages Spoken During Stream
 - English
 #### Links:
+- [SAP Community](https://people.sap.com/dj.adams.sap)
 - [Twitter](https://twitter.com/qmacro)
 - [GitHub](https://github.com/qmacro)
 - [YouTube](https://youtube.com/djadams-qmacro)
-- [Homepage](https://qmacro.org)
-- [SAP Community](https://people.sap.com/dj.adams.sap)
+- [Homepage & main blog](https://qmacro.org)
+- [Autodidactics blog](https://qmacro.org/autodidactics/)
 
 [(top)](#table-of-contents)
 
