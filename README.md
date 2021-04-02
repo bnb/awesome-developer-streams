@@ -2561,7 +2561,7 @@ MishManners
 #### What mmatt streams:
 - Python, Discord bots, Discord.py, general programming.
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/mmattbtw)
+- [Twitch](https://www.twitch.tv/mmatt625)
 #### Links:
 - [GitHub](https://github.com/mmattbtw)
 - [Project Website](http://doobbot.com) + [Blog](http://doobdev.github.io)
