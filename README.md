@@ -119,7 +119,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [DevChatter](#DevChatter) - **streaming:** C#, .NET, .NET Core, ASP.NET, ASP.NET Core, Pair Programming
 - [Developers Garage](#developers-garage) - **streaming:** C#, JavaScript, TypeScript, .NET Core, ASP.NET Core, OSS, Xamarin
 - [Dillon Pentz](#dillon-pentz-dillonea) - **streaming:** OBS Development using C++. Also streams Python and JavaScript
-- [DJ Adams](#dj-adams) - **streaming:** SAP development topics, including Node.js, the SAP Cloud Platform, CAP, Cloud Foundry and more
+- [DJ Adams](#dj-adams) - **streaming:** SAP development - including integration and extension topics on SAP Business Technology Platform
 - [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
 - [Dylan Beattie](#dylan-beattie) - **streaming**: C#, .NET, JavaScript, Rockstar, SonicPi, live music
@@ -1240,17 +1240,18 @@ Presenters:-
 
 ### DJ Adams
 #### What DJ Adams streams:
-- SAP development topics, including Node.js, the SAP Cloud Platform, CAP, Cloud Foundry and more
+- SAP development - including integration and extension topics on SAP Business Technology Platform
 #### Streaming on:
 - [YouTube](https://youtube.com/djadams-qmacro)
 #### Languages Spoken During Stream
 - English
 #### Links:
+- [SAP Community](https://people.sap.com/dj.adams.sap)
 - [Twitter](https://twitter.com/qmacro)
 - [GitHub](https://github.com/qmacro)
 - [YouTube](https://youtube.com/djadams-qmacro)
-- [Homepage](https://qmacro.org)
-- [SAP Community](https://people.sap.com/dj.adams.sap)
+- [Homepage & main blog](https://qmacro.org)
+- [Autodidactics blog](https://qmacro.org/autodidactics/)
 
 [(top)](#table-of-contents)
 
