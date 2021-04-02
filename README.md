@@ -76,6 +76,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Brent Schooley (Chef Brent)](#brent-schooley-chef-brent) - **streaming:** Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
 - [Brent Ozar](#brent-ozar) - **streaming:** SQL Server, SQL Server optimisation and performance, Database concepts and best practices
 - [Brian Clark (Clarkio)](#brian-clark-clarkio) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
+- [Brian Douglas](#brian-douglas-bdougie) - **streaming:** Open Source, Node.js, Jamstack, React, Design Systems.
 - [Brian Lagunas](#brian-lagunas) - **streaming:** Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things.
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [britocoding](#britocoding) - **streaming:** Node.js, JavaScript, TypeScript, React, ReactJS, Web Development
@@ -770,6 +771,23 @@ Presenters:-
 - [YouTube](https://www.youtube.com/channel/UCID02LhTNYYhWbok3zyggOw)
 - [Instagram](https://www.instagram.com/_clarkio/)
 - [Website](https://www.clarkio.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Brian Douglas (bdougie)
+#### What Brian streams:
+- Open Source, Node.js, Jamstack, React, Design Systems.
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/bdougieyo)
+- [YouTube](https://www.youtube.com/ilikerobot)
+
+#### Links:
+- [Twitter](https://twitter.com/bdougieyo)
+- [GitHub](https://github.com/bdougie)
+- [YouTube](https://www.youtube.com/ilikerobot)
+- [Instagram](https://www.instagram.com/bdougieyo/)
+- [Website](https://www.bdougie.live/)
 
 [(top)](#table-of-contents)
 
