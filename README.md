@@ -327,6 +327,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
 - [Tim Yuen](#tim-yuen) - **streaming:** Game development, Godot, Rust, Music Composition
 - [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
+- [Tracy and Matt](#tracy-and-matt) - **streaming:** Node.js, Javascript, Python, Golang, Ruby, Twitch Extensions, Twitch Apps, Twitch Chat Bots, Game Mods, Machine Learning, Serverless, Open Source
 - [Trezy](#trezy) **streaming:** JavaScript, Node.js, React.js, Next.js, Game Development, Web Development
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
 - [TutorExilius](#TutorExilius) - **streaming:** C++, Python, Java, JavaScript, PHP
@@ -3268,6 +3269,23 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Twitter](https://twitter.com/fakefirefly)
 - [Github](https://github.com/you-win)
 - [Website](https://timothyyuen.io/)
+
+---
+### Tracy and Matt
+#### What Tracy and Matt stream:
+- Node.js, Javascript, Python, Golang, Ruby, Twitch Extensions, Twitch Apps, Twitch Chat Bots, Game Mods, Machine Learning, Serverless, Open Source
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/tracy_and_matt/)
+#### Links:
+- [Website](https://tracyandmatt.live/)
+- [Discord](https://discord.com/invite/JBg9t7RDha)
+- [YouTube](https://www.youtube.com/channel/UC3BuD4BpH05HFVP8u-1a6fQ)
+- [Twitter](https://twitter.com/tracy_and_matt)
+- [GitHub](https://github.com/tracy-and-matt)
+- [Repl.it](https://replit.com/@TracyAndMatt)
+- [Reddit](https://www.reddit.com/user/tracy_and_matt)
+
+[(top)](#table-of-contents)
 
 ---
 ### Trezy
