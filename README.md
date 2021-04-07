@@ -348,6 +348,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## W
+- [whitep4nth3r](#whitep4nth3r) - **streaming:** JavaScript, TypeScript, HTML, CSS/Sass, React, Angular, Svelte, Next.js, NodeJS
 - [WindybeardGames](#windybeardgames) - **streaming:** ClickTeam Fusion, PhotoShop, Spine, Game Art
 
 [(top)](#table-of-contents)
@@ -3371,6 +3372,21 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Twitter](https://twitter.com/VogueandCode)
 - [GitHub](http://github.com/aprilspeight)
 - [Website](http://www.vogueandcode.com/)
+
+[(top)](#table-of-contents)
+
+---
+### whitep4nth3r
+#### What whitep4nth3r streams:
+- JavaScript, TypeScript, HTML, CSS/Sass, React, Angular, Svelte, Next.js, NodeJS
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/whitep4nth3r)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [GitHub](https://github.com/whitep4nth3r)
+- [Twitter](https://twitter.com/whitep4nth3r)
+- [Website](https://whitep4nth3r.com/)
 
 [(top)](#table-of-contents)
 
