@@ -73,7 +73,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
 - [Brad Garropy](#brad-garropy) - **streaming:** JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
-- [Brent Schooley (Chef Brent)](#brent-schooley-chef-brent) - **streaming:** Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
+- [Brent Schooley (HeccBrent)](#brent-schooley-heccbrent) - **streaming:** Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
 - [Brent Ozar](#brent-ozar) - **streaming:** SQL Server, SQL Server optimisation and performance, Database concepts and best practices
 - [Brian Clark (Clarkio)](#brian-clark-clarkio) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
 - [Brian Douglas](#brian-douglas-bdougie) - **streaming:** Open Source, Node.js, Jamstack, React, Design Systems.
@@ -734,16 +734,16 @@ Presenters:-
 [(top)](#table-of-contents)
 
 ---
-### Brent Schooley (Chef Brent)
+### Brent Schooley (HeccBrent)
 #### What Brent Schooley streams:
 - Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
 #### Streaming on:
-- [Twitch](https://twitch.tv/chefbrent)
+- [Twitch](https://twitch.tv/heccbrent)
 #### Links:
-- [Twitter:Brent Schooley](https://twitter.com/brentschooley) or [Twitter:ChefBrent](https://twitter.com/chefbrenttv)
-- [GitHub](https://github.com/chefbrent)
-- [YouTube:Twilio](https://www.youtube.com/twilio) or [YouTube:ChefBrent](https://www.youtube.com/chefbrenttv)
-- [Instagram](https://www.instagram.com/chefbrenttv/)
+- [Twitter:Brent Schooley](https://twitter.com/brentschooley) or [Twitter:HeccBrent](https://twitter.com/heccbrent)
+- [GitHub](https://github.com/brentschooley)
+- [YouTube:Twilio](https://www.youtube.com/twilio) or [YouTube:HeccBrent](https://www.youtube.com/heccbrent)
+- [Instagram](https://www.instagram.com/heccbrent/)
 
 [(top)](#table-of-contents)
 
