@@ -235,7 +235,6 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## M
-- [Marco Bruno](#marco-bruno) - **streaming** Programming, Javascript, Web Development, React, CSS, HTML
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Mark Mandel](#mark-mandel) - **streaming** Game Development, Kubernetes, Go, OSS
 - [Marko Pavlovic](#marko-pavlovic) - **streaming** Python, C++, C#, Game Development, Android, OSS
@@ -2298,23 +2297,6 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/lukego)
 - [GitHub](https://github.com/lukego)
 - [Website](http://www.lukego.com/)
-
-[(top)](#table-of-contents)
-
----
-### Marco Bruno
-#### What Mark streams:
-- Programming, Javascript, Web Development, React, CSS, HTML
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/marcobrunobr/)
-- [YouTube](https://www.youtube.com/c/collabcode)
-#### Languages Spoken During Stream
-- Portuguese
-#### Links:
-- [Twitter](https://twitter.com/marcobrunobr)
-- [GitHub](https://github.com/marcobrunobr)
-- [LinkedIn](https://www.linkedin.com/in/marcobrunobr/)
-- [Blog](https://medium.com/collabcode)
 
 [(top)](#table-of-contents)
 
