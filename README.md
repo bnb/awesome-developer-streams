@@ -237,7 +237,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## M
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Mark Mandel](#mark-mandel) - **streaming** Game Development, Kubernetes, Go, OSS
-- [Mark Rendle](#mark-rendle) - **streaming** C#, Blazor, MAUI, .NET 6, beginner lessons
+- [Mark Rendle](#mark-rendle) - **streaming** C#, Blazor, MAUI, .NET Previews, beginner lessons
 - [Marko Pavlovic](#marko-pavlovic) - **streaming** Python, C++, C#, Game Development, Android, OSS
 - [Masood Sadri](#masood-sadri) - **streaming:** Web Development, JavaScript, Node.js, React
 - [Matt Cowley](#matt-cowley) - **streaming** Maintaing Open Source Projects, Node.js, JavaScript, CSS, HTML, Vue, Web Development
