@@ -350,6 +350,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## W
 - [whitep4nth3r](#whitep4nth3r) - **streaming:** JavaScript, TypeScript, HTML, CSS/Sass, React, Angular, Svelte, Next.js, NodeJS
 - [WindybeardGames](#windybeardgames) - **streaming:** ClickTeam Fusion, PhotoShop, Spine, Game Art
+- [Shawn Wildermuth](#shawnwildermuth) - **streaming:** JavaScript, TypeScript, Vue, Vite, TailwindCSS, ASP.NET Core, and VSCode
 
 [(top)](#table-of-contents)
 
@@ -3404,6 +3405,20 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Patreon](https://www.patreon.com/Windybeardgames)
 - [Twitter](https://twitter.com/WindybeardGames)
 - [Website](http://windybeard.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Shawn Wildermuth
+#### What Shawn streams:
+- Vue, TailwindCSS, Web Development, ASP.NET Core: Using Visual Studio/Code
+#### Languages Spoken During Stream
+- English
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/shawnwildermuth)
+#### Links:
+- [Twitter](https://twitter.com/shawnwildermuth)
+- [Website](http://wildermuth.com/)
 
 [(top)](#table-of-contents)
 
