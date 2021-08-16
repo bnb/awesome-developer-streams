@@ -237,6 +237,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## M
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Mark Mandel](#mark-mandel) - **streaming** Game Development, Kubernetes, Go, OSS
+- [Mark Rendle](#mark-rendle) - **streaming** C#, Blazor, MAUI, .NET Previews, beginner lessons
 - [Marko Pavlovic](#marko-pavlovic) - **streaming** Python, C++, C#, Game Development, Android, OSS
 - [Masood Sadri](#masood-sadri) - **streaming:** Web Development, JavaScript, Node.js, React
 - [Matt Cowley](#matt-cowley) - **streaming** Maintaing Open Source Projects, Node.js, JavaScript, CSS, HTML, Vue, Web Development
@@ -2332,6 +2333,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/markmandel)
 - [LinkedIn](https://www.linkedin.com/in/marksmandel/)
 - [Blog](https://www.compoundtheory.com)
+
+[(top)](#table-of-contents)
+
+---
+### Mark Rendle
+#### What Mark streams:
+- C#, Blazor, MAUI, .NET Previews, lessons for beginners
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/markrendle/)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/markrendle)
 
 [(top)](#table-of-contents)
 
