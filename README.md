@@ -413,7 +413,7 @@ Presenters:-
 #### What Adron streams:
 - Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/adronhall/)
+- [Twitch](https://www.twitch.tv/thrashingcode/)
 - [YouTube](https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ)
 #### Links:
 - [Twitter](https://twitter.com/adron)
@@ -697,7 +697,7 @@ Presenters:-
 #### What Bobby streams:
 - Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/auth0bobby)
+- [Twitch](https://www.twitch.tv/iamnotmyself)
 #### Links:
 - [Twitter](https://twitter.com/NotMyself)
 - [GitHub](https://github.com/NotMyself)
@@ -889,15 +889,14 @@ Presenters:-
 #### What Calvin streams:
 - Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development
 #### Streaming on:
-- [Twitch](https://luv2.dev/live)
+- [Twitch](https://www.twitch.tv/codingwithcalvintv)
 #### Links:
-- [YouTube](https://luv2.dev/archive)
-- [GitHub](https://luv2.dev/github)
-- [Twitter](https://luv2.dev/twitter)
-- [LinkedIn](https://luv2.dev/linkedin)
+- [YouTube](https://www.youtube.com/channel/UCeh4DkPs0xLeaoDnmsGu0Og)
+- [GitHub](https://github.com/CalvinAllen)
+- [Twitter](https://www.twitter.com/_CalvinAllen)
+- [LinkedIn](https://www.linkedin.com/in/calvin-allen/)
 - [Facebook](https://luv2.dev/facebook)
-- [Patreon](https://luv2.dev/patreon)
-- [Website](https://luv2.dev/calvin)
+- [Website](https://www.codingwithcalvin.net/)
 
 [(top)](#table-of-contents)
 
@@ -2638,10 +2637,10 @@ MishManners
 - English
 - Ninjago
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/ninjabunny9000)
+- [Twitch](https://www.twitch.tv/bun9000)
 #### Links:
 - [GitHub](https://github.com/NinjaBunny9000)
-- [Twitter](www.twitter.com/ninjabunny9000)
+- [Twitter](https://twitter.com/ninjabunny9000)
 - [Discord](https://discord.gg/UEUFAUV)
 
 [(top)](#table-of-contents)
