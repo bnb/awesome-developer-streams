@@ -269,6 +269,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## P
+- [Patrick Prémartin](#patrick-premartin) - **streaming:** Delphi, PHP, JavaScript, Desktop Development, Web Development, Game Development
 - [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
 - [Pearly_Owl](#Pearly_Owl) - **streaming:** iOS, Swift, Uni Assignments
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
@@ -2668,6 +2669,23 @@ MishManners
 #### Links:
 - [Discord](http://discord.gg/XNqfcQW)
 - [Twitter](http://twitter.com/nullpointer256)
+
+[(top)](#table-of-contents)
+
+---
+### Patrick Prémartin
+#### What Patrick Prémartin streams:
+- Delphi, PHP, JavaScript, Desktop Development, Web Development, Game Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/patrickpremartin)
+#### Links:
+- [Twitter](http://twitter.com/premartinpatric)
+- [LinkedIn](https://www.linkedin.com/in/patrickpremartin/)
+- [GitHub](https://github.com/DeveloppeurPascal)
+- [YouTube personal](https://www.youtube.com/channel/UCddEKGInVAgpQceimudBHEg)
+- [YouTube Developpeur Pascal](https://www.youtube.com/channel/UCk_LmkBB90jdEdmfF77W6qQ)
+- [Blog](https://developpeur-pascal.fr)
+- [VOD](https://serialstreameur.fr)
 
 [(top)](#table-of-contents)
 
