@@ -322,6 +322,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Talk2MeGooseman (Erik Guzman)](#Talk2MeGooseman-erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 - [Tanya Janca](#tanya-janca) - **streaming** Web Security, Azure, Cloud Security
 - [Ted M. Young](#ted-m-young) - **streaming:** Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
+- [tek256](#tek256) - **streaming:** Game Engine Development, C
 - [ThePrimeagen](#theprimeagen) - **streaming:** Golang, JavaScript, ReactJS, Memes, Amazingness.
 - [Thomas Soerensen](#thomas-soerensen) - **streaming:** Golang, PHP (Laravel), JavaScript
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
@@ -3203,6 +3204,20 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Website](https://ted.dev)
 - [Patreon](https://www.patreon.com/jitterted)
 - [GitHub](https://www.github.com/tedyoung)
+
+[(top)](#table-of-contents)
+
+---
+### tek256
+#### What tek256 streams:
+- Game Engine Development, C, Programming
+#### Streaming on:
+- [Twitch](https://twitch.tv/tek256)
+#### Links:
+- [Twitter](https://twitter.com/tek256)
+- [YouTube](https://youtube.com/tek256)
+- [Website](https://tek256.com)
+- [GitHub](https://www.github.com/tek256)
 
 [(top)](#table-of-contents)
 
