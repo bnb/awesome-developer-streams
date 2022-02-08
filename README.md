@@ -185,7 +185,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## J
 - [Jack Mott](#jack-mott) - **streaming:** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
 - [Jason Lengstorf](#jlengstorf) - **streaming:** GatsbyJS (React) development
-- [Jeff and Dom Make a Game](#jeff-and-dom-make-a-game) - **streaming**: Game development, pair programming, TypeScript/JavaScript, programming first principles, witty banter
+- [Jeff and Dom Make a Game](#jeff-and-dom-make-a-game) - **streaming**: Game development, pair programming, Unity, TypeScript/JavaScript, programming first principles, witty banter
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jeff Lindsay](#jeff-lindsay) - **streaming:** Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
 - [Jeff Panici](#jeff-panici) - **streaming:** C, C++, Assembly, C#, Rust, JavaScript, Basecode, Programming Language Development, Compiler Development, Web Development, Game Development
@@ -1793,11 +1793,11 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 
 ### Jeff and Dom Make a Game
 #### What Jeff and Dom stream:
-- Game development, pair programming, TypeScript/JavaScript, programming first principles, witty banter
+- Game development, pair programming, Unity, TypeScript/JavaScript, programming first principles, witty banter
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/jeffanddom)
+- [Twitch](https://www.twitch.tv/maingauchelive)
 #### Links:
-- [Twitter](https://twitter.com/jeffanddom)
+- [Twitter](https://twitter.com/maingauchegames)
 - [YouTube](https://www.youtube.com/channel/UCPMLP_iuTLQWxCVYFNt40WA)
 - [GitHub](https://github.com/jeffanddom)
 
