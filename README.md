@@ -244,7 +244,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Matt Groves](#matt-groves) - **streaming** Databases, Couchbase, SQL/NoSQL/SQL++, .NET, C#, ASP.NET, soldering kits, VR, podcasting
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 - [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
-- [Matthew Brandt](#matthew-brandt) - **streaming:** JavaScript, Databases, SQL, Data Analytics edutainment (education & entertainment)
+- [Matthew Brandt](#matthew-brandt-mattytwoshoes) - **streaming:** JavaScript, Databases, SQL, Data Analytics edutainment (education & entertainment)
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
 - [MechJack](#mechjack) - **streaming:** Java, JavaScript, React, Framework development, Programming in general
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
