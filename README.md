@@ -2449,7 +2449,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 ---
 ### Matthew Brandt (mattytwoshoes)
 Also known as Matty
-#### What MPJ streams:
+#### What Matty streams:
 - JavaScript, Databases, SQL, Data Analytics edutainment (education & entertainment)
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/matty_twoshoes)
