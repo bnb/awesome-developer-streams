@@ -244,6 +244,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Matt Groves](#matt-groves) - **streaming** Databases, Couchbase, SQL/NoSQL/SQL++, .NET, C#, ASP.NET, soldering kits, VR, podcasting
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 - [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
+- [Matthew Brandt](#matthew-brandt-mattytwoshoes) - **streaming:** JavaScript, Databases, SQL, Data Analytics edutainment (education & entertainment)
 - [Mattias Petter Johansson](#mattias-petter-johansson) - **streaming:** JavaScript, Node.js, Programming in general
 - [MechJack](#mechjack) - **streaming:** Java, JavaScript, React, Framework development, Programming in general
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
@@ -2442,6 +2443,27 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/mattpodwysocki)
 - [GitHub](https://github.com/mattpodwysocki)
 - [YouTube Channel](https://www.youtube.com/user/matthewpodwysocki)
+
+[(top)](#table-of-contents)
+
+---
+### Matthew Brandt (mattytwoshoes)
+Also known as Matty
+#### What Matty streams:
+- JavaScript, Databases, SQL, Data Analytics edutainment (education & entertainment)
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/matty_twoshoes)
+#### Languages Spoken During Stream
+- English
+- German (occasionally)
+- French (occasionally)
+#### Links:
+- [Website](https://mattytwo.shoes)
+- [Patreon](https://www.patreon.com/mattytwoshoes)
+- [LinkedIn](https://linkedin.com/in/mattytwoshoes)
+- [Polywork](https://www.polywork.com/mattytwoshoes)
+- [YouTube](https://www.youtube.com/c/mattytwoshoes)
+- [GitHub](https://github.com/matthewbrandt)
 
 [(top)](#table-of-contents)
 
