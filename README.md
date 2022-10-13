@@ -124,6 +124,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [DJ Adams](#dj-adams) - **streaming:** SAP development - including integration and extension topics on SAP Business Technology Platform
 - [Dmitry Figol](#dmitry-figol) - **streaming:** Network programmability, Network automation, Python, NetDevOps, DevOps
 - [DrunkDevs](#drunkdevs) - **streaming:** Game Development, Game Maker: Studio, Aseprite
+- [DwayneWritesCode](#dwaynewritescode) - **streaming:** Open source development, JavaScript, TypeScript, WordPress
 - [Dylan Beattie](#dylan-beattie) - **streaming**: C#, .NET, JavaScript, Rockstar, SonicPi, live music
 
 [(top)](#table-of-contents)
@@ -1319,6 +1320,17 @@ Presenters:-
 - [Game Jolt](https://gamejolt.com/@Ink/games)
 - [Facebook](www.facebook.com/DrunkDevs)
 - [Website](http://www.drunkdevs.com/)
+
+---
+### DwayneWritesCode
+#### What DwayneWritesCode streams:
+- Open source development, JavaScript, TypeScript, WordPress
+#### Streaming on:
+- [Twitch](https://twitch.tv/dwaynewritescode)
+#### Links:
+- [Twitter](https://twitter.com/AbolitionOf)
+- [Website](https://ilikekillnerds.com)
+- [GitHub](https://github.com/Vheissu)
 
 [(top)](#table-of-contents)
 
