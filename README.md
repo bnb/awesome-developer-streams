@@ -2786,14 +2786,14 @@ MishManners
 #### What Thor streams:
 - Game Maker Studio, Game Development, Development Advice
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/gopiratesoftware)
+- [Twitch](https://www.twitch.tv/piratesoftware)
 #### Links:
 - [Twitter](https://twitter.com/PirateSoftware)
 - [Website](http://gopiratesoftware.com)
 - [Website](http://develop.games)
 - [FAQ](http://gopiratesoftware.com/games/Heartbound/FAQ/)
 - [Reddit](https://www.reddit.com/r/Heartbound)
-- [March](http://gopiratesoftware.com/merch)
+- [March](https://piratesoftware.bigcartel.com/products)
 - [Patreon](https://www.patreon.com/PirateSoftware)
 - [YouTube](https://www.youtube.com/c/PirateSoftware)
 
