@@ -276,6 +276,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Pearly_Owl](#Pearly_Owl) - **streaming:** iOS, Swift, Uni Assignments
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
 - [Phil Nash](#Phil-Nash) - **streaming:** JavaScript, Ruby, Twilio, Open Source, Web Development
+- [Pirate Software (Jason Thor Hall)](#pirate-software-jason-thor-hall) - **streaming:** Game Maker Studio, Game Development, Development Advice
 - [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
 
 [(top)](#table-of-contents)
@@ -2777,6 +2778,24 @@ MishManners
 - [Website](https://philna.sh/)
 - [Blog](https://philna.sh/blog/)
 - [DEV](https://dev.to/philnash)
+
+[(top)](#table-of-contents)
+
+---
+### Pirate Software (Jason Thor Hall)
+#### What Thor streams:
+- Game Maker Studio, Game Development, Development Advice
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/piratesoftware)
+#### Links:
+- [Twitter](https://twitter.com/PirateSoftware)
+- [Website](http://gopiratesoftware.com)
+- [Website](http://develop.games)
+- [FAQ](http://gopiratesoftware.com/games/Heartbound/FAQ/)
+- [Reddit](https://www.reddit.com/r/Heartbound)
+- [March](https://piratesoftware.bigcartel.com/products)
+- [Patreon](https://www.patreon.com/PirateSoftware)
+- [YouTube](https://www.youtube.com/c/PirateSoftware)
 
 [(top)](#table-of-contents)
 
