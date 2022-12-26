@@ -278,6 +278,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Phil Nash](#Phil-Nash) - **streaming:** JavaScript, Ruby, Twilio, Open Source, Web Development
 - [Pirate Software (Jason Thor Hall)](#pirate-software-jason-thor-hall) - **streaming:** Game Maker Studio, Game Development, Development Advice
 - [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
+- [Plaintextnerds](#Plaintextnerds) - **streaming:** Python, C++, C#, Go, APIs, Web Development, NetCode, Networking, Startups, Open Source
 
 [(top)](#table-of-contents)
 
@@ -2808,6 +2809,21 @@ MishManners
 #### Links:
 - [Twitter](https://twitter.com/alec_dilanchian)
 - [GitHub](https://github.com/PixelogicDev)
+
+[(top)](#table-of-contents)
+
+---
+### Plaintextnerds
+#### What PixelogicDev streams:
+- Python, C++, C#, Go, APIs, Web Development, NetCode, Networking, Startups, Open Source
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/plaintextnerds)
+#### Links:
+- [Mastodon](https://hachyderm.io/@plaintextnerds)
+- [GitLab](https://gitlab.com/plaintextnerds)
+- [Blog](https://blog.plaintextnerds.com)
+- [Website](https://www.plaintextnerds.com/)
+- [Website](https://www.geoip.network/)
 
 [(top)](#table-of-contents)
 
