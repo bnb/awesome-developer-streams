@@ -2794,9 +2794,9 @@ MishManners
 - [Website](http://develop.games)
 - [FAQ](http://gopiratesoftware.com/games/Heartbound/FAQ/)
 - [Reddit](https://www.reddit.com/r/Heartbound)
-- [March](https://piratesoftware.bigcartel.com/products)
-- [Patreon](https://www.patreon.com/PirateSoftware)
-- [YouTube](https://www.youtube.com/c/PirateSoftware)
+- [Merch](https://piratesoftware.bigcartel.com/products)
+- [Ko-Fi](https://ko-fi.com/piratesoftware)
+- [YouTube](https://www.youtube.com/@PirateSoftware)
 
 [(top)](#table-of-contents)
 
