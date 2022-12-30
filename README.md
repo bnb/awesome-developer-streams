@@ -199,6 +199,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Jon Gjengset](#jon-gjengset) - **streaming:** Rust
 - [Jonatas "Jojo" Baldin](#jonatas-jojo-baldin) - **streaming:** Programming, Infrastructure, Serverless, Golang, Python, Knative, OpenFaaS, AWS, GCP, Azure
 - [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
+- [Jordan Lewis](#jordan-lewis) - **streaming:** Databases, Database Programming
 - [Jorge Cano](#jorge-cano) - **streaming:** Angular, Javascript, Programming, Web development
 - [Joseph Guadagno](#joseph-guadagno) - **streaming:** C#, .NET, ASP.NET, OSS, Azure, Ionic, and React
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
@@ -2017,6 +2018,24 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
 - [Twitter](https://twitter.com/Jonathan_Blow)
 - [Google+](https://plus.google.com/u/0/102153353283805950802)
+
+[(top)](#table-of-contents)
+
+---
+### Jordan Lewis
+#### What Jordan Lewis streams:
+- Databases, Database Programming
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/large__data__bank)
+#### Links:
+- [Youtube](https://www.youtube.com/largedatabank)
+- [Twitter](https://twitter.com/largedatabank)
+- [Discord](https://discord.com/invite/CzgHhgfzwS)
+- [Website](https://largedatabank.com/)
+- [GitHub](https://github.com/jordanlewis)
+- [Instagram](https://instagram.com/jordanthelewis/)
+- [LinkedIn](https://www.linkedin.com/in/jordanthelewis/)
+- [Email](largedatabank@gmail.com)
 
 [(top)](#table-of-contents)
 
