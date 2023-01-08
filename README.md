@@ -327,6 +327,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Tanya Janca](#tanya-janca) - **streaming** Web Security, Azure, Cloud Security
 - [Ted M. Young](#ted-m-young) - **streaming:** Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
 - [tek256](#tek256) - **streaming:** Game Engine Development, C
+- [Theo](#theo) - **streaming:** JavaScript, TypeScript, Web Development
 - [ThePrimeagen](#theprimeagen) - **streaming:** Golang, JavaScript, ReactJS, Memes, Amazingness.
 - [Thomas Soerensen](#thomas-soerensen) - **streaming:** Golang, PHP (Laravel), JavaScript
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
@@ -3287,6 +3288,20 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [YouTube](https://youtube.com/tek256)
 - [Website](https://tek256.com)
 - [GitHub](https://www.github.com/tek256)
+
+[(top)](#table-of-contents)
+
+---
+### Theo
+#### What Theo streams:
+- JavaScript, TypeScript, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/theo)
+#### Links:
+- [YouTube](https://www.youtube.com/c/theobrowne1017)
+- [Twitter](https://twitter.com/t3dotgg)
+- [Discord](https://discord.com/invite/xHdCpcPHRE)
+- [Website](https://t3.gg/)
 
 [(top)](#table-of-contents)
 
