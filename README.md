@@ -328,6 +328,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Talk2MeGooseman (Erik Guzman)](#Talk2MeGooseman-erik-guzman) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, Web Development
 - [Tanya Janca](#tanya-janca) - **streaming** Web Security, Azure, Cloud Security
 - [Ted M. Young](#ted-m-young) - **streaming:** Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
+- [TJ DeVries](#teej_dev) - **streaming:** Rust, Ruby, Nvim, Vim, Open Source, Memes
 - [tek256](#tek256) - **streaming:** Game Engine Development, C
 - [Theo](#theo) - **streaming:** JavaScript, TypeScript, Web Development
 - [ThePrimeagen](#theprimeagen) - **streaming:** Golang, JavaScript, ReactJS, Memes, Amazingness.
@@ -3309,6 +3310,20 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Website](https://ted.dev)
 - [Patreon](https://www.patreon.com/jitterted)
 - [GitHub](https://www.github.com/tedyoung)
+
+[(top)](#table-of-contents)
+
+---
+### teej_dev
+He is Neovim Core contributor, Creator of Neovim telescope plugin and contribute to many others. Lately spending most of time in Rust.
+#### What TJ DeVries (teej_dev) streams:
+- Rust, Ruby, Neovim, Vim, Open Source, Memes
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/teej_dv/)
+#### Links:
+- [Twitter](https://twitter.com/teej_dv)
+- [YouTube](https://www.youtube.com/@teej_dv)
+- [GitHub](https://github.com/tjdevries)
 
 [(top)](#table-of-contents)
 
