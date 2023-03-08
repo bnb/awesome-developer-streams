@@ -137,6 +137,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Eralp Karaduman](#eralp-karaduman) - **streaming:** iOS, Swift, Flutter, Dart, React Native, React, TypeScript, JavaScript, C#, Unity3D, Pixel Art, Aseprite
 - [Erik St. Martin](#erik-st-martin) - **streaming** Rust, Go/Golang, Video Encoding, Kubernetes
 - [Eser Ozvataf](#eser-ozvataf) - **streaming:** JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
+- [Exxjob](#exxjob) - **streaming:** Kotlin, Solidity, Crystal, Rust, Flutter, Vlang
 
 [(top)](#table-of-contents)
 
@@ -1446,6 +1447,20 @@ Presenters:-
 - [GitHub](https://github.com/eserozvataf)
 - [Website](https://eser.ozvataf.com)
 - [YouTube](https://www.youtube.com/c/EserOzvataf)
+
+[(top)](#table-of-contents)
+
+---
+
+### Exxjob
+#### What Exxjob streams:
+- Kotlin, Solidity, Crystal, Rust, Flutter, Vlang
+#### Streaming on:
+- [Twitch](https://twitch.tv/exxjob)
+#### Links:
+- [Twitter](https://twitter.com/exxjob)
+- [GitHub](https://github.com/exxjob)
+- [Website](https://exxjob.co)
 
 [(top)](#table-of-contents)
 
