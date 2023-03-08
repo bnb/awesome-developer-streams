@@ -43,7 +43,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## A
 
-- [Aaron Schlesiner](#aaron-schlesinger) - **streaming** Go/Golang, Python, Javascript, Kubernetes, Helm, Cloud Native
+- [Aaron Schlesiner](#arschles) - **streaming** Go/Golang, Python, Javascript, Kubernetes, Helm, Cloud Native
 - [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, Full Stack Development, Game Development
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 - [Al Sweigart](#al-sweigart) - **streaming:** Python
