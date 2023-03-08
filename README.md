@@ -51,6 +51,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Alemayhu](#alemayhu) - **streaming:** Web Development, Imba, JavaScript
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
+- [Amos - Fasterthanlime](#amos---fasterthanlime) - **streaming:** Rust, Web development
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
 - [Andy Li](#andy-li) - **streaming:** Haxe, Web Development, Linux packaging
 - [Angie Jones](#angie-jones) - **streaming:** Java, Web Development, Test Automation
@@ -498,6 +499,20 @@ Presenters:-
 - [GitHub](https://github.com/Amorelandra)
 - [Blog](https://amorelandra.com/blog/)
 - [Website](https://amorelandra.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Amos - Fasterthanlime
+#### What Amos streams:
+- Rust, Web Development
+#### Streaming on:
+- [Youtube](https://www.youtube.com/@fasterthanlime)
+#### Links:
+- [Twitter](https://twitter.com/fasterthanlime)
+- [GitHub](https://github.com/fasterthanlime)
+- [Patreon](https://fasterthanli.me/donate)
+- [Website](https://fasterthanli.me/)
 
 [(top)](#table-of-contents)
 
