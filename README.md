@@ -1932,14 +1932,14 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - DevOps/SRE - Chef, Docker, Kubernetes
 - Ruby programming
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/fullstacklive)
+- [Owncast (selfhosted)](https://watch.geewiz.dev)
 - [Youtube](https://www.youtube.com/channel/UCyYSXGM9OpT4VvoIcYQIYhA/live)
 #### Languages Spoken During Stream
 - English
 #### Links:
-- [Twitter](https://www.twitter.com/fullstacksensei)
+- [Mastodon](https://geekdom.social/@geewiz)
 - [Github](https://github.com/geewiz)
-- [Website](https://www.fullstacksensei.com)
+- [Website](https://www.geewiz.dev)
 
 [(top)](#table-of-contents)
 
