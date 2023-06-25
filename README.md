@@ -725,7 +725,6 @@ Presenters:-
 - [LinkedIn](https://www.linkedin.com/in/kiran-dash/)
 
 [(top)](#table-of-contents)
-- [BG Web Agency](#bg-web-agency) - **streaming:** NextJS, React, Angular, JavaScript, SASS, HTML, CSS, WordPress
 
 ---
 ### Binary Solo
