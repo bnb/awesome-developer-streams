@@ -70,6 +70,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Beachcasts](#beachcasts) - **streaming:**: Web Development with PHP, Python, and adjecent technologies. Also, AWS and Nexmo/Vonage content.
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
 - [Benjamin Lannon](#benjamin-lannon) - **streaming:** Javascript, GitHub Actions, Gatsby, React
+- [BG Web Agency](#bg-web-agency) - **streaming:** NextJS, Remix, React, Angular, JavaScript, SASS, HTML, CSS, WordPress
 - [Binary Solo](#binary-solo) - **streaming** Game Development, C++
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
 - [Brad Garropy](#brad-garropy) - **streaming:** JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
@@ -702,6 +703,26 @@ Presenters:-
 - [Twitter](https://twitter.com/lannonbr)
 - [GitHub](https://github.com/lannonbr)
 - [Website](https://lannonbr.com/)
+
+[(top)](#table-of-contents)
+
+---
+### BG Web Agency
+#### What BG Web Agency streams:
+- NextJS, Remix, React, Angular, JavaScript, SASS, HTML, CSS, WordPress
+#### Streaming on:
+- [YouTube](https://www.youtube.com/@bgwebagency)
+- [Twitch](https://www.twitch.tv/bgwebagency)
+#### Links:
+- [Twitter](https://twitter.com/kirankdash)
+- [GitHub](https://github.com/bgwebagency)
+- [Website](https://bgwebagency.in)
+- [Discord](https://discord.gg/62VR3MMCVm)
+- [YouTube](https://www.youtube.com/@bgwebagency)
+- [StackOverflow](https://stackoverflow.com/users/5010106/kiran-dash)
+- [TikTok](https://www.tiktok.com/@bgwebagency)
+- [Instagram](https://www.instagram.com/bgwebagency/)
+- [LinkedIn](https://www.linkedin.com/in/kiran-dash/)
 
 [(top)](#table-of-contents)
 
