@@ -342,6 +342,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
 - [Tracy and Matt](#tracy-and-matt) - **streaming:** Node.js, Javascript, Python, Golang, Ruby, Twitch Extensions, Twitch Apps, Twitch Chat Bots, Game Mods, Machine Learning, Serverless, Open Source
 - [Trezy](#trezy) **streaming:** JavaScript, Node.js, React.js, Next.js, Game Development, Web Development
+- [TrshPuppy](#trshpuppy) **streaming:** Security, JavaScript, Python, Go
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
 - [TutorExilius](#TutorExilius) - **streaming:** C++, Python, Java, JavaScript, PHP
 - [Tyler Leonhardt](#tyler-leonhardt) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
@@ -3515,6 +3516,21 @@ He is Neovim Core contributor, Creator of Neovim telescope plugin and contribute
 - [Discord](https://discord.gg/UCJfEVN)
 
 ---
+
+### TrshPuppy
+#### What TrshPuppy streams:
+- Security, JavaScript, Python, Go
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/trshpuppy)
+#### Links
+- [YouTube](https://www.youtube.com/channel/UC8xHnIoLYHB9QszSK6ZWStw)
+- [Github](https://github.com/TrshPuppy)
+- [Twitter](https://twitter.com/trshpuppy)
+- [Discord](https://discord.gg/b57UTQtXaa)
+
+[(top)](#table-of-contents)
+
+---
 ### Tsoding
 #### What Tsoding streams:
 - Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
@@ -3699,4 +3715,3 @@ As well as the awesome developers listed, there are a some team links and catego
 [Web Development](https://www.twitch.tv/directory/all/tags/c23ce252-cf78-4b98-8c11-8769801aaf3a)
 
 [Science & Technology](https://www.twitch.tv/directory/game/Science%20%26%20Technology)
-
