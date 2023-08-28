@@ -229,6 +229,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## L
+- [Laur Spilca](#laur-spilca) - **streaming:** Java, Spring
 - [Layla Porter](#layla-porter) - **streaming:** C#, Javascript, .NET Core, ASP.NET Core, Azure, Twilio
 - [Lazar Nikolov](#lazar-nikolov) - **streaming:** JavaScript, TypeScript, Blitz JS, Next JS, Chakra UI
 - [Leomendesm](#leomendesm) - **streaming** Javascript, Web Development, React, Elixir
@@ -2308,6 +2309,21 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/kyleshevlin)
 - [GitHub](https://github.com/kyleshevlin)
 - [Website](https://kyleshevlin.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Laur Spilca
+#### What Laur streams:
+- Java, Spring
+#### Languages Spoken During Stream
+- English
+#### Streaming on:
+- [Youtube](https://www.youtube.com/@laurspilca)
+#### Links:
+- [Twitter](https://twitter.com/laurspilca)
+- [GitHub](https://github.com/lspil)
+- [LinkedIn](https://www.linkedin.com/in/lauren%C5%A3iu-spilc%C4%83-01a931107/)
 
 [(top)](#table-of-contents)
 
