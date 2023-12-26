@@ -52,12 +52,13 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Amos - Fasterthanlime](#amos---fasterthanlime) - **streaming:** Rust, Web development
+- [Andrew Courter](#acourter) - **streaming:** Web development, Vim, TypeScript, Kotlin
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
 - [Andy Li](#andy-li) - **streaming:** Haxe, Web Development, Linux packaging
 - [Angie Jones](#angie-jones) - **streaming:** Java, Web Development, Test Automation
 - [Anthony Sottile](#anthony-sottile) - **streaming:** Python, linting, code formatting, testing, refactoring
-- [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Anton Kuzmenko](#anton-kuzmenko) - **streaming:** Go/Golang, Ruby on Rails, Node.js, JavaScript, Terraform, Docker, Kubernetes, Helm, Bash, Vim.
+- [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Ardalis - Steve Smith](#ardalis---steve-smith) - **streaming:** C#, ASP.NET Core, Clean Architecture, DDD, Design Patterns, TDD
 - [Armin Ronacher](#armin-ronacher) - **streaming:** Rust, maybe Python
 
@@ -519,6 +520,21 @@ Presenters:-
 - [GitHub](https://github.com/fasterthanlime)
 - [Patreon](https://fasterthanli.me/donate)
 - [Website](https://fasterthanli.me/)
+
+[(top)](#table-of-contents)
+
+---
+
+### Andrew Courter
+#### What Andrew streams:
+- Web development, Vim, TypeScript, Kotlin
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/exosyphon)
+#### Links:
+- [Youtube](https://www.youtube.com/@ascourter)
+- [Twitter](twitter.com/exosyphon)
+- [GitHub](https://github.com/exosyphon)
+- [Website](https://andrewcourter.com/)
 
 [(top)](#table-of-contents)
 
