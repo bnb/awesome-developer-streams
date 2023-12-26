@@ -261,6 +261,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [MishManners](MishManners) - **streaming:** Game dev, Python, JavaScript, C#, programming, other random coding things (ie. AWS Deep Racer), Ruby, DevOps, GitHub
 - [mmatt](#mmatt) - **streaming:** Python, Discord bots, programming in general.
+- [Mohamed Elsherif](#mohamed-elsherif) - **streaming:** Software Engineering topics and discussions, podcast and some times video tutorials.
 
 [(top)](#table-of-contents)
 
@@ -2739,6 +2740,28 @@ MishManners
 - [GitHub](https://github.com/mmattbtw)
 - [Project Website](http://doobbot.com) + [Blog](http://doobdev.github.io)
 - [Patreon](https://www.patreon.com/doobdev)
+
+[(top)](#table-of-contents)
+
+---
+
+### Mohamed Elsherif
+
+#### What Mohamed streams:
+
+- Software Engineering topics and discussions, podcast and some times video tutorials.
+
+#### Streaming on:
+
+- [YouTube](www.youtube.com/@bashmohandes)
+
+#### Links:
+
+- [GitHub](https://github.com/mmattbtw)
+- [Website](bashmohandes.com)
+- [Podcast](askdeveloper.com)
+- [Facebook](facebook.com/askdeveloper)
+- [Twitter](twitter.com/bashmohandes)
 
 [(top)](#table-of-contents)
 
