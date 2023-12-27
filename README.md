@@ -208,6 +208,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 - [Josh Justice](#josh-justice) - **streaming:** JavaScript, Rails, Ember, React Native
 - [Josh Kupka](#josh-kupka) - **streaming:** JavaScript, Building custom streaming service
+- [Josh Medeski](#josh-medeski) - **streaming:** Web developer teaching how to better use the terminal, neovim, tmux, macOS, and more
 - [Josh Wulf](#josh-wulf) - **streaming:** TypeScript, NestJS, Microservices, Zeebe, Minecraft programming in JS
 - [Julian Duque](#julian-duque) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 
@@ -2130,6 +2131,26 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/hawkinjs)
 - [GitHub](https://github.com/hawkins)
 - [Website](https://hawkins.is)
+
+[(top)](#table-of-contents)
+
+---
+
+### Josh Medeski
+
+#### What Josh streams:
+
+- Web developer teaching how to better use the terminal, neovim, tmux, macOS, and more
+
+#### Streaming on:
+
+- [Twitch](twitch.tv/joshmedeski)
+
+#### Links:
+
+- [GitHub](https://github.com/joshmedeski)
+- [Website](https://joshmedeski.com)
+- [YouTube](https://www.youtube.com/@JoshMedeski)
 
 [(top)](#table-of-contents)
 
