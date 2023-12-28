@@ -44,7 +44,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## A
 
 - [Aaron Schlesiner](#arschles) - **streaming** Go/Golang, Python, Javascript, Kubernetes, Helm, Cloud Native
-- [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, Full Stack Development, Game Development
+- [AdamLearnsLive](#AdamLearnsLive) - **streaming:** Node.js, JavaScript, React, Full Stack Development, Game Development
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 - [Al Sweigart](#al-sweigart) - **streaming:** Python
 - [Albérico Dias Barreto Filho](#albérico-dias-barreto-filho) - **streaming:** Twitch Extension Development, Streams Tools Development, Alexa Skills, IRL, JavaScript
@@ -410,11 +410,11 @@ Presenters:-
 [(top)](#table-of-contents)
 
 ---
-### Adam13531
+### AdamLearnsLive
 #### What Adam streams:
 - Node.js, JavaScript, React, Full Stack Development, Game Development
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/Adam13531)
+- [Twitch](https://www.twitch.tv/adamlearnslive)
 #### Links:
 - [Discord](https://discord.gg/AdamLearns)
 - [Twitter](https://twitter.com/AdamLearnsLive)
