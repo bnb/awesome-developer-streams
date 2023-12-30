@@ -175,6 +175,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [HardlyDifficult](#hardlydifficult) - **streaming:** Game Development (Unity3D, C#), C# Programming, Cryptocurrency
 - [Holden Karau](#holden-karau) - **streaming:** Scala, Python, Spark, PySpark, Open Source
 - [HowToCodeWell (Peter Fisher)](#howtocodewell-peter-fisher) - **streaming:** PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScript, HTML, CSS Full Stack
+- [Huntabyte](#huntabyte) - **streaming:** Web development
 
 [(top)](#table-of-contents)
 
@@ -1811,6 +1812,31 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 - [YouTube](https://www.youtube.com/howtocodewell)
 - [Facebook](https://www.facebook.com/howtocodewell)
 - [Instagram](http://instagram.com/howtocodewell)
+
+[(top)](#table-of-contents)
+
+---
+
+### Huntabyte
+
+#### What Huntabyte streams:
+
+Web development
+
+#### Streaming on:
+
+- [YouTube](https://www.youtube.com/@Huntabyte)
+
+#### Languages Spoken During Stream
+
+- English
+
+#### Links:
+
+- [GitHub](https://github.com/huntabyte)
+- [Twitter](https://twitter.com/huntabyte)
+- [Website](https://huntabyte.com/)
+- [Discord](discord.gg/4ywz6JhPF2)
 
 [(top)](#table-of-contents)
 
