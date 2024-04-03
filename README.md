@@ -262,7 +262,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Michael Henderson](#michael-henderson-robedcoder--leadcoder) - **streaming:** Fullstack development
 - [Michael Jolley](#michael-jolley-baldbeardedbuilder) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
-- [MishManners](MishManners) - **streaming:** Game dev, Python, JavaScript, C#, programming, other random coding things (ie. AWS Deep Racer), Ruby, DevOps, GitHub
+- [MishManners](#MishManners) - **streaming:** Game dev, Python, JavaScript, C#, programming, other random coding things (ie. AWS Deep Racer), Ruby, DevOps, GitHub
 - [mmatt](#mmatt) - **streaming:** Python, Discord bots, programming in general.
 - [Mohamed Elsherif](#mohamed-elsherif) - **streaming:** Software Engineering topics and discussions, podcast and some times video tutorials.
 
@@ -2761,8 +2761,7 @@ Also known as MPJ from Fun Fun Function
 [(top)](#table-of-contents)
 
 ---
-###
-MishManners
+### MishManners
 #### What Mish streams:
 - Hackathons, conference news, C#, Unity, Twilio Quest, JavaScript, GitHub, Python, Ruby, Machine Learning, AWS, DevOps
 #### Streaming on:
