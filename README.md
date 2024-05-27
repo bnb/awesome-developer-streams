@@ -50,7 +50,6 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Albérico Dias Barreto Filho](#albérico-dias-barreto-filho) - **streaming:** Twitch Extension Development, Streams Tools Development, Alexa Skills, IRL, JavaScript
 - [Alemayhu](#alemayhu) - **streaming:** Web Development, Imba, JavaScript
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
-- [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Amos - Fasterthanlime](#amos---fasterthanlime) - **streaming:** Rust, Web development
 - [Andrew Courter](#acourter) - **streaming:** Web development, Vim, TypeScript, Kotlin
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
@@ -491,22 +490,7 @@ Presenters:-
 #### Links:
 - [Twitter](https://twitter.com/simalexan)
 - [GitHub](https://github.com/simalexan)
-- [Website](https://effortless-serverless.com)
 - [Medium](https://medium.com/@simalexan)
-
-[(top)](#table-of-contents)
-
----
-### Amorelandra
-#### What Amorelandra streams:
-- Twitch Extension Development, IRL, JavaScript
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/Amorelandra)
-#### Links:
-- [Twitter](https://twitter.com/Amorelandra)
-- [GitHub](https://github.com/Amorelandra)
-- [Blog](https://amorelandra.com/blog/)
-- [Website](https://amorelandra.com/)
 
 [(top)](#table-of-contents)
 
@@ -618,7 +602,6 @@ Presenters:-
 - [Twitch](https://twitch.tv/solomakerlabs)
 #### Links:
 - [Twitter](https://twitter.com/solomakerlabs)
-- [Website](https://antonlabs.dev)
 - [Patreon](https://www.patreon.com/AntonLabs)
 - [Buy Anton Kuzmenko a coffee](https://www.buymeacoffee.com/antonlabs)
 - [GitHub](https://www.github.com/antonlabs)
@@ -803,15 +786,15 @@ Presenters:-
 [(top)](#table-of-contents)
 
 ---
-### Brent Schooley (HeccBrent)
+### Brent Schooley (ChefBrent)
 #### What Brent Schooley streams:
 - Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
 #### Streaming on:
-- [Twitch](https://twitch.tv/heccbrent)
+- [Twitch](https://twitch.tv/chefbrent)
 #### Links:
 - [Twitter:Brent Schooley](https://twitter.com/brentschooley) or [Twitter:HeccBrent](https://twitter.com/heccbrent)
 - [GitHub](https://github.com/brentschooley)
-- [YouTube:Twilio](https://www.youtube.com/twilio) or [YouTube:HeccBrent](https://www.youtube.com/heccbrent)
+- [YouTube:Twilio](https://www.youtube.com/twilio) or [YouTube:ChefBrent](https://www.youtube.com/chefbrent)
 - [Instagram](https://www.instagram.com/heccbrent/)
 
 [(top)](#table-of-contents)
@@ -935,8 +918,6 @@ Presenters:-
 - [Twitch](https://www.twitch.tv/moderatemelon)
 #### Links:
 - [YouTube](https://www.youtube.com/channel/UC3_483wgxDsJIJTz8nZI-uA)
-- [GitHub](https://github.com/mildmelon)
-- [Twitter](https://twitter.com/_mildmelon)
 - [Discord](https://discord.gg/CNVSePd)
 
 [(top)](#table-of-contents)
@@ -952,18 +933,16 @@ Presenters:-
 
 [(top)](#table-of-contents)
 
---
+---
 ### Calvin Allen / Coding with Calvin
 #### What Calvin streams:
 - Microsoft Azure, C#, .NET, .NET Core, DevOps, OSS Development
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/codingwithcalvintv)
+- (not currently streaming)
 #### Links:
-- [YouTube](https://www.youtube.com/channel/UCeh4DkPs0xLeaoDnmsGu0Og)
 - [GitHub](https://github.com/CalvinAllen)
 - [Twitter](https://www.twitter.com/_CalvinAllen)
 - [LinkedIn](https://www.linkedin.com/in/calvin-allen/)
-- [Facebook](https://luv2.dev/facebook)
 - [Website](https://www.codingwithcalvin.net/)
 
 [(top)](#table-of-contents)
@@ -1025,7 +1004,6 @@ Presenters:-
 - [Twitch](https://www.twitch.tv/chiroptical)
 #### Links:
 - [Twitter](https://twitter.com/BarryMooreII)
-- [GitHub](https://github.com/barrymoo)
 - [YouTube](https://www.youtube.com/channel/UCndlCtPeYygdGZ9UUKdehbw)
 
 [(top)](#table-of-contents)
@@ -1347,12 +1325,10 @@ Presenters:-
 #### Languages Spoken During Stream
 - English
 #### Links:
-- [SAP Community](https://people.sap.com/dj.adams.sap)
 - [Twitter](https://twitter.com/qmacro)
 - [GitHub](https://github.com/qmacro)
 - [YouTube](https://youtube.com/djadams-qmacro)
 - [Homepage & main blog](https://qmacro.org)
-- [Autodidactics blog](https://qmacro.org/autodidactics/)
 
 [(top)](#table-of-contents)
 
@@ -1382,8 +1358,6 @@ Presenters:-
 #### Links:
 - [Twitter](https://twitter.com/drunkdevs)
 - [Game Jolt](https://gamejolt.com/@Ink/games)
-- [Facebook](www.facebook.com/DrunkDevs)
-- [Website](http://www.drunkdevs.com/)
 
 ---
 ### DwayneWritesCode
@@ -1502,7 +1476,6 @@ Presenters:-
 #### Links:
 - [Twitter](https://twitter.com/exxjob)
 - [GitHub](https://github.com/exxjob)
-- [Website](https://exxjob.co)
 
 [(top)](#table-of-contents)
 
@@ -1564,7 +1537,6 @@ Presenters:-
 - [GitHub](https://github.com/fboucher)
 - [Website](http://frankysnotes.com/)
 - [Youtube](https://www.youtube.com/fboucheros)
-- [Youtube - FR](https://www.youtube.com/clouden5minutes)
 - [Blog - FR](http://www.cloudenfrancais.com/)
 - [Instagram](https://www.instagram.com/frankysnotes/)
 - [Patreon](https://www.patreon.com/fboucheros)
@@ -1604,21 +1576,6 @@ Presenters:-
 [(top)](#table-of-contents)
 
 ---
-### Gareth Hubball
-#### What Gareth streams:
-- F#, .NET, .NET Core, Functional Programming, Rust, Xamarin
-#### Streaming on:
-- [Twitch](https://twitch.tv/garethhubball)
-#### Languages Spoken During Stream
-- English
-#### Links:
-- [Twitter](https://twitter.com/garethhubball)
-- [GitHub](https://github.com/garethhubball)
-- [Website](https://garethhubball.com)
-
-[(top)](#table-of-contents)
-
----
 ### Gary Ewan Park
 #### What Gary streams:
 - C#, .NET, .NET Core, Cake, Chocolatey, DevOps
@@ -1647,13 +1604,12 @@ Presenters:-
 
 ---
 ### Gary Kramlich
-#### What Grim streams:
+#### What RW_Grim streams:
 - Pidgin Development, Convey Development, Open Source Development, C, Golang, Python, JavaScript, Docker, Containers
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/rw_grim)
 #### Links:
 - [Twitter](https://twitter.com/rw_grim)
-- [BitBucket](https://bitbucket.org/rw_grim)
 - [GitHub](https://github.com/grimmy)
 - [Website](https://www.reaperworld.com)
 - [Blog](https://garykramlich.blogspot.com/)
@@ -1661,7 +1617,6 @@ Presenters:-
 - [Discord](https://discord.gg/gqWBRDW)
 - [Patreon](https://www.patreon.com/rw_grim)
 - [Pidgin](https://www.pidgin.im)
-- [Convey](https://bitbucket.org/rw_grim/convey)
 
 [(top)](#table-of-contents)
 
@@ -2112,11 +2067,9 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 #### What Jonathan Blow streams:
 - Game Development, Language Developement, Jai, C++, OpenGL
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/naysayer88)
-#### Links:
 - [Youtube](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
+#### Links:
 - [Twitter](https://twitter.com/Jonathan_Blow)
-- [Google+](https://plus.google.com/u/0/102153353283805950802)
 
 [(top)](#table-of-contents)
 
