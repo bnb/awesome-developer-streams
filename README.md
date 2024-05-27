@@ -2050,19 +2050,6 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 [(top)](#table-of-contents)
 
 ---
-### Jonatas "Jojo" Baldin
-#### What Jojo streams:
-- Programming, Infrastructure, Serverless, Golang, Python, Knative, OpenFaaS, AWS, GCP, Azure
-#### Streaming on:
-- [Twitch](https://www.twitch.tv/deployeveryday)
-#### Links:
-- [Twitter](https://twitter.com/jonatasbaldin)
-- [Youtube](https://www.youtube.com/channel/UCSckSM5vayBNNTl4nKuAUPg)
-- [Blog](https://deployeveryday.com/)
-
-[(top)](#table-of-contents)
-
----
 ### Jonathan Blow
 #### What Jonathan Blow streams:
 - Game Development, Language Developement, Jai, C++, OpenGL
