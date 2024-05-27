@@ -786,7 +786,7 @@ Presenters:-
 [(top)](#table-of-contents)
 
 ---
-### Brent Schooley (ChefBrent)
+### Brent Schooley (HeccBrent)
 #### What Brent Schooley streams:
 - Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
 #### Streaming on:
