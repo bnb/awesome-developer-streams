@@ -2118,19 +2118,12 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 [(top)](#table-of-contents)
 
 ---
-
 ### Josh Medeski
-
 #### What Josh streams:
-
 - Web developer teaching how to better use the terminal, neovim, tmux, macOS, and more
-
 #### Streaming on:
-
-- [Twitch](twitch.tv/joshmedeski)
-
+- [Twitch](https://twitch.tv/joshmedeski)
 #### Links:
-
 - [GitHub](https://github.com/joshmedeski)
 - [Website](https://joshmedeski.com)
 - [YouTube](https://www.youtube.com/@JoshMedeski)
@@ -2166,7 +2159,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 
 ---
 ### Josh Wulf
-#### What Josh Wulf
+#### What Josh Wulf streams
 - TypeScript, NestJS, Microservices, Zeebe, Minecraft programming in JS
 #### Streaming on:
 - [YouTube](https://www.youtube.com/channel/UCYT0zZ9ZJnyt8cvqO7e2p-w)
