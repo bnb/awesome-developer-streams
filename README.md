@@ -134,6 +134,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## E
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
+- [Ekaterina Sychenko](#ekaterina-sychenko) -  **streaming:** JavaScript, TypeScript, React, Redux, Node.js, PostgreSQL
 - [Emanuele Bartolesi](#emanuele-bartolesi) - **streaming:** C#, .NET Core, ASP.NET, OSS, GitHub, Pair Programming
 - [Eralp Karaduman](#eralp-karaduman) - **streaming:** iOS, Swift, Flutter, Dart, React Native, React, TypeScript, JavaScript, C#, Unity3D, Pixel Art, Aseprite
 - [Erik St. Martin](#erik-st-martin) - **streaming** Rust, Go/Golang, Video Encoding, Kubernetes
