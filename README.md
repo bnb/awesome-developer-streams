@@ -1405,6 +1405,20 @@ Presenters:-
 [(top)](#table-of-contents)
 
 ---
+### Ekaterina Sychenko
+#### What Kate streams:
+-  JavaScript, TypeScript, React, Redux, Node.js, PostgreSQL
+#### Streaming on:
+- [Twitch](https://twitch.tv/duckate)
+#### Languages Spoken During Stream
+- English/Russian (primary)
+#### Links:
+- [GitHub](https://github.com/visiongirles)
+- [YouTube](https://www.youtube.com/user/duckate/videos)
+  
+[(top)](#table-of-contents)
+
+---
 ### Emanuele Bartolesi
 #### What Emanuele streams:
 - C#, .NET Core, ASP.NET, OSS, GitHub, Pair Programming
