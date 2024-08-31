@@ -99,6 +99,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Chiroptical](#chiroptical) - **streaming** Haskell, Elm
 - [Chris Dieringer (cdaringe)](#chris-dieringer-cdaringe) - **streaming** OCaml, Typescript, React, Node
 - [Chrissy Lemaire](#chrissy-lemaire) - **streaming:** PowerShell, SQL
+- [Chris Griffing (cmgriffing)](#cmgriffing) - **streaming** TypeScript, React, Astro, Rust, Go, Elixir
 - [Corey Weathers](#corey-weathers) - **streaming:** C#, .NET Core, ASP.NET Core, Azure, Twilio, Hackerrank, Codewars, TwilioQuest
 - [Codebase Alpha (essenbee)](#codebase-alpha-essenbee) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
@@ -1031,6 +1032,20 @@ Presenters:-
 #### Links:
 - [Twitter](https://twitter.com/cl)
 - [GitHub](https://github.com/potatoqualitee)
+
+[(top)](#table-of-contents)
+
+---
+### Chris Griffing (cmgriffing)
+#### What Chris streams:
+- Full-stack web development and sometimes CLI tools. Open source projects, and some SaaS startup projects.
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/cmgriffing)
+- [YouTube](https://www.youtube.com/@cmgriffing)
+#### Links:
+- [Twitter](https://twitter.com/cmgriffing)
+- [GitHub](https://github.com/cmgriffing)
+- [Website](https://chrisgriffing.com)
 
 [(top)](#table-of-contents)
 
