@@ -247,6 +247,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## M
+- [Marek Rogalski](#marek-rogalski) - **streaming:** C++, Python, Maintaing Open Source Projects, JavaScript, programming in general, Desktop Development, Web Development
 - [Mark Kraus](#mark-kraus) - **streaming:** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Mark Mandel](#mark-mandel) - **streaming:** Game Development, Kubernetes, Go, OSS
 - [Mark Rendle](#mark-rendle) - **streaming:** C#, Blazor, MAUI, .NET Previews, beginner lessons
@@ -2463,6 +2464,22 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/lukego)
 - [GitHub](https://github.com/lukego)
 - [Website](http://www.lukego.com/)
+
+[(top)](#table-of-contents)
+
+---
+### Marek Rogalski
+#### What Mark streams:
+- C++, Python, Maintaing Open Source Projects, JavaScript, programming in general, Desktop Development, Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/maf_pl)
+- [YouTube](https://www.youtube.com/@MarekRogalski)
+- [Algora](https://tv.algora.io/maf)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [GitHub](https://github.com/mafik)
+- [Twitter](https://twitter.com/mafikpl)
 
 [(top)](#table-of-contents)
 
