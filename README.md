@@ -2813,7 +2813,7 @@ Also known as MPJ from Fun Fun Function
 
 #### What MrReyRay streams:
 
-- Software Engineering topics and discussions, podcast and some times video tutorials.
+- Game Development (Bevy + Rust) , Web (React + JS) / Mobile (Java + Kotlin) App Development, Software Engineering topics and discussions.
 
 #### Streaming on:
 
