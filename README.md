@@ -268,6 +268,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [MishManners](#MishManners) - **streaming:** Game dev, Python, JavaScript, C#, programming, other random coding things (ie. AWS Deep Racer), Ruby, DevOps, GitHub
 - [mmatt](#mmatt) - **streaming:** Python, Discord bots, programming in general.
 - [Mohamed Elsherif](#mohamed-elsherif) - **streaming:** Software Engineering topics and discussions, podcast and some times video tutorials.
+- [MrReyRay](#mrreyray) - **streaming:** Game Development (Bevy + Rust) , Web (React + JS) / Mobile (Java + Kotlin) App Development, Software Engineering topics and discussions.
 
 [(top)](#table-of-contents)
 
@@ -2835,6 +2836,28 @@ Also known as MPJ from Fun Fun Function
 - [Podcast](askdeveloper.com)
 - [Facebook](facebook.com/askdeveloper)
 - [Twitter](twitter.com/bashmohandes)
+
+[(top)](#table-of-contents)
+
+---
+
+### MrReyRay
+
+#### What MrReyRay streams:
+
+- Game Development (Bevy + Rust) , Web (React + JS) / Mobile (Java + Kotlin) App Development, Software Engineering topics and discussions.
+
+#### Streaming on:
+
+- [Twitch](https://www.twitch.tv/mrreyray)
+- [Youtube](https://www.youtube.com/@MrReyRayYoutube)
+
+#### Links:
+
+- [Website](shrey.games)
+- [Play Endeavor on Steam](https://store.steampowered.com/app/3008810/Endeavor/)
+- [GitHub](https://github.com/ShreyK)
+- [BlueSky](https://bsky.app/profile/mrreyray.bsky.social)
 
 [(top)](#table-of-contents)
 
