@@ -273,6 +273,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 ## N
+- [Nathan Baggs](#nathan-baggs) - **streaming:** C++, Game development, Reverse engineering, Low level development
 - [Nicholas Brochu](#nicholas-brochu) - **streaming:** Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
 - [Nick Busey](#nick-busey) - **streaming:** PHP, NodeJS, Docker, Ansible, DevOps, React, MeteorJS and occasionally I'll brew a beer!
 - [Nicolai Parlog](#nicolai-parlog) - **streaming:** Java, occasionally JavaScript, Kotlin, or even weirder stuff
@@ -2773,6 +2774,20 @@ Also known as MPJ from Fun Fun Function
 [(top)](#table-of-contents)
 
 ---
+### Nathan Baggs
+#### What Nathan streams:
+- C++, Game development, Reverse engineering, Low level development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/nathan_baggs)
+- [YouTube](https://www.youtube.com/@nathanbaggs)
+#### Links:
+- [GitHub](https://github.com/nathan-baggs)
+- [Discord](https://discord.gg/9D5SuxH)
+- [Twitter/X](https://x.com/nathan_baggs_)
+
+[(top)](#table-of-contents)
+
+---
 ### Nicholas Brochu
 #### What Nicholas streams:
 - Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
@@ -3812,3 +3827,4 @@ As well as the awesome developers listed, there are a some team links and catego
 [Web Development](https://www.twitch.tv/directory/all/tags/c23ce252-cf78-4b98-8c11-8769801aaf3a)
 
 [Science & Technology](https://www.twitch.tv/directory/game/Science%20%26%20Technology)
+
