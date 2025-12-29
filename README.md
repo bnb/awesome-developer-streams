@@ -328,6 +328,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [SkillVid](#skillvid) - **streaming:** Javascript, Adobe Illustrator
 - [Sorskoot](#sorskoot) - **streaming:** JavaScript, Node.js, WebVR/WebAR/WebXR, Progressive web apps, IoT, Microsoft Azure
 - [Stan Daniels-Roth](#stan-daniels-roth) - **streaming:** Web Development, AdminSys, JavaScript, CSS, PHP (Laravel), 3D Printing
+- [Stevan Freeborn](#stevan-freeborn) - **streaming:** .NET, C#, React, Full Stack Development, occasional experiments with Go, Stripe API and AI agents
 - [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
 - [Swizec Teller](#swizec-teller) - **streaming:** JavaScript, React, D3
 - [Syanoks](#syanoks) - **streaming:** Operating System Development, C, Assembly, Shell, Python
@@ -3385,6 +3386,20 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 [(top)](#table-of-contents)
 
 ---
+### Stevan Freeborn
+#### What Stevan streams:
+- .NET, C#, React, Full Stack Development, occasional experiments with Go, Stripe API and AI agents
+#### Streaming on:
+- [YouTube](https://www.youtube.com/@stevanfreeborn/)
+#### Links:
+- [Bluesky](https://bsky.app/profile/stevanfreeborn.com)
+- [GitHub](https://github.com/StevanFreeborn)
+- [Discord](https://discord.stevanfreeborn.com)
+- [LinkedIn](https://www.linkedin.com/in/stevan-freeborn/)
+
+[(top)](#table-of-contents)
+
+---
 ### Suz Hinton
 #### What Suz streams:
 - IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
@@ -3827,4 +3842,5 @@ As well as the awesome developers listed, there are a some team links and catego
 [Web Development](https://www.twitch.tv/directory/all/tags/c23ce252-cf78-4b98-8c11-8769801aaf3a)
 
 [Science & Technology](https://www.twitch.tv/directory/game/Science%20%26%20Technology)
+
 
